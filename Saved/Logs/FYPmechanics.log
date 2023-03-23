@@ -6757,3 +6757,1002 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.23-11.18.47:405][264]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.88% of total time (compiled   11 times, average 1.95 sec, max 10.80 sec, min 0.86 sec)
 [2023.03.23-11.18.47:405][264]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.79% of total time (compiled   10 times, average 2.11 sec, max 10.84 sec, min 0.96 sec)
 [2023.03.23-11.18.47:405][264]LogShaderCompilers: Display: ================================================
+[2023.03.23-11.26.32:441][892]LogViewport: Scene viewport resized to 3056x1905, mode Windowed.
+[2023.03.23-11.48.45:449][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway02.SM_WallA_Doorway02
+[2023.03.23-11.48.45:449][673]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway02.SM_WallA_Doorway02
+[2023.03.23-11.48.45:449][673]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway02.SM_WallA_Doorway02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_7
+[2023.03.23-11.48.47:319][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway02.SM_WallA_Doorway02
+[2023.03.23-11.48.47:319][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway02.SM_WallA_Doorway02
+[2023.03.23-11.48.47:320][867]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway02.SM_WallA_Doorway02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_10
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: ================================================
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Total job queries 869, among them cache hits 258 (29.69%)
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Tracking 608 distinct input hashes that result in 390 distinct outputs (64.14%)
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Shaders Compiled: 245
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Jobs assigned 245, completed 245 (100.00%)
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Average time worker was idle: 28.10 s
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Time job spent in pending queue: average 0.88 s, longest 11.73 s
+[2023.03.23-11.49.14:797][789]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 11.29 s
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Job life time (pending + execution): average 2.50 s, max 16.09
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.61 s
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Jobs were issued in 245 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Average processing rate: 5.04 jobs/sec
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Total thread time: 364.07 s
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Total thread preprocess time: 9.98 s
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Percentage time preprocessing: 2.74%
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Effective parallelization: 7.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 5.94 sec, max 10.96 sec, min 0.92 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 5.70 sec, max 10.49 sec, min 0.92 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 5.36 sec, max 9.99 sec, min 0.74 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 5.07 sec, max 9.35 sec, min 0.80 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 4.89 sec, max 4.89 sec, min 4.89 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.81% of total time (compiled   12 times, average 2.37 sec, max 11.18 sec, min 1.10 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.13% of total time (compiled   12 times, average 1.86 sec, max 10.17 sec, min 0.94 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.00% of total time (compiled   11 times, average 1.99 sec, max 10.70 sec, min 0.90 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.88% of total time (compiled   11 times, average 1.95 sec, max 10.80 sec, min 0.86 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.79% of total time (compiled   10 times, average 2.11 sec, max 10.84 sec, min 0.96 sec)
+[2023.03.23-11.49.14:798][789]LogShaderCompilers: Display: ================================================
+[2023.03.23-11.49.24:233][427]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BankBuilding/Meshes/SM_MBuilding04_Facade_B.SM_MBuilding04_Facade_B
+[2023.03.23-11.49.24:273][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-11.49.24:549][427]LogViewport: Scene viewport resized to 2815x1881, mode Windowed.
+[2023.03.23-11.49.28:084][574]LogSlate: Window 'SM_MBuilding04_Facade_B' being destroyed
+[2023.03.23-11.49.28:127][574]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-11.49.28:128][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-11.49.30:215][746]Cmd: TRANSACTION UNDO
+[2023.03.23-11.49.30:215][746]LogEditorTransaction: Undo Create Actors
+[2023.03.23-11.49.50:190][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_3M.SM_WallA_3M
+[2023.03.23-11.49.50:190][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_3M.SM_WallA_3M
+[2023.03.23-11.49.50:191][378]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_3M.SM_WallA_3M as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_11
+[2023.03.23-11.49.50:920][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_3M.SM_WallA_3M
+[2023.03.23-11.49.50:920][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_3M.SM_WallA_3M
+[2023.03.23-11.49.50:921][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_3M.SM_WallA_3M as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_12
+[2023.03.23-11.51.16:258][364]Cmd: TRANSACTION UNDO
+[2023.03.23-11.51.16:258][364]LogEditorTransaction: Undo Set Location
+[2023.03.23-11.51.17:956][485]Cmd: TRANSACTION UNDO
+[2023.03.23-11.51.17:956][485]LogEditorTransaction: Undo Set Location
+[2023.03.23-11.51.59:222][753]Cmd: DELETE
+[2023.03.23-11.51.59:222][753]Cmd: ACTOR DELETE
+[2023.03.23-11.51.59:225][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-11.51.59:238][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.23-11.51.59:245][753]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.03.23-11.52.51:289][ 94]Cmd: TRANSACTION UNDO
+[2023.03.23-11.52.51:289][ 94]LogEditorTransaction: Undo Set Location
+[2023.03.23-11.53.15:061][122]Cmd: TRANSACTION UNDO
+[2023.03.23-11.53.15:063][122]LogEditorTransaction: Undo Set Location
+[2023.03.23-11.54.48:958][792]LogShaderCompilers: Display: ================================================
+[2023.03.23-11.54.48:958][792]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-11.54.48:958][792]LogShaderCompilers: Display: Total job queries 891, among them cache hits 264 (29.63%)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Tracking 624 distinct input hashes that result in 406 distinct outputs (65.06%)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: RAM used: 1.84 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Shaders Compiled: 254
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Jobs assigned 254, completed 254 (100.00%)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Average time worker was idle: 118.43 s
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Time job spent in pending queue: average 0.85 s, longest 11.73 s
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 11.29 s
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Job life time (pending + execution): average 2.45 s, max 16.09
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.81 s
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Jobs were issued in 254 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Average processing rate: 5.00 jobs/sec
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Total thread time: 367.38 s
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Total thread preprocess time: 10.18 s
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Percentage time preprocessing: 2.77%
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Effective parallelization: 7.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 5.94 sec, max 10.96 sec, min 0.92 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 5.70 sec, max 10.49 sec, min 0.92 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 5.36 sec, max 9.99 sec, min 0.74 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 5.07 sec, max 9.35 sec, min 0.80 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 4.89 sec, max 4.89 sec, min 4.89 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.74% of total time (compiled   12 times, average 2.37 sec, max 11.18 sec, min 1.10 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.07% of total time (compiled   12 times, average 1.86 sec, max 10.17 sec, min 0.94 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.95% of total time (compiled   11 times, average 1.99 sec, max 10.70 sec, min 0.90 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.83% of total time (compiled   11 times, average 1.95 sec, max 10.80 sec, min 0.86 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.74% of total time (compiled   10 times, average 2.11 sec, max 10.84 sec, min 0.96 sec)
+[2023.03.23-11.54.48:959][792]LogShaderCompilers: Display: ================================================
+[2023.03.23-11.54.58:021][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-11.54.58:021][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-11.54.58:022][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_30
+[2023.03.23-11.55.02:106][906]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-11.55.02:106][906]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-11.55.02:107][906]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46
+[2023.03.23-11.55.23:071][431]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:071][431]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:119][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:119][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:120][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:120][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:120][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:120][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:126][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:126][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:127][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:127][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:128][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:128][433]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:147][435]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:147][435]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:148][435]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:148][435]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:168][437]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:169][437]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:169][437]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:169][437]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:196][440]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:196][440]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:197][440]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:197][440]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:217][442]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:217][442]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:218][442]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:218][442]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:243][445]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:243][445]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:244][445]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:244][445]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:269][448]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:269][448]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:583][485]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:583][485]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.23:905][508]Cmd: TRANSACTION UNDO
+[2023.03.23-11.55.23:905][508]LogEditorTransaction: Undo Set Location
+[2023.03.23-11.55.23:923][508]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=1.000
+[2023.03.23-11.55.40:569][855]Cmd: DELETE
+[2023.03.23-11.55.40:569][855]Cmd: ACTOR DELETE
+[2023.03.23-11.55.40:574][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-11.55.40:583][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.03.23-11.55.40:593][855]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.03.23-11.55.43:481][100]LogDerivedDataCache: C:/Users/mathu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.086 and deleted 0 files with total size 0 MiB. Scanned 24264 files in 23228 folders with total size 1957 MiB.
+[2023.03.23-11.55.55:901][147]Cmd: DELETE
+[2023.03.23-11.55.55:901][147]Cmd: ACTOR DELETE
+[2023.03.23-11.55.55:904][147]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-11.55.55:911][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.23-11.55.55:916][147]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.03.23-11.56.09:333][264]Cmd: DELETE
+[2023.03.23-11.56.09:333][264]Cmd: ACTOR DELETE
+[2023.03.23-11.56.09:335][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-11.56.09:341][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.23-11.56.09:347][264]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-11.56.48:548][503]Cmd: DELETE
+[2023.03.23-11.56.48:548][503]Cmd: ACTOR DELETE
+[2023.03.23-11.56.48:551][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-11.56.48:559][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.03.23-11.56.48:566][503]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.03.23-11.56.56:328][134]Cmd: DELETE
+[2023.03.23-11.56.56:328][134]Cmd: ACTOR DELETE
+[2023.03.23-11.56.56:331][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-11.56.56:339][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.23-11.56.56:345][134]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-11.57.09:847][246]Cmd: TRANSACTION UNDO
+[2023.03.23-11.57.09:847][246]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.00.00:031][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.23-12.00.00:069][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.23-12.00.00:100][130]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_Lab
+[2023.03.23-12.00.00:101][130]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_Lab9038913743E79D34D84BBC85A5EFF880.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Level_Lab.umap'
+[2023.03.23-12.00.00:115][130]LogFileHelpers: Saving map 'Level_Lab' took 0.053
+[2023.03.23-12.00.00:120][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 50.3 sec)
+[2023.03.23-12.00.00:126][130]AssetCheck: New page: Asset Save: Level_Lab
+[2023.03.23-12.00.00:126][130]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Lab.Level_Lab
+[2023.03.23-12.00.17:736][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.00.17:750][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.00.17:751][621]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:00:17)
+[2023.03.23-12.00.17:761][621]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.23-12.00.17:762][621]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.23-12.00.17:762][621]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.00.17:778][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015334s)
+[2023.03.23-12.00.17:778][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.016439s)
+[2023.03.23-12.00.17:779][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.00.17:779][621]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.00.17:780][621]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2023.03.23-12.00.17:787][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.23-12.00.17:790][621]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.00.17:790][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.00.17:790][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.00.17:790][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.00.17:790][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.00.17:790][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.00.17:793][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.00.17:811][621]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.00.17:811][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.00.17:811][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.00.17:811][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.00.17:813][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.23-12.00.17:813][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.23-12.00.17:814][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.23-12.00.17:814][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.23-12.00.17:814][621]LogInit: FAudioDevice initialized.
+[2023.03.23-12.00.17:814][621]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_Lab'.
+[2023.03.23-12.00.17:817][621]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.00.17:824][621]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.00.17
+[2023.03.23-12.00.17:825][621]LogWorld: Bringing up level for play took: 0.006932
+[2023.03.23-12.00.17:827][621]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.03.23-12.00.17:872][621]PIE: Server logged in
+[2023.03.23-12.00.17:873][621]PIE: Play in editor total start time 0.13 seconds.
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: ================================================
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Total job queries 895, among them cache hits 266 (29.72%)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Tracking 626 distinct input hashes that result in 408 distinct outputs (65.18%)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: RAM used: 1.84 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Shaders Compiled: 254
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Jobs assigned 254, completed 254 (100.00%)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Average time worker was idle: 118.43 s
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Time job spent in pending queue: average 0.85 s, longest 11.73 s
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 11.29 s
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Job life time (pending + execution): average 2.45 s, max 16.09
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.81 s
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Jobs were issued in 254 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Average processing rate: 5.00 jobs/sec
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Total thread time: 367.38 s
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Total thread preprocess time: 10.18 s
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Percentage time preprocessing: 2.77%
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Effective parallelization: 7.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 5.94 sec, max 10.96 sec, min 0.92 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 5.70 sec, max 10.49 sec, min 0.92 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 5.36 sec, max 9.99 sec, min 0.74 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 5.07 sec, max 9.35 sec, min 0.80 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 4.89 sec, max 4.89 sec, min 4.89 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.74% of total time (compiled   12 times, average 2.37 sec, max 11.18 sec, min 1.10 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.07% of total time (compiled   12 times, average 1.86 sec, max 10.17 sec, min 0.94 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.95% of total time (compiled   11 times, average 1.99 sec, max 10.70 sec, min 0.90 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.83% of total time (compiled   11 times, average 1.95 sec, max 10.80 sec, min 0.86 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.74% of total time (compiled   10 times, average 2.11 sec, max 10.84 sec, min 0.96 sec)
+[2023.03.23-12.00.18:006][622]LogShaderCompilers: Display: ================================================
+[2023.03.23-12.00.44:921][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_0.InteractUI_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.03.23-12.00.52:727][755]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_0.InteractUI_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.03.23-12.00.56:213][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_0.InteractUI_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.03.23-12.01.12:838][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.01.12:838][571]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.01.12:839][571]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.01.12:840][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.01.12:842][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.01.12:847][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.01.12:855][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.01.12:856][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.23-12.01.12:857][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.23-12.01.12:864][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.23-12.01.12:920][572]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.03.23-12.02.09:410][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-12.02.09:410][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-12.02.09:410][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_85
+[2023.03.23-12.02.09:640][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-12.02.09:640][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-12.02.09:641][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Level_Lab.Level_Lab:PersistentLevel.StaticMeshActor_86
+[2023.03.23-12.02.15:872][589]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_WallA_Doorway03.SM_WallA_Doorway03
+[2023.03.23-12.02.15:910][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.02.16:175][589]LogViewport: Scene viewport resized to 2815x1881, mode Windowed.
+[2023.03.23-12.02.19:131][712]LogSlate: Window 'SM_WallA_Doorway03' being destroyed
+[2023.03.23-12.02.19:201][712]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.02.19:201][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.02.21:261][837]Cmd: DELETE
+[2023.03.23-12.02.21:261][837]Cmd: ACTOR DELETE
+[2023.03.23-12.02.21:265][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.02.21:275][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.23-12.02.21:280][837]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.03.23-12.03.01:692][182]Cmd: DELETE
+[2023.03.23-12.03.01:692][182]Cmd: ACTOR DELETE
+[2023.03.23-12.03.01:694][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.03.01:702][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.23-12.03.01:706][182]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.03.23-12.06.06:637][950]Cmd: TRANSACTION UNDO
+[2023.03.23-12.06.06:637][950]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.06.07:053][957]Cmd: TRANSACTION UNDO
+[2023.03.23-12.06.07:053][957]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.06.07:517][983]Cmd: TRANSACTION UNDO
+[2023.03.23-12.06.07:517][983]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.06.33:363][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.06.33:370][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.06.33:370][878]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:06:33)
+[2023.03.23-12.06.33:370][878]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.06.33:381][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010553s)
+[2023.03.23-12.06.33:381][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.010581s)
+[2023.03.23-12.06.33:381][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.06.33:381][878]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.06.33:382][878]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2023.03.23-12.06.33:389][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.23-12.06.33:396][878]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.06.33:396][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.06.33:396][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.06.33:396][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.06.33:396][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.06.33:396][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.06.33:398][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.06.33:416][878]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.06.33:416][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.06.33:416][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.06.33:416][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.06.33:417][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.03.23-12.06.33:417][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.03.23-12.06.33:418][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.03.23-12.06.33:418][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.03.23-12.06.33:418][878]LogInit: FAudioDevice initialized.
+[2023.03.23-12.06.33:418][878]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_Lab'.
+[2023.03.23-12.06.33:420][878]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.06.33:426][878]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.06.33
+[2023.03.23-12.06.33:426][878]LogWorld: Bringing up level for play took: 0.005797
+[2023.03.23-12.06.33:428][878]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.23-12.06.33:432][878]PIE: Server logged in
+[2023.03.23-12.06.33:432][878]PIE: Play in editor total start time 0.062 seconds.
+[2023.03.23-12.06.50:914][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.06.50:914][527]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.06.50:914][527]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.06.50:916][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.06.50:919][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.06.50:923][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.06.50:931][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-12.06.50:931][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.23-12.06.50:932][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.23-12.06.50:936][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.06.50:939][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.23-12.06.51:001][528]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.23-12.07.07:196][760]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.23-12.07.07:196][760]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.03.23-12.07.27:206][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.07.27:214][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.07.27:214][181]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:07:27)
+[2023.03.23-12.07.27:234][181]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.07.27:246][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011623s)
+[2023.03.23-12.07.27:246][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.011658s)
+[2023.03.23-12.07.27:246][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.07.27:246][181]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.07.27:247][181]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2023.03.23-12.07.27:254][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.23-12.07.27:260][181]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.07.27:260][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.07.27:260][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.07.27:260][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.07.27:260][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.07.27:260][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.07.27:262][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.07.27:278][181]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.07.27:279][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.07.27:279][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.07.27:279][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.07.27:280][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.03.23-12.07.27:280][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.03.23-12.07.27:281][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.03.23-12.07.27:281][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.03.23-12.07.27:281][181]LogInit: FAudioDevice initialized.
+[2023.03.23-12.07.27:281][181]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_Lab'.
+[2023.03.23-12.07.27:282][181]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.07.27:288][181]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.07.27
+[2023.03.23-12.07.27:288][181]LogWorld: Bringing up level for play took: 0.006046
+[2023.03.23-12.07.27:290][181]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.03.23-12.07.27:295][181]PIE: Server logged in
+[2023.03.23-12.07.27:296][181]PIE: Play in editor total start time 0.082 seconds.
+[2023.03.23-12.07.47:433][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.07.47:435][890]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.07.47:435][890]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.07.47:436][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.07.47:440][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.07.47:442][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.07.47:452][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-12.07.47:452][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.23-12.07.47:454][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.23-12.07.47:457][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.07.47:460][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.23-12.07.47:519][891]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.03.23-12.08.09:851][508]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BankBuilding/Meshes/SM_MBuilding04_Facade_A.SM_MBuilding04_Facade_A
+[2023.03.23-12.08.09:892][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.08.10:148][508]LogViewport: Scene viewport resized to 2815x1881, mode Windowed.
+[2023.03.23-12.08.14:179][704]LogSlate: Window 'SM_MBuilding04_Facade_A' being destroyed
+[2023.03.23-12.08.14:251][704]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.08.14:251][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.08.41:005][702]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BankBuilding/Meshes/SM_MBuilding04_Facade_A.SM_MBuilding04_Facade_A
+[2023.03.23-12.08.41:047][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.08.41:297][702]LogViewport: Scene viewport resized to 2815x1881, mode Windowed.
+[2023.03.23-12.08.47:347][  0]LogSlate: Window 'SM_MBuilding04_Facade_A' being destroyed
+[2023.03.23-12.08.47:412][  0]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.08.47:412][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.10.04:097][912]Cmd: TRANSACTION UNDO
+[2023.03.23-12.10.04:097][912]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.10.44:366][ 37]Cmd: TRANSACTION UNDO
+[2023.03.23-12.10.44:366][ 37]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.12.01:617][791]Cmd: TRANSACTION UNDO
+[2023.03.23-12.12.01:617][791]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.12.52:474][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.23-12.12.52:508][662]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Level_Lab_Auto2
+[2023.03.23-12.12.52:509][662]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_Lab_Auto24F13C0414C3DDE18477A7A9381E2BD69.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Level_Lab_Auto2.umap'
+[2023.03.23-12.12.52:516][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_Lab' took 0.051
+[2023.03.23-12.12.52:516][662]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.03.23-12.12.54:995][858]Cmd: TRANSACTION UNDO
+[2023.03.23-12.12.54:995][858]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.14.27:106][782]Cmd: DELETE
+[2023.03.23-12.14.27:106][782]Cmd: ACTOR DELETE
+[2023.03.23-12.14.27:109][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.14.27:117][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.23-12.14.27:124][782]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.03.23-12.14.35:364][426]Cmd: DELETE
+[2023.03.23-12.14.35:364][426]Cmd: ACTOR DELETE
+[2023.03.23-12.14.35:366][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.14.35:372][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.14.35:378][426]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.23-12.15.17:967][605]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.15.17:975][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.15.17:975][605]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:15:17)
+[2023.03.23-12.15.17:975][605]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.15.17:987][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010793s)
+[2023.03.23-12.15.17:987][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.010824s)
+[2023.03.23-12.15.17:987][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.15.17:987][605]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.15.17:987][605]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2023.03.23-12.15.17:994][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.23-12.15.18:000][605]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.23-12.15.18:000][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.15.18:000][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.15.18:001][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.15.18:001][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.15.18:001][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.15.18:001][605]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.15.18:001][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.15.18:001][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.15.18:001][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.15.18:001][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.15.18:001][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.15.18:002][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.15.18:021][605]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.15.18:021][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.15.18:021][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.15.18:021][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.15.18:022][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.03.23-12.15.18:022][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.03.23-12.15.18:023][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.03.23-12.15.18:023][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.03.23-12.15.18:023][605]LogInit: FAudioDevice initialized.
+[2023.03.23-12.15.18:023][605]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_Lab'.
+[2023.03.23-12.15.18:024][605]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.15.18:030][605]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.15.18
+[2023.03.23-12.15.18:030][605]LogWorld: Bringing up level for play took: 0.005949
+[2023.03.23-12.15.18:032][605]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.03.23-12.15.18:036][605]PIE: Server logged in
+[2023.03.23-12.15.18:036][605]PIE: Play in editor total start time 0.062 seconds.
+[2023.03.23-12.15.39:135][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.15.39:135][453]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.15.39:135][453]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.15.39:136][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.15.39:139][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.15.39:142][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.15.39:151][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-12.15.39:151][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.23-12.15.39:152][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.23-12.15.39:155][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.15.39:159][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.23-12.15.39:212][454]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.03.23-12.15.46:721][ 15]Cmd: TRANSACTION UNDO
+[2023.03.23-12.15.46:721][ 15]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.17.06:034][ 40]Cmd: TRANSACTION UNDO
+[2023.03.23-12.17.06:034][ 40]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.17.54:494][849]Cmd: TRANSACTION UNDO
+[2023.03.23-12.17.54:494][849]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.18.07:681][887]Cmd: TRANSACTION UNDO
+[2023.03.23-12.18.07:681][887]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.18.10:992][130]Cmd: TRANSACTION UNDO
+[2023.03.23-12.18.10:992][130]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.18.22:457][  5]Cmd: TRANSACTION UNDO
+[2023.03.23-12.18.22:457][  5]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.18.24:612][156]Cmd: TRANSACTION UNDO
+[2023.03.23-12.18.24:612][156]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.18.25:871][255]Cmd: TRANSACTION UNDO
+[2023.03.23-12.18.25:871][255]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.18.49:214][ 66]Cmd: TRANSACTION UNDO
+[2023.03.23-12.18.49:214][ 66]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.19.06:127][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.19.06:134][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.19.06:134][346]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:19:06)
+[2023.03.23-12.19.06:134][346]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.19.06:145][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010693s)
+[2023.03.23-12.19.06:145][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.010724s)
+[2023.03.23-12.19.06:145][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.19.06:145][346]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.19.06:146][346]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2023.03.23-12.19.06:153][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.23-12.19.06:160][346]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.23-12.19.06:160][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.19.06:160][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.19.06:160][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.19.06:161][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.19.06:161][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.19.06:161][346]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.19.06:161][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.19.06:161][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.19.06:161][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.19.06:161][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.19.06:161][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.19.06:163][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.19.06:180][346]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.19.06:180][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.19.06:180][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.19.06:180][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.19.06:181][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.23-12.19.06:181][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.23-12.19.06:182][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.23-12.19.06:182][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.23-12.19.06:182][346]LogInit: FAudioDevice initialized.
+[2023.03.23-12.19.06:182][346]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_Lab'.
+[2023.03.23-12.19.06:183][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.19.06:190][346]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.19.06
+[2023.03.23-12.19.06:191][346]LogWorld: Bringing up level for play took: 0.006566
+[2023.03.23-12.19.06:192][346]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.03.23-12.19.06:196][346]PIE: Server logged in
+[2023.03.23-12.19.06:197][346]PIE: Play in editor total start time 0.062 seconds.
+[2023.03.23-12.19.22:904][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.19.22:904][781]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.19.22:906][781]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.19.22:907][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.19.22:909][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.19.22:913][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.19.22:921][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-12.19.22:921][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.23-12.19.22:923][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.23-12.19.22:926][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.19.22:930][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.23-12.19.22:983][782]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.03.23-12.21.10:272][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.23-12.21.10:314][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.23-12.21.10:351][866]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_Lab
+[2023.03.23-12.21.10:351][866]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_LabB7CB251142C6BE1A718814829D8586DF.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Level_Lab.umap'
+[2023.03.23-12.21.10:364][866]LogFileHelpers: Saving map 'Level_Lab' took 0.058
+[2023.03.23-12.21.10:370][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 50.4 sec)
+[2023.03.23-12.21.10:374][866]AssetCheck: New page: Asset Save: Level_Lab
+[2023.03.23-12.21.10:374][866]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Lab.Level_Lab
+[2023.03.23-12.22.37:776][277]Cmd: TRANSACTION UNDO
+[2023.03.23-12.22.37:776][277]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.23.20:180][196]Cmd: DELETE
+[2023.03.23-12.23.20:180][196]Cmd: ACTOR DELETE
+[2023.03.23-12.23.20:183][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.23.20:193][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.23-12.23.20:200][196]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.03.23-12.24.04:529][419]Cmd: DELETE
+[2023.03.23-12.24.04:530][419]Cmd: ACTOR DELETE
+[2023.03.23-12.24.04:533][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.24.04:540][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.24.04:544][419]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-12.24.35:397][691]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.35:397][691]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.24.35:774][703]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.35:774][703]LogEditorTransaction: Undo Scale Elements
+[2023.03.23-12.24.36:112][724]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.36:112][724]LogEditorTransaction: Undo Scale Elements
+[2023.03.23-12.24.36:629][762]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.36:629][762]LogEditorTransaction: Undo Scale Elements
+[2023.03.23-12.24.37:003][788]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.37:003][788]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.24.37:392][815]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.37:392][815]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.24.37:751][840]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.37:751][840]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.24.38:050][860]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.38:050][860]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.24.38:408][885]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.38:408][885]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.24.38:764][912]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.38:764][912]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.24.39:199][938]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.39:199][938]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.24.39:611][955]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.39:611][955]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.24.44:274][303]Cmd: TRANSACTION UNDO
+[2023.03.23-12.24.44:274][303]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.25.46:167][927]Cmd: TRANSACTION UNDO
+[2023.03.23-12.25.46:167][927]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.27.05:053][464]Cmd: DELETE
+[2023.03.23-12.27.05:053][464]Cmd: ACTOR DELETE
+[2023.03.23-12.27.05:057][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.27.05:068][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.23-12.27.05:075][464]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.03.23-12.27.44:845][434]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.27.44:853][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.27.44:853][434]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:27:44)
+[2023.03.23-12.27.44:875][434]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.27.44:886][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011253s)
+[2023.03.23-12.27.44:886][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.011298s)
+[2023.03.23-12.27.44:886][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.27.44:887][434]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.27.44:887][434]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2023.03.23-12.27.44:893][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.23-12.27.44:899][434]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.27.44:899][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.27.44:899][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.27.44:899][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.27.44:899][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.27.44:899][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.27.44:901][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.27.44:918][434]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.27.44:918][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.27.44:918][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.27.44:918][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.27.44:919][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.03.23-12.27.44:919][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.03.23-12.27.44:920][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.03.23-12.27.44:920][434]LogInit: FAudioDevice initialized.
+[2023.03.23-12.27.44:920][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.03.23-12.27.44:920][434]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_Lab'.
+[2023.03.23-12.27.44:922][434]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.27.44:928][434]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.27.44
+[2023.03.23-12.27.44:928][434]LogWorld: Bringing up level for play took: 0.006287
+[2023.03.23-12.27.44:930][434]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.03.23-12.27.44:935][434]PIE: Server logged in
+[2023.03.23-12.27.44:935][434]PIE: Play in editor total start time 0.082 seconds.
+[2023.03.23-12.27.54:515][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.27.54:515][224]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.27.54:516][224]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.27.54:517][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.27.54:519][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.27.54:522][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.27.54:529][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.27.54:532][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.23-12.27.54:533][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.23-12.27.54:540][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.23-12.27.54:598][225]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.03.23-12.28.21:179][950]Cmd: TRANSACTION UNDO
+[2023.03.23-12.28.21:179][950]LogEditorTransaction: Undo Create Actors
+[2023.03.23-12.30.31:743][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.23-12.30.31:788][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.23-12.30.31:824][159]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_Lab
+[2023.03.23-12.30.31:825][159]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_Lab1AC74D8944AF576A46F971AC57F61700.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Level_Lab.umap'
+[2023.03.23-12.30.31:836][159]LogFileHelpers: Saving map 'Level_Lab' took 0.057
+[2023.03.23-12.30.31:843][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 50.5 sec)
+[2023.03.23-12.30.31:846][159]AssetCheck: New page: Asset Save: Level_Lab
+[2023.03.23-12.30.31:846][159]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Lab.Level_Lab
+[2023.03.23-12.31.59:675][328]Cmd: TRANSACTION UNDO
+[2023.03.23-12.31.59:675][328]LogEditorTransaction: Undo Scale Elements
+[2023.03.23-12.31.59:908][335]Cmd: TRANSACTION UNDO
+[2023.03.23-12.31.59:908][335]LogEditorTransaction: Undo Scale Elements
+[2023.03.23-12.32.00:252][350]Cmd: TRANSACTION UNDO
+[2023.03.23-12.32.00:252][350]LogEditorTransaction: Undo Scale Elements
+[2023.03.23-12.32.01:459][437]Cmd: DELETE
+[2023.03.23-12.32.01:459][437]Cmd: ACTOR DELETE
+[2023.03.23-12.32.01:462][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.32.01:473][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.23-12.32.01:481][437]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.03.23-12.32.20:098][866]Cmd: DELETE
+[2023.03.23-12.32.20:098][866]Cmd: ACTOR DELETE
+[2023.03.23-12.32.20:101][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.32.20:108][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.32.20:113][866]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-12.32.22:613][ 61]Cmd: DELETE
+[2023.03.23-12.32.22:613][ 61]Cmd: ACTOR DELETE
+[2023.03.23-12.32.22:616][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.32.22:623][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.32.22:627][ 61]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.23-12.32.35:415][946]Cmd: DELETE
+[2023.03.23-12.32.35:415][946]Cmd: ACTOR DELETE
+[2023.03.23-12.32.35:418][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.32.35:426][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.32.35:431][946]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-12.33.02:278][798]Cmd: TRANSACTION UNDO
+[2023.03.23-12.33.02:278][798]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.40.31:792][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.23-12.40.31:826][204]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Level_Lab_Auto3
+[2023.03.23-12.40.31:826][204]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_Lab_Auto39981D6844E3BF9E706948C9E5FD6A3BA.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Level_Lab_Auto3.umap'
+[2023.03.23-12.40.31:833][204]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_Lab' took 0.049
+[2023.03.23-12.40.31:833][204]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2023.03.23-12.42.09:572][128]Cmd: TRANSACTION UNDO
+[2023.03.23-12.42.09:572][128]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.42.20:757][929]Cmd: DELETE
+[2023.03.23-12.42.20:757][929]Cmd: ACTOR DELETE
+[2023.03.23-12.42.20:760][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.42.20:768][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.23-12.42.20:774][929]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.03.23-12.42.26:968][485]Cmd: TRANSACTION UNDO
+[2023.03.23-12.42.26:968][485]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.42.56:892][638]Cmd: DELETE
+[2023.03.23-12.42.56:892][638]Cmd: ACTOR DELETE
+[2023.03.23-12.42.56:895][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.42.56:902][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.23-12.42.56:908][638]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-12.42.57:548][682]Cmd: DELETE
+[2023.03.23-12.42.57:548][682]Cmd: ACTOR DELETE
+[2023.03.23-12.42.57:551][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.42.57:559][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.23-12.42.57:563][682]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.23-12.42.58:577][756]Cmd: DELETE
+[2023.03.23-12.42.58:577][756]Cmd: ACTOR DELETE
+[2023.03.23-12.42.58:580][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.42.58:587][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.42.58:592][756]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.23-12.43.58:831][834]Cmd: DELETE
+[2023.03.23-12.43.58:831][834]Cmd: ACTOR DELETE
+[2023.03.23-12.43.58:834][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.43.58:842][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.23-12.43.58:848][834]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.03.23-12.44.26:921][857]Cmd: TRANSACTION UNDO
+[2023.03.23-12.44.26:921][857]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.44.31:161][151]Cmd: TRANSACTION UNDO
+[2023.03.23-12.44.31:161][151]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.46.05:806][776]Cmd: TRANSACTION UNDO
+[2023.03.23-12.46.05:806][776]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.46.26:410][251]Cmd: DELETE
+[2023.03.23-12.46.26:410][251]Cmd: ACTOR DELETE
+[2023.03.23-12.46.26:413][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.46.26:420][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.46.26:427][251]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.03.23-12.46.26:963][291]Cmd: DELETE
+[2023.03.23-12.46.26:963][291]Cmd: ACTOR DELETE
+[2023.03.23-12.46.26:966][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.46.26:972][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.23-12.46.26:977][291]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.03.23-12.46.28:424][406]Cmd: DELETE
+[2023.03.23-12.46.28:424][406]Cmd: ACTOR DELETE
+[2023.03.23-12.46.28:427][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.46.28:434][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.46.28:439][406]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.03.23-12.46.29:762][524]Cmd: TRANSACTION UNDO
+[2023.03.23-12.46.29:762][524]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.46.55:692][369]Cmd: TRANSACTION UNDO
+[2023.03.23-12.46.55:692][369]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.46.56:088][383]Cmd: TRANSACTION UNDO
+[2023.03.23-12.46.56:088][383]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.47.03:804][940]Cmd: DELETE
+[2023.03.23-12.47.03:804][940]Cmd: ACTOR DELETE
+[2023.03.23-12.47.03:807][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.47.03:814][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.23-12.47.03:822][940]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.03.23-12.47.24:114][380]Cmd: DELETE
+[2023.03.23-12.47.24:114][380]Cmd: ACTOR DELETE
+[2023.03.23-12.47.24:118][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.47.24:124][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.23-12.47.24:130][380]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.03.23-12.47.25:339][481]Cmd: DELETE
+[2023.03.23-12.47.25:339][481]Cmd: ACTOR DELETE
+[2023.03.23-12.47.25:342][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.47.25:349][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.23-12.47.25:353][481]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.23-12.47.26:159][545]Cmd: DELETE
+[2023.03.23-12.47.26:159][545]Cmd: ACTOR DELETE
+[2023.03.23-12.47.26:162][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.47.26:169][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.47.26:173][545]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.23-12.48.18:182][342]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.18:182][342]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.18:383][347]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.18:383][347]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.48.18:567][352]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.18:567][352]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.48.18:768][362]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.18:768][362]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.18:996][378]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.18:996][378]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.48.19:223][395]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.19:223][395]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.19:450][411]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.19:450][411]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.48.19:675][428]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.19:676][428]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.19:968][449]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.19:968][449]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.48.20:268][471]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.20:268][471]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.20:561][492]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.20:561][492]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.20:870][514]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.20:870][514]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.48.21:203][539]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.21:203][539]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.21:614][568]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.21:614][568]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.21:952][596]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.21:952][596]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.48.22:347][607]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.22:347][607]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.22:714][631]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.22:714][631]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.48.23:056][652]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.23:056][652]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.48.23:423][685]Cmd: TRANSACTION UNDO
+[2023.03.23-12.48.23:423][685]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.50.02:477][767]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.02:477][767]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.02:858][779]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.02:858][779]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.03:229][802]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.03:229][802]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.03:573][827]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.03:573][827]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.04:066][863]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.04:066][863]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.04:344][879]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.04:344][879]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.04:773][909]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.04:773][909]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.08:737][176]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.08:737][176]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.09:052][182]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.09:052][182]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.09:337][192]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.09:337][192]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.18:166][864]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.18:166][864]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.18:470][873]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.18:470][873]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.18:733][884]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.18:733][884]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.19:096][910]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.19:096][910]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.19:457][937]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.19:457][937]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.19:846][961]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.19:846][961]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.20:204][985]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.20:204][985]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.20:582][ 11]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.20:582][ 11]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.20:881][ 33]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.20:881][ 33]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.21:183][ 55]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.21:183][ 55]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.50.21:498][ 78]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.21:498][ 78]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.50.21:864][103]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.21:864][103]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.50.22:459][129]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.22:459][129]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.50.22:846][158]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.22:846][158]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.23:236][185]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.23:237][185]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.23:620][211]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.23:620][211]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.24:199][254]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.24:199][254]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.50.24:566][281]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.24:566][281]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.24:974][316]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.24:974][316]LogEditorTransaction: Undo Delete Elements
+[2023.03.23-12.50.25:439][343]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.25:439][343]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.23-12.50.26:700][418]Cmd: DELETE
+[2023.03.23-12.50.26:700][418]Cmd: ACTOR DELETE
+[2023.03.23-12.50.26:701][418]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2023.03.23-12.50.26:704][418]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.50.26:711][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.23-12.50.26:720][418]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.03.23-12.50.45:218][987]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.45:218][987]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.50.58:138][ 10]Cmd: TRANSACTION UNDO
+[2023.03.23-12.50.58:138][ 10]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.51.04:214][479]Cmd: TRANSACTION UNDO
+[2023.03.23-12.51.04:214][479]LogEditorTransaction: Undo Set Scale
+[2023.03.23-12.51.22:886][887]Cmd: TRANSACTION UNDO
+[2023.03.23-12.51.22:886][887]LogEditorTransaction: Undo Set Location
+[2023.03.23-12.53.38:693][201]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.23-12.53.38:701][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-12.53.38:701][201]PIE: New page: PIE session: Level_Lab (23 Mar 2023, 12:53:38)
+[2023.03.23-12.53.38:701][201]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.53.38:712][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011509s)
+[2023.03.23-12.53.38:712][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Lab.Level_Lab to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab (0.011541s)
+[2023.03.23-12.53.38:712][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-12.53.38:712][201]LogAIModule: Creating AISystem for world Level_Lab
+[2023.03.23-12.53.38:713][201]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2023.03.23-12.53.38:721][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.23-12.53.38:727][201]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-12.53.38:727][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-12.53.38:727][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-12.53.38:727][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-12.53.38:727][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-12.53.38:727][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-12.53.38:730][201]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-12.53.38:747][201]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2023.03.23-12.53.38:748][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-12.53.38:748][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-12.53.38:748][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-12.53.38:748][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.03.23-12.53.38:748][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.03.23-12.53.38:749][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.03.23-12.53.38:749][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.03.23-12.53.38:749][201]LogInit: FAudioDevice initialized.
+[2023.03.23-12.53.38:750][201]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_Lab'.
+[2023.03.23-12.53.38:752][201]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.23-12.53.38:760][201]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab.Level_Lab up for play (max tick rate 0) at 2023.03.23-12.53.38
+[2023.03.23-12.53.38:760][201]LogWorld: Bringing up level for play took: 0.007038
+[2023.03.23-12.53.38:762][201]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.03.23-12.53.38:765][201]PIE: Server logged in
+[2023.03.23-12.53.38:766][201]PIE: Play in editor total start time 0.066 seconds.
+[2023.03.23-12.54.06:507][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.54.06:507][443]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Lab
+[2023.03.23-12.54.06:507][443]LogWorld: UWorld::CleanupWorld for Level_Lab, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-12.54.06:508][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.54.06:511][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-12.54.06:514][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-12.54.06:524][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-12.54.06:524][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.23-12.54.06:525][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.23-12.54.06:530][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-12.54.06:533][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.23-12.54.06:591][444]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.03.23-12.55.42:736][155]LogDerivedDataCache: C:/Users/mathu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.340 and deleted 0 files with total size 0 MiB. Scanned 24266 files in 23230 folders with total size 1957 MiB.
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: ================================================
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Total job queries 902, among them cache hits 270 (29.93%)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Tracking 629 distinct input hashes that result in 411 distinct outputs (65.34%)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: RAM used: 1.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Shaders Compiled: 257
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Jobs assigned 257, completed 257 (100.00%)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Average time worker was idle: 136.36 s
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Time job spent in pending queue: average 0.85 s, longest 11.73 s
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 11.29 s
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Job life time (pending + execution): average 2.42 s, max 16.09
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 52.25 s
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Jobs were issued in 257 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Average processing rate: 4.92 jobs/sec
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Total thread time: 367.64 s
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Total thread preprocess time: 10.23 s
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Percentage time preprocessing: 2.78%
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Effective parallelization: 7.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 5.94 sec, max 10.96 sec, min 0.92 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 5.70 sec, max 10.49 sec, min 0.92 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 5.36 sec, max 9.99 sec, min 0.74 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 5.07 sec, max 9.35 sec, min 0.80 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 4.89 sec, max 4.89 sec, min 4.89 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.74% of total time (compiled   12 times, average 2.37 sec, max 11.18 sec, min 1.10 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.07% of total time (compiled   12 times, average 1.86 sec, max 10.17 sec, min 0.94 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.94% of total time (compiled   11 times, average 1.99 sec, max 10.70 sec, min 0.90 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.83% of total time (compiled   11 times, average 1.95 sec, max 10.80 sec, min 0.86 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.73% of total time (compiled   10 times, average 2.11 sec, max 10.84 sec, min 0.96 sec)
+[2023.03.23-12.57.03:771][208]LogShaderCompilers: Display: ================================================
+[2023.03.23-12.57.18:649][140]Cmd: TRANSACTION UNDO
+[2023.03.23-12.57.18:649][140]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.57.20:274][230]Cmd: TRANSACTION UNDO
+[2023.03.23-12.57.20:274][230]LogEditorTransaction: Undo Move Elements
+[2023.03.23-12.57.29:212][822]Cmd: DELETE
+[2023.03.23-12.57.29:212][822]Cmd: ACTOR DELETE
+[2023.03.23-12.57.29:215][822]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.23-12.57.29:223][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.23-12.57.29:230][822]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.03.23-12.57.46:372][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.23-12.57.46:421][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.23-12.57.46:455][ 79]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_Lab
+[2023.03.23-12.57.46:455][ 79]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_LabB41BB9E74CB50FAACD4B96948605ADF0.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Level_Lab.umap'
+[2023.03.23-12.57.46:468][ 79]LogFileHelpers: Saving map 'Level_Lab' took 0.054
+[2023.03.23-12.57.46:473][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 50.6 sec)
+[2023.03.23-12.57.46:478][ 79]AssetCheck: New page: Asset Save: Level_Lab
+[2023.03.23-12.57.46:478][ 79]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Lab.Level_Lab
+[2023.03.23-12.59.08:373][401]LogViewport: Scene viewport resized to 3056x1881, mode Windowed.
+[2023.03.23-13.06.37:130][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.23-13.06.37:175][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.23-13.06.37:206][135]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_Lab
+[2023.03.23-13.06.37:207][135]LogSavePackage: Moving '../../../../../../Users/mathu/Documents/GitHub/FYP/Saved/Level_Lab73A4A7164C9D269E59ACD79CC477A2F8.tmp' to '../../../../../../Users/mathu/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Level_Lab.umap'
+[2023.03.23-13.06.37:217][135]LogFileHelpers: Saving map 'Level_Lab' took 0.051
+[2023.03.23-13.06.37:222][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 50.7 sec)
+[2023.03.23-13.06.37:228][135]AssetCheck: New page: Asset Save: Level_Lab
+[2023.03.23-13.06.37:228][135]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Lab.Level_Lab
