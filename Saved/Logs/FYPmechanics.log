@@ -20368,3 +20368,1532 @@ Script Stack (0 frames) :
 [2023.03.28-12.20.25:717][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2023.03.28-12.20.25:733][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2023.03.28-12.20.25:747][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.28-12.23.53:982][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-12.23.54:073][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-12.23.55:473][820]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Investigation_level
+[2023.03.28-12.23.55:474][820]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level575B90F146EBD761B9622EA644C43968.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Investigation_level.umap'
+[2023.03.28-12.23.55:516][820]LogFileHelpers: Saving map 'Investigation_level' took 1.468
+[2023.03.28-12.23.55:521][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.54 sec (total: 14.6 sec)
+[2023.03.28-12.23.55:548][820]AssetCheck: New page: Asset Save: Investigation_level
+[2023.03.28-12.23.55:548][820]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Investigation_level.Investigation_level
+[2023.03.28-12.24.20:074][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.28-12.24.20:074][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.28-12.24.20:090][237]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.StaticMeshActor_928
+[2023.03.28-12.24.20:094][237]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.StaticMeshActor_928
+[2023.03.28-12.24.35:581][947]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-12.24.35:590][947]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.28-12.24.35:591][947]LogPlayLevel: [PlayLevel] Compiling BP_Picture before play...
+[2023.03.28-12.24.35:596][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Picture.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:598][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Picture.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:598][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Picture.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:598][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Picture.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:613][947]LogPlayLevel: [PlayLevel] Compiling BP_Street_light_01 before play...
+[2023.03.28-12.24.35:615][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Street_light_01.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:616][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Street_light_01.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:628][947]LogPlayLevel: [PlayLevel] Compiling BP_Street_light_02 before play...
+[2023.03.28-12.24.35:630][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Street_light_02.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:631][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Street_light_02.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:642][947]LogPlayLevel: [PlayLevel] Compiling BP_Street_light_03 before play...
+[2023.03.28-12.24.35:645][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Street_light_03.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:646][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Street_light_03.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:657][947]LogPlayLevel: [PlayLevel] Compiling BP_Window_04 before play...
+[2023.03.28-12.24.35:661][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_04.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:662][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_04.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:673][947]LogPlayLevel: [PlayLevel] Compiling BP_Wall_Lamp_01 before play...
+[2023.03.28-12.24.35:676][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Wall_Lamp_01.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:677][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Wall_Lamp_01.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:689][947]LogPlayLevel: [PlayLevel] Compiling BP_Wall_Lamp_02 before play...
+[2023.03.28-12.24.35:691][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Wall_Lamp_02.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:693][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Wall_Lamp_02.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:704][947]LogPlayLevel: [PlayLevel] Compiling BP_Window_01 before play...
+[2023.03.28-12.24.35:707][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_01.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:708][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_01.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:720][947]LogPlayLevel: [PlayLevel] Compiling BP_Window_02 before play...
+[2023.03.28-12.24.35:723][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_02.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:724][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_02.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:736][947]LogPlayLevel: [PlayLevel] Compiling BP_Window_03 before play...
+[2023.03.28-12.24.35:739][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_03.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.03.28-12.24.35:740][947]LogBlueprint: Error: [AssetLog] C:\Users\s027702k\Documents\GitHub\FYP\Content\VHExterior\Blueprints\BP_Window_03.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.03.28-12.24.35:768][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.03.28-12.24.35:771][947]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (10 blueprints)
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Picture
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Street_light_01
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Street_light_02
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Street_light_03
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Window_04
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Wall_Lamp_01
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Wall_Lamp_02
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Window_01
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Window_02
+[2023.03.28-12.24.35:771][947]BlueprintLog: Warning: Blueprint failed to compile:  BP_Window_03
+[2023.03.28-12.24.41:166][947]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.03.28-12.24.41:172][947]PIE: New page: PIE session: Investigation_level (28 Mar 2023, 14:24:41)
+[2023.03.28-12.24.41:172][947]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.24.41:678][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.505963s)
+[2023.03.28-12.24.41:678][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Investigation_level.Investigation_level to /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level (0.506022s)
+[2023.03.28-12.24.41:679][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-12.24.41:679][947]LogAIModule: Creating AISystem for world Investigation_level
+[2023.03.28-12.24.41:683][947]LogPlayLevel: PIE: World Init took: (0.004748s)
+[2023.03.28-12.24.41:697][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.28-12.24.41:698][947]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-12.24.41:698][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-12.24.41:698][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-12.24.41:699][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-12.24.41:699][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-12.24.41:699][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-12.24.41:701][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-12.24.41:719][947]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-12.24.41:719][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-12.24.41:719][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-12.24.41:719][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-12.24.41:720][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.03.28-12.24.41:720][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.03.28-12.24.41:721][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.03.28-12.24.41:721][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.03.28-12.24.41:721][947]LogInit: FAudioDevice initialized.
+[2023.03.28-12.24.41:721][947]LogAudio: Display: Audio Device (ID: 20) registered with world 'Investigation_level'.
+[2023.03.28-12.24.41:726][947]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-12.24.41:970][947]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level up for play (max tick rate 0) at 2023.03.28-13.24.41
+[2023.03.28-12.24.41:974][947]LogWorld: Bringing up level for play took: 0.248403
+[2023.03.28-12.24.41:976][947]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.03.28-12.24.41:984][947]PIE: Server logged in
+[2023.03.28-12.24.41:985][947]PIE: Play in editor total start time 6.395 seconds.
+[2023.03.28-12.24.48:657][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.24.48:657][435]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.24.48:661][435]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-12.24.48:690][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.24.48:696][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-12.24.48:707][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.24.48:728][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.24.48:742][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.28-12.24.48:744][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.28-12.24.48:805][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.28-12.24.48:880][436]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.03.28-12.24.56:849][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-12.24.56:859][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-12.24.56:859][948]PIE: New page: PIE session: Investigation_level (28 Mar 2023, 14:24:56)
+[2023.03.28-12.24.56:859][948]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.24.57:441][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.582399s)
+[2023.03.28-12.24.57:441][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Investigation_level.Investigation_level to /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level (0.582433s)
+[2023.03.28-12.24.57:442][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-12.24.57:442][948]LogAIModule: Creating AISystem for world Investigation_level
+[2023.03.28-12.24.57:445][948]LogPlayLevel: PIE: World Init took: (0.003635s)
+[2023.03.28-12.24.57:459][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-12.24.57:463][948]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-12.24.57:463][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-12.24.57:463][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-12.24.57:463][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-12.24.57:463][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-12.24.57:463][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-12.24.57:465][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-12.24.57:483][948]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-12.24.57:483][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-12.24.57:483][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-12.24.57:483][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-12.24.57:484][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.03.28-12.24.57:484][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.03.28-12.24.57:486][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.03.28-12.24.57:486][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.03.28-12.24.57:486][948]LogInit: FAudioDevice initialized.
+[2023.03.28-12.24.57:486][948]LogAudio: Display: Audio Device (ID: 21) registered with world 'Investigation_level'.
+[2023.03.28-12.24.57:490][948]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-12.24.57:733][948]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level up for play (max tick rate 0) at 2023.03.28-13.24.57
+[2023.03.28-12.24.57:737][948]LogWorld: Bringing up level for play took: 0.247087
+[2023.03.28-12.24.57:739][948]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.03.28-12.24.57:747][948]PIE: Server logged in
+[2023.03.28-12.24.57:748][948]PIE: Play in editor total start time 0.889 seconds.
+[2023.03.28-12.25.05:106][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.25.05:106][505]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.25.05:110][505]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-12.25.05:138][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.25.05:145][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-12.25.05:155][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.25.05:195][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.25.05:195][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.28-12.25.05:197][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.28-12.25.05:248][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.28-12.25.05:326][506]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.03.28-12.25.08:764][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-12.25.08:772][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-12.25.08:772][738]PIE: New page: PIE session: Investigation_level (28 Mar 2023, 14:25:08)
+[2023.03.28-12.25.08:796][738]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.25.09:376][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.580336s)
+[2023.03.28-12.25.09:376][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Investigation_level.Investigation_level to /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level (0.580369s)
+[2023.03.28-12.25.09:376][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-12.25.09:376][738]LogAIModule: Creating AISystem for world Investigation_level
+[2023.03.28-12.25.09:379][738]LogPlayLevel: PIE: World Init took: (0.003663s)
+[2023.03.28-12.25.09:392][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.28-12.25.09:397][738]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-12.25.09:397][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-12.25.09:397][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-12.25.09:398][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-12.25.09:398][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-12.25.09:398][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-12.25.09:400][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-12.25.09:417][738]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-12.25.09:417][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-12.25.09:417][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-12.25.09:417][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-12.25.09:418][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.03.28-12.25.09:418][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.03.28-12.25.09:419][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.03.28-12.25.09:419][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.03.28-12.25.09:419][738]LogInit: FAudioDevice initialized.
+[2023.03.28-12.25.09:419][738]LogAudio: Display: Audio Device (ID: 22) registered with world 'Investigation_level'.
+[2023.03.28-12.25.09:424][738]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-12.25.09:668][738]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level up for play (max tick rate 0) at 2023.03.28-13.25.09
+[2023.03.28-12.25.09:672][738]LogWorld: Bringing up level for play took: 0.247507
+[2023.03.28-12.25.09:674][738]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.03.28-12.25.09:682][738]PIE: Server logged in
+[2023.03.28-12.25.09:683][738]PIE: Play in editor total start time 0.91 seconds.
+[2023.03.28-12.25.17:297][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.25.17:297][319]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.25.17:301][319]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-12.25.17:329][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.25.17:337][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-12.25.17:347][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.25.17:386][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.25.17:387][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.28-12.25.17:388][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.28-12.25.17:445][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.28-12.25.17:523][320]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.03.28-12.25.41:706][247]Cmd: TRANSACTION UNDO
+[2023.03.28-12.25.41:706][247]LogEditorTransaction: Undo Move Elements
+[2023.03.28-12.25.53:252][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-12.25.53:261][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-12.25.53:261][ 85]PIE: New page: PIE session: Investigation_level (28 Mar 2023, 14:25:53)
+[2023.03.28-12.25.53:262][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.25.53:839][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.577341s)
+[2023.03.28-12.25.53:839][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Investigation_level.Investigation_level to /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level (0.577374s)
+[2023.03.28-12.25.53:840][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-12.25.53:840][ 85]LogAIModule: Creating AISystem for world Investigation_level
+[2023.03.28-12.25.53:843][ 85]LogPlayLevel: PIE: World Init took: (0.003566s)
+[2023.03.28-12.25.53:857][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.28-12.25.53:861][ 85]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-12.25.53:861][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-12.25.53:862][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-12.25.53:862][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-12.25.53:862][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-12.25.53:862][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-12.25.53:864][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-12.25.53:880][ 85]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-12.25.53:880][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-12.25.53:880][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-12.25.53:880][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-12.25.53:881][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.03.28-12.25.53:881][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.03.28-12.25.53:883][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.03.28-12.25.53:883][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.03.28-12.25.53:883][ 85]LogInit: FAudioDevice initialized.
+[2023.03.28-12.25.53:883][ 85]LogAudio: Display: Audio Device (ID: 23) registered with world 'Investigation_level'.
+[2023.03.28-12.25.53:887][ 85]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-12.25.54:134][ 85]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level up for play (max tick rate 0) at 2023.03.28-13.25.54
+[2023.03.28-12.25.54:138][ 85]LogWorld: Bringing up level for play took: 0.249705
+[2023.03.28-12.25.54:140][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.03.28-12.25.54:148][ 85]PIE: Server logged in
+[2023.03.28-12.25.54:149][ 85]PIE: Play in editor total start time 0.887 seconds.
+[2023.03.28-12.26.01:346][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.26.01:346][626]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.26.01:350][626]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-12.26.01:377][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.26.01:384][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-12.26.01:395][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.26.01:427][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-12.26.01:427][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.28-12.26.01:429][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.28-12.26.01:433][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.26.01:492][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.03.28-12.26.01:566][627]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.03.28-12.26.59:116][541]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-12.26.59:124][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-12.26.59:125][541]PIE: New page: PIE session: Investigation_level (28 Mar 2023, 14:26:59)
+[2023.03.28-12.26.59:155][541]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.26.59:738][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.582572s)
+[2023.03.28-12.26.59:738][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Investigation_level.Investigation_level to /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level (0.582609s)
+[2023.03.28-12.26.59:738][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-12.26.59:738][541]LogAIModule: Creating AISystem for world Investigation_level
+[2023.03.28-12.26.59:741][541]LogPlayLevel: PIE: World Init took: (0.003489s)
+[2023.03.28-12.26.59:757][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.28-12.26.59:761][541]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-12.26.59:762][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-12.26.59:762][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-12.26.59:762][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-12.26.59:762][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-12.26.59:762][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-12.26.59:764][541]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-12.26.59:781][541]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-12.26.59:781][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-12.26.59:781][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-12.26.59:781][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-12.26.59:782][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.03.28-12.26.59:782][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.03.28-12.26.59:784][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.03.28-12.26.59:784][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.03.28-12.26.59:784][541]LogInit: FAudioDevice initialized.
+[2023.03.28-12.26.59:784][541]LogAudio: Display: Audio Device (ID: 24) registered with world 'Investigation_level'.
+[2023.03.28-12.26.59:788][541]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-12.27.00:035][541]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level up for play (max tick rate 0) at 2023.03.28-13.27.00
+[2023.03.28-12.27.00:039][541]LogWorld: Bringing up level for play took: 0.251147
+[2023.03.28-12.27.00:041][541]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.03.28-12.27.00:049][541]PIE: Server logged in
+[2023.03.28-12.27.00:050][541]PIE: Play in editor total start time 0.926 seconds.
+[2023.03.28-12.27.06:096][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.27.06:096][982]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.27.06:100][982]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-12.27.06:127][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.27.06:134][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-12.27.06:144][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.27.06:168][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.27.06:183][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.03.28-12.27.06:184][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.03.28-12.27.06:246][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.03.28-12.27.06:321][983]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.03.28-12.27.15:272][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.28-12.27.15:280][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.28-12.27.15:280][732]PIE: New page: PIE session: Investigation_level (28 Mar 2023, 14:27:15)
+[2023.03.28-12.27.15:305][732]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.27.15:887][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.581989s)
+[2023.03.28-12.27.15:887][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Investigation_level.Investigation_level to /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level (0.582024s)
+[2023.03.28-12.27.15:887][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-12.27.15:888][732]LogAIModule: Creating AISystem for world Investigation_level
+[2023.03.28-12.27.15:891][732]LogPlayLevel: PIE: World Init took: (0.003517s)
+[2023.03.28-12.27.15:907][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.28-12.27.15:912][732]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-12.27.15:912][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-12.27.15:912][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-12.27.15:913][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-12.27.15:913][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-12.27.15:913][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-12.27.15:915][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-12.27.15:931][732]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.28-12.27.15:932][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-12.27.15:932][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-12.27.15:932][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-12.27.15:932][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.03.28-12.27.15:932][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.03.28-12.27.15:934][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.03.28-12.27.15:934][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.03.28-12.27.15:934][732]LogInit: FAudioDevice initialized.
+[2023.03.28-12.27.15:934][732]LogAudio: Display: Audio Device (ID: 25) registered with world 'Investigation_level'.
+[2023.03.28-12.27.15:942][732]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.03.28-12.27.16:185][732]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level.Investigation_level up for play (max tick rate 0) at 2023.03.28-13.27.16
+[2023.03.28-12.27.16:189][732]LogWorld: Bringing up level for play took: 0.246156
+[2023.03.28-12.27.16:191][732]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.03.28-12.27.16:199][732]PIE: Server logged in
+[2023.03.28-12.27.16:200][732]PIE: Play in editor total start time 0.92 seconds.
+[2023.03.28-12.27.24:036][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.27.24:036][329]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Investigation_level
+[2023.03.28-12.27.24:040][329]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-12.27.24:070][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.27.24:078][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.28-12.27.24:090][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-12.27.24:112][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-12.27.24:129][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.28-12.27.24:130][329]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.28-12.27.24:214][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.03.28-12.27.24:302][330]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.03.28-12.27.37:067][115]MapCheck: New page: Map Check
+[2023.03.28-12.27.37:077][115]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.28-12.27.37:078][115]Cmd: MAP REBUILD ALLVISIBLE
+[2023.03.28-12.27.37:086][115]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.03.28-12.27.37:147][115]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=false
+[2023.03.28-12.27.37:468][115]LogEditorServer: Cleared 12 NULL BSP materials after rebuild.
+[2023.03.28-12.27.37:474][115]LightingResults: New page: Lighting Build - 28 Mar 2023, 14:27:37
+[2023.03.28-12.27.37:606][115]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.28-12.27.38:911][115]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.28-12.27.38:926][115]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.28-12.27.39:963][115]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.28-12.27.39:963][115]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15720
+[2023.03.28-12.27.53:521][115]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.03.28-12.27.53:552][115]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.28-12.27.53:552][115]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.28-12.27.53:552][115]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.28-12.27.53:552][115]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.28-12.27.53:552][115]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.28-12.27.54:427][115]LogEditorBuildUtils: Build time 0:17
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: ================================================
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Total job queries 1499, among them cache hits 243 (16.21%)
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Tracking 1164 distinct input hashes that result in 598 distinct outputs (51.37%)
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: RAM used: 2.88 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.18%
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Shaders Compiled: 1164
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Jobs assigned 1176, completed 1164 (98.98%)
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Average time worker was idle: 45.58 s
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Time job spent in pending queue: average 6.86 s, longest 22.17 s
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Job execution time: average 1.66 s, max 31.90 s
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Job life time (pending + execution): average 8.59 s, max 39.27
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 204.93 s
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Jobs were issued in 1134 batches (only local compilation was used), average 1.04 jobs/batch
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Average processing rate: 5.68 jobs/sec
+[2023.03.28-12.27.56:084][136]LogShaderCompilers: Display: Total thread time: 1034.56 s
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display: Total thread preprocess time: 63.72 s
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display: Percentage time preprocessing: 6.16%
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display: Effective parallelization: 5.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 7.98 sec, max 7.98 sec, min 7.98 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.45 sec, max 6.45 sec, min 6.45 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.12 sec, max 11.06 sec, min 2.11 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 5.78 sec, max 5.78 sec, min 5.78 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.77% of total time (compiled  125 times, average 1.06 sec, max 4.58 sec, min 0.58 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.78% of total time (compiled  127 times, average 0.88 sec, max 1.43 sec, min 0.50 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 10.05% of total time (compiled   17 times, average 6.12 sec, max 11.06 sec, min 2.11 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.25% of total time (compiled  137 times, average 0.62 sec, max 1.52 sec, min 0.39 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.29% of total time (compiled   52 times, average 1.45 sec, max 5.74 sec, min 0.74 sec)
+[2023.03.28-12.27.56:085][136]LogShaderCompilers: Display: ================================================
+[2023.03.28-12.27.58:711][166]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6EB7F93683248D63A3924BE79836EE70BD55F3FC), compiling. Is special engine material.
+[2023.03.28-12.27.58:717][166]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C141C49E9B17287DD653AA1D764E2492B0BCF7CB), compiling. Is special engine material.
+[2023.03.28-12.28.00:778][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.28-12.28.18:995][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.001015s (18.221583s overbudget)
+[2023.03.28-12.28.26:251][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.03.28-12.31.12:038][458]Job is a success!
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.134s
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:      BrickData (all levels) 4.4Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:          1: 6.0% covering 13.3% of volume
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:          2: 93.3% covering 3.2% of volume
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.28-12.31.12:536][460]LogVolumetricLightmapImport:          Investigation_level 			 1136 bricks 	 100.0% (Persistent Level)
+[2023.03.28-12.31.16:656][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 293.395816 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:689][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 285.395815 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:712][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:730][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:743][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:762][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:776][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:795][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:809][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:828][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:844][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:867][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:884][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:903][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:917][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:936][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:952][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:968][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.16:981][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:003][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:019][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:041][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:058][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_12 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:073][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_12 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:086][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_13 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:107][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_13 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:121][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_14 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:141][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_14 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:157][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_15 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:180][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_15 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:200][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_16 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:223][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_16 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:242][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_17 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:267][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_17 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:287][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_18 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:311][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_18 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:329][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_19 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:353][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_19 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:374][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_20 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:400][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_20 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:420][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_21 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:445][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_21 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:464][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_22 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:489][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_22 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:506][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_23 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:529][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_23 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:546][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_24 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:568][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_24 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:586][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_25 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:609][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_25 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:627][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_26 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:650][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_26 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:669][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_27 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:693][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_27 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:713][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_28 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:738][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_28 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:758][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_29 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:782][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_29 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:801][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_30 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:826][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_30 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:845][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_31 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:870][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_31 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:889][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_32 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:918][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_32 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:942][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_33 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:973][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_33 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.17:998][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_34 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:030][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_34 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:059][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_35 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 293.395816 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:094][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_35 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 285.395815 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:122][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_36 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:149][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_36 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:170][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_37 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:200][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_37 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:223][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_38 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:252][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_38 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:274][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_39 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:304][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_39 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:328][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_40 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:359][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_40 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:381][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_41 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:411][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_41 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:434][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_42 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:462][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_42 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:485][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_43 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:513][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_43 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:535][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_44 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:566][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_44 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:590][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_45 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:620][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_45 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:642][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_46 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:672][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_46 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:695][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_47 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:724][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_47 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:748][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_48 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:778][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_48 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:802][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_49 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:833][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_49 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:857][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_50 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:889][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_50 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:914][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_51 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:943][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_51 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:966][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_52 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.18:998][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_52 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:022][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_53 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:051][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_53 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:075][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_54 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:106][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_54 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:132][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_55 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:162][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_55 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:187][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_56 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:216][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_56 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:238][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_57 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:270][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_57 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:295][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_58 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:327][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_58 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:351][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_59 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:381][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_59 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:405][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_60 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:436][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_60 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:460][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_61 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:492][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_61 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:518][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_62 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:552][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_62 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:578][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_63 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:610][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_63 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:642][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_64 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:678][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_64 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:704][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_65 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:736][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_65 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:762][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_66 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:794][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_66 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:819][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_67 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:850][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_67 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:874][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_68 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:905][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_68 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:929][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_69 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:949][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_69 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:966][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_70 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.19:992][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_70 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:010][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_71 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:042][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_71 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:066][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_72 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:083][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_72 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:096][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_73 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:107][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_73 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:114][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_74 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:119][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_74 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:123][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_75 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.713502 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:124][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_75 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 0.533824 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:124][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:HQ_Lightmap0_76 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.666627 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.20:126][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:LQ_Lightmap_0_76 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 1.947886 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:005][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:016][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_1 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:026][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_2 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:030][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_3 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:040][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_4 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:053][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_5 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:063][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_6 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:075][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_7 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:088][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_8 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:100][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_9 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:113][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_10 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:125][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_11 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:137][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_12 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:149][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_13 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:161][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_14 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:174][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_15 (BGRA8, 32x1024 x1x1x1) (Required Memory Estimate: 1.062565 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:176][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_16 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:191][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_17 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:205][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_18 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:218][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_19 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:232][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_20 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:245][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_21 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:260][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_22 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:273][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_23 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:287][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_24 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:301][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_25 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:313][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_26 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:326][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_27 (BGRA8, 1024x256 x1x1x1) (Required Memory Estimate: 8.0625 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:330][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_28 (BGRA8, 1024x256 x1x1x1) (Required Memory Estimate: 8.0625 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:335][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_29 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:341][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_30 (BGRA8, 1024x64 x1x1x1) (Required Memory Estimate: 2.062531 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:343][460]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData:ShadowMapTexture2D_31 (BGRA8, 512x16 x1x1x1) (Required Memory Estimate: 0.312565 MB), EncodeSpeed: Fast
+[2023.03.28-12.31.21:372][460]Lightmass on C117A-47: 2:53 min total, 765 ms importing, 1.17 sec setup, 23.4 sec photons, 2:27 min processing, 0 us extra exporting [10146/10146 mappings]. Threads: 36:58 min total, 24:14 min processing.
+[2023.03.28-12.31.21:512][460]LogStaticLightingSystem: Investigation_level_BuiltData storing lightmap data for 10132 meshes in 285 LightmapResourceClusters (35.6 Meshes per cluster).
+[2023.03.28-12.31.21:638][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.03.28-12.31.21:815][460]LogStaticLightingSystem: Illumination: 3:44 min (4.00 sec encoding lightmaps, 1.21 sec encoding shadowmaps)
+[2023.03.28-12.31.21:815][460]LogStaticLightingSystem: Lightmap texture memory:  156.7 MB (140.7 MB streaming, 16.0 MB non-streaming), 152 textures
+[2023.03.28-12.31.21:815][460]LogStaticLightingSystem: Shadowmap texture memory: 125.9 MB (123.0 MB streaming, 2.8 MB non-streaming), 32 textures
+[2023.03.28-12.31.22:687][460]DumpUnbuiltLightIteractions
+[2023.03.28-12.31.22:687][460]Lights with unbuilt interactions: 0
+[2023.03.28-12.31.22:687][460]
+[2023.03.28-12.31.22:687][460]Primitives with unbuilt interactions: 0
+[2023.03.28-12.31.27:185][460]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.28-12.35.15:061][460]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.004695s (227.880999s overbudget)
+[2023.03.28-12.35.15:356][460]LogShaderCompilers: Display: ================================================
+[2023.03.28-12.35.15:356][460]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-12.35.15:356][460]LogShaderCompilers: Display: Total job queries 3295, among them cache hits 251 (7.62%)
+[2023.03.28-12.35.15:356][460]LogShaderCompilers: Display: Tracking 3042 distinct input hashes that result in 1257 distinct outputs (41.32%)
+[2023.03.28-12.35.15:356][460]LogShaderCompilers: Display: RAM used: 8.45 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.52%
+[2023.03.28-12.35.15:356][460]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Shaders Compiled: 3042
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Jobs assigned 3044, completed 3042 (99.93%)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Average time worker was idle: 18.47 s
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Time job spent in pending queue: average 64.65 s, longest 229.18 s
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 31.90 s
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Job life time (pending + execution): average 66.30 s, max 229.80
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 461.33 s
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Jobs were issued in 2866 batches (only local compilation was used), average 1.06 jobs/batch
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Average processing rate: 6.59 jobs/sec
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Total thread time: 2921.25 s
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Total thread preprocess time: 161.95 s
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Effective parallelization: 6.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 7.98 sec, max 7.98 sec, min 7.98 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.45 sec, max 6.45 sec, min 6.45 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.12 sec, max 11.06 sec, min 2.11 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 5.78 sec, max 5.78 sec, min 5.78 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.87% of total time (compiled  287 times, average 0.90 sec, max 4.58 sec, min 0.53 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.10% of total time (compiled  289 times, average 0.82 sec, max 1.43 sec, min 0.50 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.91% of total time (compiled  101 times, average 1.42 sec, max 5.74 sec, min 0.74 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.87% of total time (compiled  185 times, average 0.61 sec, max 1.52 sec, min 0.39 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.76% of total time (compiled  103 times, average 1.07 sec, max 6.00 sec, min 0.72 sec)
+[2023.03.28-12.35.15:357][460]LogShaderCompilers: Display: ================================================
+[2023.03.28-12.35.15:994][461]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.28-12.35.15:994][461]MapCheck: New page: Investigation_level - 28 Mar 2023, 14:35:15
+[2023.03.28-12.35.16:018][461]MapCheck: Warning: store_front_door_b_left_1306 More overridden materials (4) on static mesh component than are referenced (2) in source mesh 'store_front_door_b_left' 
+[2023.03.28-12.35.16:055][461]MapCheck: Warning: store_front_door_b_left_486 More overridden materials (4) on static mesh component than are referenced (2) in source mesh 'store_front_door_b_left' 
+[2023.03.28-12.35.16:055][461]MapCheck: Warning: store_front_door_b_left_652 More overridden materials (4) on static mesh component than are referenced (2) in source mesh 'store_front_door_b_left' 
+[2023.03.28-12.35.16:060][461]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 66.799ms to complete.
+[2023.03.28-12.35.23:518][897]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-12.35.23:534][897]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-12.35.30:079][406]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2023.03.28-12.37.05:537][749]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.24:56322, Sequence=0
+[2023.03.28-12.37.05:946][751]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.24:56322, Sequence=0
+[2023.03.28-12.39.12:375][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.28-12.39.13:851][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Investigation_level_Auto4
+[2023.03.28-12.39.13:851][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level_Auto4536CB454446A6173C40A67B9910C995B.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Investigation_level_Auto4.umap'
+[2023.03.28-12.39.13:879][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Investigation_level' took 1.518
+[2023.03.28-12.39.13:879][129]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.518
+[2023.03.28-12.39.13:879][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Picture] ([2] browsable assets)...
+[2023.03.28-12.39.13:912][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Picture.BP_Picture]
+[2023.03.28-12.39.13:912][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Picture]
+[2023.03.28-12.39.13:925][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Picture_Auto4
+[2023.03.28-12.39.13:925][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Picture_Auto49ABC6657419F574F1ABEFF87C3D4F741.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Picture_Auto4.uasset'
+[2023.03.28-12.39.13:926][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Street_light_01] ([2] browsable assets)...
+[2023.03.28-12.39.13:939][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Street_light_01.BP_Street_light_01]
+[2023.03.28-12.39.13:939][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Street_light_01]
+[2023.03.28-12.39.13:949][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Street_light_01_Auto4
+[2023.03.28-12.39.13:949][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Street_light_01_Auto4F88E381E458D2538A10AD8BA7FF97A25.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Street_light_01_Auto4.uasset'
+[2023.03.28-12.39.13:950][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Street_light_02] ([2] browsable assets)...
+[2023.03.28-12.39.13:961][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Street_light_02.BP_Street_light_02]
+[2023.03.28-12.39.13:961][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Street_light_02]
+[2023.03.28-12.39.13:972][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Street_light_02_Auto4
+[2023.03.28-12.39.13:972][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Street_light_02_Auto4A1D429C145AB2B15914B1A8E876764F6.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Street_light_02_Auto4.uasset'
+[2023.03.28-12.39.13:973][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Street_light_03] ([2] browsable assets)...
+[2023.03.28-12.39.13:984][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Street_light_03.BP_Street_light_03]
+[2023.03.28-12.39.13:984][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Street_light_03]
+[2023.03.28-12.39.13:994][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Street_light_03_Auto4
+[2023.03.28-12.39.13:994][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Street_light_03_Auto4C2AE90324A7051CE3638849F0607C653.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Street_light_03_Auto4.uasset'
+[2023.03.28-12.39.13:995][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Wall_Lamp_01] ([2] browsable assets)...
+[2023.03.28-12.39.14:007][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Wall_Lamp_01.BP_Wall_Lamp_01]
+[2023.03.28-12.39.14:007][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Wall_Lamp_01]
+[2023.03.28-12.39.14:017][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Wall_Lamp_01_Auto4
+[2023.03.28-12.39.14:017][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Wall_Lamp_01_Auto41CC1A58E4EAAFBC6B232E09D59E93B10.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Wall_Lamp_01_Auto4.uasset'
+[2023.03.28-12.39.14:018][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Wall_Lamp_02] ([2] browsable assets)...
+[2023.03.28-12.39.14:028][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Wall_Lamp_02.BP_Wall_Lamp_02]
+[2023.03.28-12.39.14:028][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Wall_Lamp_02]
+[2023.03.28-12.39.14:039][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Wall_Lamp_02_Auto4
+[2023.03.28-12.39.14:039][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Wall_Lamp_02_Auto4424BD78D410E97121A62009312137C2A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Wall_Lamp_02_Auto4.uasset'
+[2023.03.28-12.39.14:039][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Window_01] ([2] browsable assets)...
+[2023.03.28-12.39.14:049][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Window_01.BP_Window_01]
+[2023.03.28-12.39.14:049][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Window_01]
+[2023.03.28-12.39.14:059][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Window_01_Auto4
+[2023.03.28-12.39.14:059][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Window_01_Auto4D5D3E86C4071C8538ECC7FAE0BD0E84B.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Window_01_Auto4.uasset'
+[2023.03.28-12.39.14:060][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Window_02] ([2] browsable assets)...
+[2023.03.28-12.39.14:071][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Window_02.BP_Window_02]
+[2023.03.28-12.39.14:071][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Window_02]
+[2023.03.28-12.39.14:082][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Window_02_Auto4
+[2023.03.28-12.39.14:082][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Window_02_Auto4542C6F28447CAFA8F0F94F93DFD80F2E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Window_02_Auto4.uasset'
+[2023.03.28-12.39.14:083][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Window_03] ([2] browsable assets)...
+[2023.03.28-12.39.14:093][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Window_03.BP_Window_03]
+[2023.03.28-12.39.14:093][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Window_03]
+[2023.03.28-12.39.14:103][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Window_03_Auto4
+[2023.03.28-12.39.14:103][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Window_03_Auto46243E9FE41F234D76CE85896317802F4.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Window_03_Auto4.uasset'
+[2023.03.28-12.39.14:104][129]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VHExterior/Blueprints/BP_Window_04] ([2] browsable assets)...
+[2023.03.28-12.39.14:114][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VHExterior/Blueprints/BP_Window_04.BP_Window_04]
+[2023.03.28-12.39.14:114][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/VHExterior/Blueprints/BP_Window_04]
+[2023.03.28-12.39.14:124][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VHExterior/Blueprints/BP_Window_04_Auto4
+[2023.03.28-12.39.14:124][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_Window_04_Auto4A197B35F4D94B14EC398E1AE1A0E25A9.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/VHExterior/Blueprints/BP_Window_04_Auto4.uasset'
+[2023.03.28-12.39.14:125][129]LogFileHelpers: Auto-saving content packages took 0.246
+[2023.03.28-12.40.48:518][414]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.024 and deleted 0 files with total size 0 MiB. Scanned 15782 files in 15382 folders with total size 1783 MiB.
+[2023.03.28-12.43.38:817][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:817][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:817][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:835][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:835][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:866][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:872][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.38:884][924]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.42:735][936]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.43.43:162][937]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.43.43:236][938]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.43.46:601][948]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.174:60101, Sequence=0
+[2023.03.28-12.44.10:479][ 19]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.44.10:506][ 19]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.159:56365, Sequence=0
+[2023.03.28-12.44.11:517][ 22]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.159:56365, Sequence=0
+[2023.03.28-12.44.14:515][ 31]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.159:56365, Sequence=0
+[2023.03.28-12.44.17:517][ 40]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.159:56365, Sequence=0
+[2023.03.28-12.44.19:580][ 47]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.212:64115, Sequence=0
+[2023.03.28-12.44.22:508][ 55]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.159:56365, Sequence=0
+[2023.03.28-12.44.27:726][ 71]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.44.28:510][ 73]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.159:56365, Sequence=0
+[2023.03.28-12.44.28:705][ 74]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.44.30:155][ 78]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.191:57944, Sequence=0
+[2023.03.28-12.44.31:019][ 81]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.191:57944, Sequence=0
+[2023.03.28-12.44.32:867][ 86]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.44.34:046][ 90]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.44.34:083][ 90]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.44.34:083][ 90]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.44.34:083][ 90]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.44.34:083][ 90]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.45.30:510][259]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.12:61246, Sequence=0
+[2023.03.28-12.46.23:891][419]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-12.46.23:891][419]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-12.46.23:894][419]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.28-12.46.48:166][464]LogViewport: Scene viewport resized to 506x284, mode Windowed.
+[2023.03.28-12.47.10:425][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1183' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:426][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1184' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:426][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1185' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:426][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1186' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:427][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1187' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:428][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1189' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:428][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1190' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:428][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1191' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:429][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1192' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:429][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1193' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:430][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1194' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:430][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1195' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:430][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1196' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:431][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1197' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:431][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1198' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:436][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1214' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:436][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1215' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:437][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1216' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:437][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1217' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:437][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1218' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:438][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1219' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:438][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1220' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:438][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1221' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:439][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1222' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:439][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1223' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:439][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1224' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:439][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1225' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:440][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1226' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:440][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1227' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:443][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1237' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:443][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1238' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:444][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1239' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:444][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1240' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:445][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1241' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:445][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1242' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:446][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1247' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:447][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1248' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:447][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1249' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:447][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1250' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:448][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1251' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:449][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1256' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:449][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1257' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:450][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1258' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:450][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1259' invalid (900 verts, 0 indices).
+[2023.03.28-12.47.10:450][798]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.ModelComponent_1260' invalid (900 verts, 0 indices).
+[2023.03.28-12.48.13:742][195]LogViewport: Scene viewport resized to 1250x902, mode Windowed.
+[2023.03.28-12.48.13:817][197]LogViewport: Scene viewport resized to 1312x902, mode Windowed.
+[2023.03.28-12.48.13:894][199]LogViewport: Scene viewport resized to 1357x902, mode Windowed.
+[2023.03.28-12.48.13:983][201]LogViewport: Scene viewport resized to 1384x902, mode Windowed.
+[2023.03.28-12.48.14:057][203]LogViewport: Scene viewport resized to 1404x902, mode Windowed.
+[2023.03.28-12.48.14:120][205]LogViewport: Scene viewport resized to 1435x902, mode Windowed.
+[2023.03.28-12.48.14:197][207]LogViewport: Scene viewport resized to 1458x902, mode Windowed.
+[2023.03.28-12.48.14:372][216]LogViewport: Scene viewport resized to 1467x902, mode Windowed.
+[2023.03.28-12.48.14:432][218]LogViewport: Scene viewport resized to 1482x902, mode Windowed.
+[2023.03.28-12.48.14:914][251]LogViewport: Scene viewport resized to 1488x902, mode Windowed.
+[2023.03.28-12.48.14:978][253]LogViewport: Scene viewport resized to 1496x902, mode Windowed.
+[2023.03.28-12.48.15:041][255]LogViewport: Scene viewport resized to 1498x902, mode Windowed.
+[2023.03.28-12.48.15:154][261]LogViewport: Scene viewport resized to 1501x902, mode Windowed.
+[2023.03.28-12.48.15:207][263]LogViewport: Scene viewport resized to 1503x902, mode Windowed.
+[2023.03.28-12.48.15:661][293]LogViewport: Scene viewport resized to 1507x902, mode Windowed.
+[2023.03.28-12.49.25:169][784]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.125:58917, Sequence=0
+[2023.03.28-12.50.03:522][899]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.6.118.43:58340, Sequence=0
+[2023.03.28-12.50.39:873][924]Cmd: DELETE
+[2023.03.28-12.50.39:873][924]Cmd: ACTOR DELETE
+[2023.03.28-12.50.39:986][924]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-12.50.40:007][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.03.28-12.50.40:014][924]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2023.03.28-12.50.53:444][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.28-12.50.53:444][929]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.03.28-12.50.53:458][929]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.StaticMeshActor_955
+[2023.03.28-12.50.53:463][929]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Investigation_level.Investigation_level:PersistentLevel.StaticMeshActor_955
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: ================================================
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Total job queries 3299, among them cache hits 251 (7.61%)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Tracking 3046 distinct input hashes that result in 1261 distinct outputs (41.40%)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: RAM used: 8.46 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.52%
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Shaders Compiled: 3046
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Jobs assigned 3048, completed 3046 (99.93%)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Average time worker was idle: 19.77 s
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Time job spent in pending queue: average 64.56 s, longest 229.18 s
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 31.90 s
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Job life time (pending + execution): average 66.22 s, max 229.80
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 464.29 s
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Jobs were issued in 2870 batches (only local compilation was used), average 1.06 jobs/batch
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Average processing rate: 6.56 jobs/sec
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Total thread time: 2924.50 s
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Total thread preprocess time: 162.10 s
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Effective parallelization: 6.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 7.98 sec, max 7.98 sec, min 7.98 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.45 sec, max 6.45 sec, min 6.45 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.12 sec, max 11.06 sec, min 2.11 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 5.78 sec, max 5.78 sec, min 5.78 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.86% of total time (compiled  287 times, average 0.90 sec, max 4.58 sec, min 0.53 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.09% of total time (compiled  289 times, average 0.82 sec, max 1.43 sec, min 0.50 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.91% of total time (compiled  101 times, average 1.42 sec, max 5.74 sec, min 0.74 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.87% of total time (compiled  185 times, average 0.61 sec, max 1.52 sec, min 0.39 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 3.79% of total time (compiled   85 times, average 1.30 sec, max 5.24 sec, min 0.84 sec)
+[2023.03.28-12.51.05:883][713]LogShaderCompilers: Display: ================================================
+[2023.03.28-12.55.10:148][ 36]Cmd: TRANSACTION UNDO
+[2023.03.28-12.55.10:148][ 36]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-12.59.40:903][832]Cmd: DELETE
+[2023.03.28-12.59.40:903][832]Cmd: ACTOR DELETE
+[2023.03.28-12.59.41:008][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-12.59.41:043][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.28-12.59.41:047][832]LogEditorActor: Deleted 1 Actors (0.144 secs)
+[2023.03.28-13.00.59:928][544]Cmd: TRANSACTION UNDO
+[2023.03.28-13.00.59:928][544]LogEditorTransaction: Undo Scale Elements
+[2023.03.28-13.01.07:187][920]Cmd: TRANSACTION UNDO
+[2023.03.28-13.01.07:187][920]LogEditorTransaction: Undo Move Elements
+[2023.03.28-13.01.07:508][925]Cmd: TRANSACTION UNDO
+[2023.03.28-13.01.07:508][925]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.01.08:296][961]Cmd: TRANSACTION UNDO
+[2023.03.28-13.01.08:296][961]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.03.59:326][783]Cmd: DELETE
+[2023.03.28-13.03.59:326][783]Cmd: ACTOR DELETE
+[2023.03.28-13.03.59:431][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.03.59:469][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.28-13.03.59:473][783]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2023.03.28-13.03.59:996][815]Cmd: DELETE
+[2023.03.28-13.03.59:996][815]Cmd: ACTOR DELETE
+[2023.03.28-13.04.00:102][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.04.00:135][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.28-13.04.00:138][815]LogEditorActor: Deleted 1 Actors (0.142 secs)
+[2023.03.28-13.04.00:642][844]Cmd: DELETE
+[2023.03.28-13.04.00:642][844]Cmd: ACTOR DELETE
+[2023.03.28-13.04.00:747][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.04.00:780][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.28-13.04.00:782][844]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2023.03.28-13.04.01:421][882]Cmd: DELETE
+[2023.03.28-13.04.01:421][882]Cmd: ACTOR DELETE
+[2023.03.28-13.04.01:526][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.04.01:559][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.28-13.04.01:561][882]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2023.03.28-13.04.01:980][906]Cmd: DELETE
+[2023.03.28-13.04.01:981][906]Cmd: ACTOR DELETE
+[2023.03.28-13.04.02:088][906]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.04.02:121][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.04.02:124][906]LogEditorActor: Deleted 1 Actors (0.144 secs)
+[2023.03.28-13.04.03:537][  0]Cmd: DELETE
+[2023.03.28-13.04.03:537][  0]Cmd: ACTOR DELETE
+[2023.03.28-13.04.03:643][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.04.03:678][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.28-13.04.03:680][  0]LogEditorActor: Deleted 1 Actors (0.143 secs)
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: ================================================
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Total job queries 3305, among them cache hits 251 (7.59%)
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Tracking 3051 distinct input hashes that result in 1265 distinct outputs (41.46%)
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: RAM used: 8.48 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.52%
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Shaders Compiled: 3051
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Jobs assigned 3054, completed 3051 (99.90%)
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Average time worker was idle: 20.89 s
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Time job spent in pending queue: average 64.44 s, longest 229.18 s
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 31.90 s
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Job life time (pending + execution): average 66.11 s, max 229.80
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 467.32 s
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Jobs were issued in 2876 batches (only local compilation was used), average 1.06 jobs/batch
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Average processing rate: 6.53 jobs/sec
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Total thread time: 2928.51 s
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Total thread preprocess time: 162.28 s
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Effective parallelization: 6.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.28-13.04.59:375][ 96]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 7.98 sec, max 7.98 sec, min 7.98 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.45 sec, max 6.45 sec, min 6.45 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.12 sec, max 11.06 sec, min 2.11 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 5.78 sec, max 5.78 sec, min 5.78 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.85% of total time (compiled  287 times, average 0.90 sec, max 4.58 sec, min 0.53 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.08% of total time (compiled  289 times, average 0.82 sec, max 1.43 sec, min 0.50 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.90% of total time (compiled  101 times, average 1.42 sec, max 5.74 sec, min 0.74 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.86% of total time (compiled  185 times, average 0.61 sec, max 1.52 sec, min 0.39 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 3.78% of total time (compiled   85 times, average 1.30 sec, max 5.24 sec, min 0.84 sec)
+[2023.03.28-13.04.59:376][ 96]LogShaderCompilers: Display: ================================================
+[2023.03.28-13.05.55:120][  3]Cmd: TRANSACTION UNDO
+[2023.03.28-13.05.55:120][  3]LogEditorTransaction: Undo Move Elements
+[2023.03.28-13.07.23:084][ 77]Cmd: DELETE
+[2023.03.28-13.07.23:084][ 77]Cmd: ACTOR DELETE
+[2023.03.28-13.07.23:193][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.23:234][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.28-13.07.23:240][ 77]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2023.03.28-13.07.24:138][130]Cmd: DELETE
+[2023.03.28-13.07.24:139][130]Cmd: ACTOR DELETE
+[2023.03.28-13.07.24:246][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.24:282][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.28-13.07.24:285][130]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2023.03.28-13.07.25:866][198]Cmd: DELETE
+[2023.03.28-13.07.25:866][198]Cmd: ACTOR DELETE
+[2023.03.28-13.07.25:974][198]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.26:013][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.07.26:016][198]LogEditorActor: Deleted 1 Actors (0.151 secs)
+[2023.03.28-13.07.26:827][228]Cmd: DELETE
+[2023.03.28-13.07.26:827][228]Cmd: ACTOR DELETE
+[2023.03.28-13.07.26:935][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.26:973][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.28-13.07.26:975][228]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2023.03.28-13.07.31:252][424]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.31:253][424]LogEditorTransaction: Undo Delete Elements
+[2023.03.28-13.07.31:753][426]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.31:753][426]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.07.31:966][428]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.31:966][428]LogEditorTransaction: Undo Delete Elements
+[2023.03.28-13.07.32:698][437]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.32:698][437]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.07.33:321][454]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.33:321][454]LogEditorTransaction: Undo Delete Elements
+[2023.03.28-13.07.34:063][465]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.34:064][465]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.07.34:756][484]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.34:757][484]LogEditorTransaction: Undo Delete Elements
+[2023.03.28-13.07.35:551][496]Cmd: TRANSACTION UNDO
+[2023.03.28-13.07.35:551][496]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.07.55:215][253]Cmd: DELETE
+[2023.03.28-13.07.55:215][253]Cmd: ACTOR DELETE
+[2023.03.28-13.07.55:324][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.55:363][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.07.55:368][253]LogEditorActor: Deleted 1 Actors (0.152 secs)
+[2023.03.28-13.07.56:620][310]Cmd: DELETE
+[2023.03.28-13.07.56:620][310]Cmd: ACTOR DELETE
+[2023.03.28-13.07.56:727][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.56:764][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.28-13.07.56:767][310]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2023.03.28-13.07.58:789][398]Cmd: DELETE
+[2023.03.28-13.07.58:789][398]Cmd: ACTOR DELETE
+[2023.03.28-13.07.58:895][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.58:932][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.28-13.07.58:935][398]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2023.03.28-13.07.59:378][416]Cmd: DELETE
+[2023.03.28-13.07.59:379][416]Cmd: ACTOR DELETE
+[2023.03.28-13.07.59:485][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.07.59:524][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.28-13.07.59:527][416]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2023.03.28-13.07.59:924][432]Cmd: DELETE
+[2023.03.28-13.07.59:924][432]Cmd: ACTOR DELETE
+[2023.03.28-13.08.00:032][432]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.00:071][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.28-13.08.00:074][432]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2023.03.28-13.08.00:466][447]Cmd: DELETE
+[2023.03.28-13.08.00:466][447]Cmd: ACTOR DELETE
+[2023.03.28-13.08.00:578][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.00:618][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.28-13.08.00:621][447]LogEditorActor: Deleted 1 Actors (0.154 secs)
+[2023.03.28-13.08.01:114][468]Cmd: DELETE
+[2023.03.28-13.08.01:114][468]Cmd: ACTOR DELETE
+[2023.03.28-13.08.01:222][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.01:261][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.28-13.08.01:264][468]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2023.03.28-13.08.02:357][515]Cmd: DELETE
+[2023.03.28-13.08.02:357][515]Cmd: ACTOR DELETE
+[2023.03.28-13.08.02:464][515]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.02:504][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.28-13.08.02:507][515]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2023.03.28-13.08.03:132][540]Cmd: DELETE
+[2023.03.28-13.08.03:132][540]Cmd: ACTOR DELETE
+[2023.03.28-13.08.03:239][540]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.03:278][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.08.03:281][540]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2023.03.28-13.08.03:671][555]Cmd: DELETE
+[2023.03.28-13.08.03:671][555]Cmd: ACTOR DELETE
+[2023.03.28-13.08.03:780][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.03:818][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.08.03:821][555]LogEditorActor: Deleted 1 Actors (0.150 secs)
+[2023.03.28-13.08.07:311][739]Cmd: DELETE
+[2023.03.28-13.08.07:311][739]Cmd: ACTOR DELETE
+[2023.03.28-13.08.07:418][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.07:458][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.08.07:461][739]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2023.03.28-13.08.14:527][ 28]Cmd: DELETE
+[2023.03.28-13.08.14:527][ 28]Cmd: ACTOR DELETE
+[2023.03.28-13.08.14:636][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.14:677][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.28-13.08.14:680][ 28]LogEditorActor: Deleted 1 Actors (0.153 secs)
+[2023.03.28-13.08.15:522][ 55]Cmd: DELETE
+[2023.03.28-13.08.15:522][ 55]Cmd: ACTOR DELETE
+[2023.03.28-13.08.15:632][ 55]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.15:676][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.28-13.08.15:678][ 55]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2023.03.28-13.08.16:775][ 90]Cmd: DELETE
+[2023.03.28-13.08.16:775][ 90]Cmd: ACTOR DELETE
+[2023.03.28-13.08.16:884][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.16:927][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.28-13.08.16:930][ 90]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2023.03.28-13.08.17:743][116]Cmd: DELETE
+[2023.03.28-13.08.17:743][116]Cmd: ACTOR DELETE
+[2023.03.28-13.08.17:852][116]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.17:894][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.08.17:897][116]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2023.03.28-13.08.18:549][137]Cmd: DELETE
+[2023.03.28-13.08.18:549][137]Cmd: ACTOR DELETE
+[2023.03.28-13.08.18:658][137]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.18:701][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.28-13.08.18:703][137]LogEditorActor: Deleted 1 Actors (0.154 secs)
+[2023.03.28-13.08.19:393][158]Cmd: DELETE
+[2023.03.28-13.08.19:393][158]Cmd: ACTOR DELETE
+[2023.03.28-13.08.19:502][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.19:546][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.03.28-13.08.19:548][158]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2023.03.28-13.08.20:395][185]Cmd: DELETE
+[2023.03.28-13.08.20:395][185]Cmd: ACTOR DELETE
+[2023.03.28-13.08.20:503][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.20:546][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.28-13.08.20:549][185]LogEditorActor: Deleted 1 Actors (0.154 secs)
+[2023.03.28-13.08.21:264][207]Cmd: DELETE
+[2023.03.28-13.08.21:264][207]Cmd: ACTOR DELETE
+[2023.03.28-13.08.21:374][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.21:418][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.28-13.08.21:421][207]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2023.03.28-13.08.22:282][235]Cmd: DELETE
+[2023.03.28-13.08.22:282][235]Cmd: ACTOR DELETE
+[2023.03.28-13.08.22:395][235]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.22:439][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.28-13.08.22:442][235]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2023.03.28-13.08.23:245][261]Cmd: DELETE
+[2023.03.28-13.08.23:245][261]Cmd: ACTOR DELETE
+[2023.03.28-13.08.23:356][261]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.23:401][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.28-13.08.23:404][261]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2023.03.28-13.08.28:365][412]Cmd: DELETE
+[2023.03.28-13.08.28:365][412]Cmd: ACTOR DELETE
+[2023.03.28-13.08.28:475][412]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.28:521][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.28-13.08.28:524][412]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2023.03.28-13.08.29:487][438]Cmd: DELETE
+[2023.03.28-13.08.29:487][438]Cmd: ACTOR DELETE
+[2023.03.28-13.08.29:598][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.29:644][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.28-13.08.29:646][438]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2023.03.28-13.08.31:474][486]Cmd: DELETE
+[2023.03.28-13.08.31:474][486]Cmd: ACTOR DELETE
+[2023.03.28-13.08.31:583][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.31:630][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.28-13.08.31:633][486]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2023.03.28-13.08.32:475][506]Cmd: DELETE
+[2023.03.28-13.08.32:475][506]Cmd: ACTOR DELETE
+[2023.03.28-13.08.32:584][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.32:631][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.28-13.08.32:634][506]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2023.03.28-13.08.33:178][519]Cmd: DELETE
+[2023.03.28-13.08.33:178][519]Cmd: ACTOR DELETE
+[2023.03.28-13.08.33:286][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.33:334][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.28-13.08.33:336][519]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2023.03.28-13.08.34:445][547]Cmd: DELETE
+[2023.03.28-13.08.34:446][547]Cmd: ACTOR DELETE
+[2023.03.28-13.08.34:554][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.34:602][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.28-13.08.34:605][547]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2023.03.28-13.08.35:400][567]Cmd: DELETE
+[2023.03.28-13.08.35:400][567]Cmd: ACTOR DELETE
+[2023.03.28-13.08.35:509][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.35:556][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.28-13.08.35:559][567]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2023.03.28-13.08.36:351][587]Cmd: DELETE
+[2023.03.28-13.08.36:351][587]Cmd: ACTOR DELETE
+[2023.03.28-13.08.36:462][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.36:510][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.28-13.08.36:513][587]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2023.03.28-13.08.37:442][610]Cmd: DELETE
+[2023.03.28-13.08.37:442][610]Cmd: ACTOR DELETE
+[2023.03.28-13.08.37:551][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.37:600][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.28-13.08.37:603][610]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2023.03.28-13.08.38:513][634]Cmd: DELETE
+[2023.03.28-13.08.38:513][634]Cmd: ACTOR DELETE
+[2023.03.28-13.08.38:622][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.08.38:671][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.28-13.08.38:674][634]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2023.03.28-13.08.44:860][832]LogViewport: Scene viewport resized to 506x284, mode Windowed.
+[2023.03.28-13.08.52:397][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-13.08.52:759][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.28-13.08.54:314][882]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Investigation_level
+[2023.03.28-13.08.54:314][882]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level08A0C2C042A5147EEC915187A7CF2593.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Investigation_level.umap'
+[2023.03.28-13.08.54:375][882]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPerson/Maps/Investigation_level_BuiltData
+[2023.03.28-13.08.54:375][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-13.08.57:044][882]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Investigation_level_BuiltData
+[2023.03.28-13.08.57:044][882]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level_BuiltData0C871A19495D9C8AB9C5EFB163F7FBB1.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Investigation_level_BuiltData.uasset'
+[2023.03.28-13.08.57:046][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.67 sec (total: 17.3 sec)
+[2023.03.28-13.08.57:046][882]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPerson/Maps/Investigation_level_BuiltData
+[2023.03.28-13.08.57:046][882]LogFileHelpers: Saving map 'Investigation_level' took 4.357
+[2023.03.28-13.08.57:052][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.65 sec (total: 21.9 sec)
+[2023.03.28-13.08.57:083][882]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.28-13.08.57:083][882]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Investigation_level.Investigation_level
+[2023.03.28-13.08.57:083][882]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/ThirdPerson/Maps/Investigation_level_BuiltData.Investigation_level_BuiltData
+[2023.03.28-13.09.24:229][ 74]Cmd: DELETE
+[2023.03.28-13.09.24:229][ 74]Cmd: ACTOR DELETE
+[2023.03.28-13.09.24:341][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.24:357][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.28-13.09.24:360][ 74]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2023.03.28-13.09.25:916][117]Cmd: DELETE
+[2023.03.28-13.09.25:916][117]Cmd: ACTOR DELETE
+[2023.03.28-13.09.26:024][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.26:040][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.28-13.09.26:043][117]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2023.03.28-13.09.26:928][140]Cmd: DELETE
+[2023.03.28-13.09.26:929][140]Cmd: ACTOR DELETE
+[2023.03.28-13.09.27:039][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.27:055][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.28-13.09.27:056][140]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2023.03.28-13.09.28:053][166]Cmd: DELETE
+[2023.03.28-13.09.28:054][166]Cmd: ACTOR DELETE
+[2023.03.28-13.09.28:162][166]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.28:177][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.28-13.09.28:180][166]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2023.03.28-13.09.30:868][243]Cmd: DELETE
+[2023.03.28-13.09.30:868][243]Cmd: ACTOR DELETE
+[2023.03.28-13.09.30:977][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.30:993][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.28-13.09.30:995][243]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2023.03.28-13.09.31:813][263]Cmd: DELETE
+[2023.03.28-13.09.31:813][263]Cmd: ACTOR DELETE
+[2023.03.28-13.09.31:925][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.31:942][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.28-13.09.31:944][263]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2023.03.28-13.09.32:790][284]Cmd: DELETE
+[2023.03.28-13.09.32:790][284]Cmd: ACTOR DELETE
+[2023.03.28-13.09.32:902][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.32:919][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.28-13.09.32:922][284]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2023.03.28-13.09.33:395][295]Cmd: DELETE
+[2023.03.28-13.09.33:396][295]Cmd: ACTOR DELETE
+[2023.03.28-13.09.33:505][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.09.33:523][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.28-13.09.33:525][295]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2023.03.28-13.15.31:638][132]Cmd: DELETE
+[2023.03.28-13.15.31:638][132]Cmd: ACTOR DELETE
+[2023.03.28-13.15.31:754][132]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.15.31:778][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.03.28-13.15.31:783][132]LogEditorActor: Deleted 1 Actors (0.145 secs)
+[2023.03.28-13.18.52:561][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.03.28-13.18.54:085][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Investigation_level_Auto5
+[2023.03.28-13.18.54:085][600]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level_Auto5A7320D1C4D2B0A7CD611E3870B4EDA32.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Investigation_level_Auto5.umap'
+[2023.03.28-13.18.54:111][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Investigation_level' took 1.572
+[2023.03.28-13.18.54:111][600]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.572
+[2023.03.28-13.21.21:947][312]Cmd: TRANSACTION UNDO
+[2023.03.28-13.21.21:947][312]LogEditorTransaction: Undo Move Elements
+[2023.03.28-13.24.48:104][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.03.28-13.24.50:142][378]LogSlate: Window 'Save Content' being destroyed
+[2023.03.28-13.24.52:897][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-13.24.52:990][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.28-13.24.54:482][554]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Investigation_level
+[2023.03.28-13.24.54:482][554]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level3894F3CF4222AE22029443B73C3240B8.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Investigation_level.umap'
+[2023.03.28-13.24.54:527][554]LogFileHelpers: No new changes to save!
+[2023.03.28-13.24.54:527][554]LogFileHelpers: Saving map 'Investigation_level' took 1.573
+[2023.03.28-13.24.54:533][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.63 sec (total: 23.6 sec)
+[2023.03.28-13.24.54:541][554]AssetCheck: New page: Asset Save: Investigation_level
+[2023.03.28-13.24.54:541][554]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Investigation_level.Investigation_level
+[2023.03.28-13.25.03:095][109]Cmd: DELETE
+[2023.03.28-13.25.03:095][109]Cmd: ACTOR DELETE
+[2023.03.28-13.25.03:200][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.25.03:216][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.28-13.25.03:219][109]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2023.03.28-13.32.23:920][422]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png
+[2023.03.28-13.33.08:069][619]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-13.33.08:069][619]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-13.33.08:070][619]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.28-13.33.24:070][682]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00002.png
+[2023.03.28-13.34.52:987][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.28-13.34.54:579][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Investigation_level_Auto6
+[2023.03.28-13.34.54:579][238]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level_Auto677F7D79549A28A8B11F9639B68A4FD50.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Investigation_level_Auto6.umap'
+[2023.03.28-13.34.54:605][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Investigation_level' took 1.644
+[2023.03.28-13.34.54:605][238]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.644
+[2023.03.28-13.35.01:741][302]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-13.35.01:741][302]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-13.35.01:744][302]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.28-13.35.07:166][692]Cmd: TRANSACTION UNDO
+[2023.03.28-13.35.07:166][692]LogEditorTransaction: Undo Move Elements
+[2023.03.28-13.36.33:788][515]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00003.png
+[2023.03.28-13.36.34:448][541]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-13.36.34:448][541]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-13.36.34:448][541]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.28-13.36.46:571][219]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00004.png
+[2023.03.28-13.36.47:224][236]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-13.36.47:224][236]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-13.36.47:225][236]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.28-13.37.11:793][828]Cmd: DELETE
+[2023.03.28-13.37.11:793][828]Cmd: ACTOR DELETE
+[2023.03.28-13.37.11:905][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:909][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:912][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:915][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:917][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:919][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:922][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:925][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:927][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:930][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:932][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:935][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:938][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:941][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:944][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:946][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:949][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:952][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:955][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:957][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:960][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:962][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:965][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:968][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:971][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:973][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:976][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:978][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:980][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:983][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:986][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:988][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:990][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:993][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:995][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.11:998][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:000][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:002][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:005][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:007][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:010][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:012][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:014][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:017][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:019][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:022][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:026][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:028][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:031][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:033][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:036][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:038][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:040][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:042][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:045][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:048][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:050][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:052][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:055][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:057][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:059][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:062][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:064][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:066][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:069][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:071][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:073][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:076][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:078][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:081][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:083][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:085][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:088][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:091][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:094][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:097][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:100][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:102][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:104][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:107][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:110][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:112][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:115][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:117][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:119][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:123][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:126][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:128][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:130][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:133][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:135][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:138][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:141][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:143][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:146][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:148][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:150][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:153][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:156][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:159][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:161][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:164][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:166][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:169][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:171][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:174][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:176][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:178][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:180][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:183][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:185][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:187][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:190][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:193][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:195][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:198][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:200][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:203][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:205][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:208][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:210][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:212][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:215][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:218][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:222][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:225][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:227][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:230][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:232][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:235][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:237][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:240][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:242][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:245][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:247][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:250][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:252][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:254][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:256][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:259][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:261][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:263][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:266][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:268][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:271][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:274][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:276][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:278][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:281][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:284][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:286][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:288][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:291][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:293][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:296][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:298][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:301][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:304][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:306][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:308][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:312][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:315][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:318][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:320][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:323][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:326][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:328][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:331][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:333][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:336][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:338][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:341][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:343][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:346][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:348][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:351][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:353][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:356][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:358][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:360][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:363][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:365][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:367][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:370][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:372][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:374][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:377][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:379][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:381][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:383][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:385][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:388][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:390][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:392][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:394][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:397][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:399][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:401][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:404][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:406][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:409][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:411][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:413][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:415][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:418][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:421][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:424][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:426][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:428][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:431][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:433][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:435][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:438][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:440][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:442][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:445][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:447][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:449][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:451][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:453][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.28-13.37.12:480][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.28-13.37.12:485][828]LogEditorActor: Deleted 220 Actors (0.692 secs)
+[2023.03.28-13.37.12:535][828]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.03.28-13.37.14:460][966]LogUdpMessaging: Display: Added local interface '10.6.118.15' to multicast group '230.0.0.1:6666'
+[2023.03.28-13.37.17:329][249]LogViewport: Scene viewport resized to 506x284, mode Windowed.
+[2023.03.28-13.37.22:868][619]Cmd: TRANSACTION UNDO
+[2023.03.28-13.37.22:868][619]LogEditorTransaction: Undo Set Item Visibility
+[2023.03.28-13.37.30:623][295]LogViewport: Scene viewport resized to 506x284, mode Windowed.
+[2023.03.28-13.38.27:828][548]LogShaderCompilers: Display: ================================================
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Total job queries 3307, among them cache hits 251 (7.59%)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Tracking 3056 distinct input hashes that result in 1267 distinct outputs (41.46%)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: RAM used: 8.49 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.52%
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Shaders Compiled: 3056
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Jobs assigned 3056, completed 3056 (100.00%)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Average time worker was idle: 22.27 s
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Time job spent in pending queue: average 64.39 s, longest 229.18 s
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 31.90 s
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Job life time (pending + execution): average 66.00 s, max 229.80
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 468.61 s
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Jobs were issued in 2878 batches (only local compilation was used), average 1.06 jobs/batch
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Average processing rate: 6.52 jobs/sec
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Total thread time: 2931.59 s
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Total thread preprocess time: 162.49 s
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Effective parallelization: 6.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 7.98 sec, max 7.98 sec, min 7.98 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.45 sec, max 6.45 sec, min 6.45 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 6.12 sec, max 11.06 sec, min 2.11 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 5.78 sec, max 5.78 sec, min 5.78 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.87% of total time (compiled  288 times, average 0.90 sec, max 4.58 sec, min 0.53 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.09% of total time (compiled  290 times, average 0.82 sec, max 1.43 sec, min 0.50 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.89% of total time (compiled  101 times, average 1.42 sec, max 5.74 sec, min 0.74 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.87% of total time (compiled  186 times, average 0.61 sec, max 1.52 sec, min 0.39 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 3.78% of total time (compiled   85 times, average 1.30 sec, max 5.24 sec, min 0.84 sec)
+[2023.03.28-13.38.27:829][548]LogShaderCompilers: Display: ================================================
+[2023.03.28-13.38.40:680][329]Cmd: SELECT NONE
+[2023.03.28-13.38.47:438][897]Cmd: TRANSACTION UNDO
+[2023.03.28-13.38.47:438][897]LogEditorTransaction: Undo Select None
+[2023.03.28-13.38.48:001][905]Cmd: TRANSACTION UNDO
+[2023.03.28-13.38.48:001][905]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.28-13.38.48:510][935]Cmd: TRANSACTION UNDO
+[2023.03.28-13.38.48:510][935]LogEditorTransaction: Undo Move Elements
+[2023.03.28-13.39.43:715][862]Cmd: TRANSACTION UNDO
+[2023.03.28-13.39.43:715][862]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.28-13.40.12:017][689]LogEditorViewport: Clicking Background
+[2023.03.28-13.40.22:770][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.28-13.40.22:866][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.28-13.40.24:452][501]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Investigation_level
+[2023.03.28-13.40.24:453][501]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_level4B2D951C4ACE65DD0B6A50A6ECB37E2B.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Investigation_level.umap'
+[2023.03.28-13.40.24:503][501]LogFileHelpers: No new changes to save!
+[2023.03.28-13.40.24:503][501]LogFileHelpers: Saving map 'Investigation_level' took 1.674
+[2023.03.28-13.40.24:509][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.73 sec (total: 25.3 sec)
+[2023.03.28-13.40.24:539][501]AssetCheck: New page: Asset Save: Investigation_level
+[2023.03.28-13.40.24:539][501]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Investigation_level.Investigation_level
+[2023.03.28-13.40.38:007][565]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00005.png
+[2023.03.28-13.40.47:596][662]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.101 and deleted 0 files with total size 0 MiB. Scanned 15794 files in 15394 folders with total size 1783 MiB.
+[2023.03.28-13.41.21:209][815]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-13.41.21:209][815]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-13.41.21:210][815]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.28-13.41.40:206][905]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00006.png
+[2023.03.28-13.41.41:366][951]Cmd: r.ResetRenderTargetsExtent
+[2023.03.28-13.41.41:366][951]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.03.28-13.41.41:366][951]LogSlate: Window 'High Resolution Screenshot' being destroyed
