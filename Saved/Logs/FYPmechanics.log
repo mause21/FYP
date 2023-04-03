@@ -2226,3 +2226,227 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.03-12.44.48:140][527]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
 [2023.04.03-13.00.36:251][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Enemy/Shooter_AI/StationaryShooter_AI.StationaryShooter_AI
 [2023.04.03-13.00.36:252][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-13.03.39:030][798]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s027702k\Downloads\Enemy.fbx)
+[2023.04.03-13.03.39:230][798]LogFbx: Loading FBX Scene from C:\Users\s027702k\Downloads\Enemy.fbx
+[2023.04.03-13.03.39:434][798]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.03-13.03.42:780][798]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.03-13.03.42:815][798]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch15
+[2023.04.03-13.03.42:821][798]LogMaterial: Display: Material /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_body.Ch15_body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.03-13.03.43:228][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.43:296][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1001_Diffuse.Ch15_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.43:562][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.43:700][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1001_Specular.Ch15_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.43:735][798]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.04.03-13.03.43:775][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1001_Glossiness.Ch15_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.44:398][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.44:447][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1001_Normal.Ch15_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.44:533][798]LogMaterial: Display: Material /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_body1.Ch15_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.03-13.03.45:041][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.45:115][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1002_Diffuse.Ch15_1002_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.45:245][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.45:341][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1002_Emissive.Ch15_1002_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.45:658][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.45:738][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1002_Specular.Ch15_1002_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.45:888][798]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.04.03-13.03.45:918][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1002_Glossiness.Ch15_1002_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.46:632][798]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.04.03-13.03.46:721][798]LogTexture: Display: Building textures: /Game/ThirdPerson/Enemy/Shooter_AI/Ch15_1002_Normal.Ch15_1002_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.04.03-13.03.46:787][798]LogFbx: Triangulating skeletal mesh Ch15
+[2023.04.03-13.03.48:026][798]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2023.04.03-13.03.49:176][798]LogSkeletalMesh: Section 0: Material=0, 13456 triangles
+[2023.04.03-13.03.49:176][798]LogSkeletalMesh: Section 1: Material=1, 32845 triangles
+[2023.04.03-13.03.49:392][798]LogSkeletalMesh: Building Skeletal Mesh Enemy...
+[2023.04.03-13.03.49:420][798]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Enemy) ...
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: ================================================
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Total job queries 974, among them cache hits 125 (12.83%)
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Tracking 826 distinct input hashes that result in 441 distinct outputs (53.39%)
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: RAM used: 2.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Shaders Compiled: 826
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Jobs assigned 826, completed 826 (100.00%)
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Average time worker was idle: 29.90 s
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Time job spent in pending queue: average 10.95 s, longest 32.05 s
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Job execution time: average 2.24 s, max 35.28 s
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Job life time (pending + execution): average 13.19 s, max 43.55
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 133.96 s
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Jobs were issued in 756 batches (only local compilation was used), average 1.09 jobs/batch
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Average processing rate: 6.17 jobs/sec
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Total thread time: 786.31 s
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Total thread preprocess time: 43.52 s
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Effective parallelization: 5.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.28 sec, max 9.28 sec, min 9.28 sec)
+[2023.04.03-13.03.49:420][798]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 8.71 sec, max 8.71 sec, min 8.71 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 7.27 sec, max 14.38 sec, min 3.19 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 6.43 sec, max 6.43 sec, min 6.43 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.86% of total time (compiled   97 times, average 1.29 sec, max 4.93 sec, min 0.73 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 15.72% of total time (compiled   17 times, average 7.27 sec, max 14.38 sec, min 3.19 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.16% of total time (compiled   98 times, average 0.98 sec, max 2.27 sec, min 0.61 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.72% of total time (compiled  107 times, average 0.64 sec, max 1.14 sec, min 0.38 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.48% of total time (compiled  108 times, average 0.40 sec, max 0.73 sec, min 0.24 sec)
+[2023.04.03-13.03.49:421][798]LogShaderCompilers: Display: ================================================
+[2023.04.03-13.03.50:167][798]LogSkeletalMesh: Built Skeletal Mesh [0.77s] /Game/ThirdPerson/Enemy/Shooter_AI/Enemy.Enemy
+[2023.04.03-13.03.50:308][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.03-13.03.50:349][798]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-13.03.50:349][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(0) Hips
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(1) Spine
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(2) Spine1
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(3) Spine2
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(4) Neck
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(5) Head
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.04.03-13.03.50:367][798]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(31) RightShoulder
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(32) RightArm
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(33) RightForeArm
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(34) RightHand
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(56) LeftLeg
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(57) LeftFoot
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(61) RightLeg
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(62) RightFoot
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(63) RightToeBase
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(64) RightToe_End
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(0) Hips
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(1) Spine
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(2) Spine1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(3) Spine2
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(4) Neck
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(5) Head
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(8) LeftArm
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(10) LeftHand
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.04.03-13.03.50:368][798]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(31) RightShoulder
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(32) RightArm
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(33) RightForeArm
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(34) RightHand
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(56) LeftLeg
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(57) LeftFoot
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(61) RightLeg
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(62) RightFoot
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(63) RightToeBase
+[2023.04.03-13.03.50:369][798]LogFbx: SortedLinks :(64) RightToe_End
+[2023.04.03-13.03.50:369][798]LogFbx: Parsing AnimStack Take 001
+[2023.04.03-13.03.50:369][798]LogFbx: Parsing AnimStack mixamo.com
+[2023.04.03-13.03.50:553][798]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Anim_mixamo_com.Enemy_Anim_mixamo_com
+[2023.04.03-13.03.50:574][798]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.03-13.03.50:575][798]FBXImport: Error: Animation length 9.08 is not compatible with import frame-rate 30 fps (sub frame 0.4), animation has to be frame-border aligned. Either re-export animation or enable snap to closest frame boundary import option. 
+[2023.04.03-13.03.53:858][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.04.03-13.03.53:859][970]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Part_three' took 0.037
+[2023.04.03-13.03.53:859][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Enemy/Shooter_AI/Enemy] ([1] browsable assets)...
+[2023.04.03-13.03.53:871][970]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPerson/Enemy/Shooter_AI/Enemy.Enemy]
+[2023.04.03-13.03.53:871][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Enemy/Shooter_AI/Enemy]
+[2023.04.03-13.03.53:941][970]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Auto2
+[2023.04.03-13.03.53:941][970]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Enemy_Auto2110964294F50DCB1DB3187B3423454F2.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Auto2.uasset'
+[2023.04.03-13.03.53:942][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Skeleton] ([1] browsable assets)...
+[2023.04.03-13.03.53:954][970]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Skeleton.Enemy_Skeleton]
+[2023.04.03-13.03.53:954][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Skeleton]
+[2023.04.03-13.03.53:956][970]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Skeleton_Auto2
+[2023.04.03-13.03.53:956][970]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Enemy_Skeleton_Auto2071182DF4F459CF5E4A4E1B86FCD69BE.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_Skeleton_Auto2.uasset'
+[2023.04.03-13.03.53:956][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_PhysicsAsset] ([1] browsable assets)...
+[2023.04.03-13.03.53:961][970]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPerson/Enemy/Shooter_AI/Enemy_PhysicsAsset.Enemy_PhysicsAsset]
+[2023.04.03-13.03.53:961][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_PhysicsAsset]
+[2023.04.03-13.03.53:966][970]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_PhysicsAsset_Auto2
+[2023.04.03-13.03.53:966][970]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Enemy_PhysicsAsset_Auto28E3EFE0048B7A5FB06D344BD1D322BE9.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Enemy/Shooter_AI/Enemy_PhysicsAsset_Auto2.uasset'
+[2023.04.03-13.03.53:967][970]LogFileHelpers: Auto-saving content packages took 0.107
+[2023.04.03-13.04.03:003][836]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.03-13.04.03:007][836]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.03-13.04.04:404][984]LogSlate: Window 'Message Log' being destroyed
+[2023.04.03-13.04.04:409][984]LogSlate: Window 'Message Log' being destroyed
