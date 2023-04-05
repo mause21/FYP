@@ -1,0 +1,6 @@
+2023/04/05-15:02:10.543 57a4 Creating DB C:/Users/s027702k/Documents/GitHub/FYP/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/04/05-15:02:10.553 57a4 Reusing MANIFEST C:/Users/s027702k/Documents/GitHub/FYP/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/05-15:05:58.064 3a34 Level-0 table #5: started
+2023/04/05-15:05:58.069 3a34 Level-0 table #5: 8919 bytes OK
+2023/04/05-15:05:58.071 3a34 Delete type=0 #3
+2023/04/05-15:05:58.071 3a34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

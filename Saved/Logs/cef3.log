@@ -1,0 +1,16 @@
+[0405/145955.025:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0405/150155.964:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0405/150155.964:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0405/150155.964:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0405/150155.965:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0405/150155.965:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0405/153606.658:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[0405/153606.658:ERROR:dns_config_service.cc(259)] DNS config watch failed.
