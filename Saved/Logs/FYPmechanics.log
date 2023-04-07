@@ -3890,3 +3890,24 @@ UnknownFunction []
 [2023.04.07-18.46.48:356][561]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen_Auto4EA9A5DF34595A6D67D4F42A0A6F0A10A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/Title_Screen/Title_Screen_Auto4.umap'
 [2023.04.07-18.46.48:364][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Title_Screen/Title_Screen' took 0.063
 [2023.04.07-18.46.48:364][561]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2023.04.07-18.48.08:475][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.07-18.48.11:472][827]LogSlate: Window 'Save Content' being destroyed
+[2023.04.07-18.48.11:493][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-18.48.11:589][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.04.07-18.48.11:598][827]LogSavePackage: Moving output files for package: /Game/Title_Screen/Title_Screen
+[2023.04.07-18.48.11:599][827]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_ScreenC1D5EA2944F112E73D3C5FB5F7FFC768.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Title_Screen.umap'
+[2023.04.07-18.48.11:613][827]LogFileHelpers: No new changes to save!
+[2023.04.07-18.48.11:613][827]LogFileHelpers: Saving map 'Title_Screen' took 0.067
+[2023.04.07-18.48.11:619][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3.22 sec)
+[2023.04.07-18.48.11:629][828]LogAutomationController: Ignoring very large delta of 3.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-18.48.11:636][828]AssetCheck: New page: Asset Save: Title_Screen
+[2023.04.07-18.48.11:636][828]LogContentValidation: Display: Validating /Script/Engine.World /Game/Title_Screen/Title_Screen.Title_Screen
+[2023.04.07-19.05.08:651][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-19.05.08:752][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.07-19.05.08:762][340]LogSavePackage: Moving output files for package: /Game/Title_Screen/Title_Screen
+[2023.04.07-19.05.08:763][340]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen5C3E11424CC3E6DFFCD90180F129652E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Title_Screen.umap'
+[2023.04.07-19.05.08:777][340]LogFileHelpers: No new changes to save!
+[2023.04.07-19.05.08:777][340]LogFileHelpers: Saving map 'Title_Screen' took 0.076
+[2023.04.07-19.05.08:783][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 3.35 sec)
+[2023.04.07-19.05.08:791][340]AssetCheck: New page: Asset Save: Title_Screen
+[2023.04.07-19.05.08:791][340]LogContentValidation: Display: Validating /Script/Engine.World /Game/Title_Screen/Title_Screen.Title_Screen
