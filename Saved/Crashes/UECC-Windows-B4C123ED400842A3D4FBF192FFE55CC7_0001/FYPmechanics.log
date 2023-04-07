@@ -8773,22 +8773,3 @@ Script Stack (0 frames) :
 [2023.04.07-17.18.04:087][845]LogOutputDevice: Error: [Callstack] 0x00007ffa38777614 KERNEL32.DLL!UnknownFunction []
 [2023.04.07-17.18.04:087][845]LogOutputDevice: Error: [Callstack] 0x00007ffa38da26a1 ntdll.dll!UnknownFunction []
 [2023.04.07-17.18.04:087][845]LogOutputDevice: Error: 
-[2023.04.07-17.18.04:091][845]LogStats:                SubmitErrorReport -  0.000 s
-[2023.04.07-17.18.04:745][845]LogStats:                    SendNewReport -  0.655 s
-[2023.04.07-17.18.04:745][845]LogStats:             FDebug::EnsureFailed -  0.694 s
-[2023.04.07-17.18.06:111][845]LogSlate: Window 'Save Level As' being destroyed
-[2023.04.07-17.18.06:136][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.3 sec (total: 22.1 sec)
-[2023.04.07-17.18.06:143][846]LogAutomationController: Ignoring very large delta of 12.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2023.04.07-17.18.08:009][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2023.04.07-17.18.10:916][ 16]LogSlate: Window 'Save Content' being destroyed
-[2023.04.07-17.18.10:929][ 17]LogAutomationController: Ignoring very large delta of 2.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2023.04.07-17.18.12:420][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.04.07-17.18.12:503][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
-[2023.04.07-17.18.12:513][169]LogSavePackage: Moving output files for package: /Game/Title_Screen/Title_Screen
-[2023.04.07-17.18.12:514][169]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen1E5AB61C44FC15287A6A67A6F4EDE607.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Title_Screen.umap'
-[2023.04.07-17.18.12:527][169]LogFileHelpers: Saving map 'Title_Screen' took 0.075
-[2023.04.07-17.18.12:533][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 22.2 sec)
-[2023.04.07-17.18.12:541][169]AssetCheck: New page: Asset Save: Title_Screen
-[2023.04.07-17.18.12:541][169]LogContentValidation: Display: Validating /Script/Engine.World /Game/Title_Screen/Title_Screen.Title_Screen
-[2023.04.07-17.18.15:637][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2023.04.07-17.18.17:412][513]LogSlate: Window 'Save Content' being destroyed
