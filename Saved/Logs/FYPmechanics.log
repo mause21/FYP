@@ -6693,3 +6693,1173 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.07-12.17.18:289][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Enemy_Under_Control_Auto4
 [2023.04.07-12.17.18:289][615]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Enemy_Under_Control_Auto4C9842E774F71B0A2FE240E9BE090EB33.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/Characters/Enemy_Under_Control_Auto4.uasset'
 [2023.04.07-12.17.18:290][615]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.04.07-12.24.09:149][692]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.04.07-12.24.09:201][692]LogContentBrowser: Creating deferred item: NewWorld
+[2023.04.07-12.24.09:213][693]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.04.07-12.24.15:719][ 46]LogContentBrowser: Attempting asset rename: NewWorld -> Title_Screen
+[2023.04.07-12.24.15:724][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-12.24.15:738][ 46]LogContentBrowser: End creating deferred item NewWorld
+[2023.04.07-12.24.17:428][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.07-12.24.18:475][129]LogSlate: Window 'Save Content' being destroyed
+[2023.04.07-12.24.18:485][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-12.24.18:625][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.04.07-12.24.20:582][129]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Investigation_level
+[2023.04.07-12.24.20:583][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Investigation_levelF7BFF0D04BE92C7B1516FCB243D06F6C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Investigation_level.umap'
+[2023.04.07-12.24.20:632][129]LogFileHelpers: Saving map 'Investigation_level' took 2.088
+[2023.04.07-12.24.20:700][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.07-12.24.20:704][129]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Title_Screen
+[2023.04.07-12.24.20:704][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen671EF0EF4B5442BE17A192965EF0DF8E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Title_Screen.umap'
+[2023.04.07-12.24.20:709][129]LogFileHelpers: Saving map 'Title_Screen' took 0.077
+[2023.04.07-12.24.20:710][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Enemy_Under_Control" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Characters/Enemy_Under_Control.uasset" SILENT=true
+[2023.04.07-12.24.20:726][129]LogSavePackage: Moving output files for package: /Game/Characters/Enemy_Under_Control
+[2023.04.07-12.24.20:726][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Enemy_Under_Control8C0152F14B1C57E2A5863D9A4FBC0544.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Characters/Enemy_Under_Control.uasset'
+[2023.04.07-12.24.20:727][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Titlescreen_man" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Characters/Titlescreen_man.uasset" SILENT=true
+[2023.04.07-12.24.20:746][129]LogSavePackage: Moving output files for package: /Game/Characters/Titlescreen_man
+[2023.04.07-12.24.20:746][129]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Titlescreen_manBB09766D4081035DD0B7CFA3406E5151.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Characters/Titlescreen_man.uasset'
+[2023.04.07-12.24.20:754][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.26 sec (total: 7.81 sec)
+[2023.04.07-12.24.20:759][129]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Title_Screen.Title_Screen
+[2023.04.07-12.24.20:760][129]Cmd: MAP LOAD FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Title_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.07-12.24.20:760][129]LightingResults: New page: Lighting Build
+[2023.04.07-12.24.20:760][129]LoadErrors: New page: Loading map: Title_Screen.umap
+[2023.04.07-12.24.20:846][129]LogWorld: UWorld::CleanupWorld for Investigation_level, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.24.20:851][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.24.20:853][129]MapCheck: New page: Map Check
+[2023.04.07-12.24.20:853][129]LightingResults: New page: Lighting Build
+[2023.04.07-12.24.20:921][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-12.24.21:030][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.04.07-12.24.21:074][129]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.24.21:075][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.24.21:142][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.07-12.24.21:214][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.07-12.24.21:217][129]LogAudio: Display: Audio Device (ID: 1) registered with world 'Title_Screen'.
+[2023.04.07-12.24.21:217][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-12.24.21:217][129]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-12.24.21:227][129]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.07-12.24.21:290][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.07-12.24.21:304][129]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.07-12.24.21:304][129]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2023.04.07-12.24.21:304][129]LogFileHelpers: Loading map 'Title_Screen' took 0.545
+[2023.04.07-12.24.21:326][129]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.07-12.24.21:326][129]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Characters/Enemy_Under_Control.Enemy_Under_Control
+[2023.04.07-12.24.21:326][129]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Title_Screen.Title_Screen
+[2023.04.07-12.24.21:326][129]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Characters/Titlescreen_man.Titlescreen_man
+[2023.04.07-12.24.21:333][130]LogAutomationController: Ignoring very large delta of 3.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-12.24.28:257][918]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.04.07-12.24.28:257][918]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.04.07-12.24.28:259][918]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.DirectionalLight_0
+[2023.04.07-12.24.28:259][918]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.DirectionalLight_0
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: ================================================
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Total job queries 3981, among them cache hits 227 (5.70%)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Tracking 3751 distinct input hashes that result in 2523 distinct outputs (67.26%)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: RAM used: 10.31 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.63%
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Shaders Compiled: 3751
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Jobs assigned 3754, completed 3751 (99.92%)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Average time worker was idle: 63.95 s
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Time job spent in pending queue: average 165.59 s, longest 458.13 s
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Job execution time: average 10.21 s, max 41.10 s
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Job life time (pending + execution): average 175.93 s, max 464.90
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 588.73 s
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Jobs were issued in 940 batches (only local compilation was used), average 3.99 jobs/batch
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Average processing rate: 6.37 jobs/sec
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Total thread time: 4361.54 s
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Total thread preprocess time: 179.00 s
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Percentage time preprocessing: 4.10%
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Effective parallelization: 7.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.97% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-12.24.41:360][420]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.25% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-12.24.41:361][420]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.34% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-12.24.41:361][420]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.96% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-12.24.41:361][420]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.82% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-12.24.41:361][420]LogShaderCompilers: Display: ================================================
+[2023.04.07-12.24.43:119][613]LogStaticMesh: Display: Building static mesh Skybox...
+[2023.04.07-12.24.43:151][613]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.04.07-12.24.43:199][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.04.07-12.24.43:200][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.04.07-12.24.43:200][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox as actor: StaticMeshActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_0
+[2023.04.07-12.24.43:554][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.04.07-12.24.43:554][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2023.04.07-12.24.43:555][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Blueprints/Assets/Skybox.Skybox as actor: StaticMeshActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_1
+[2023.04.07-12.24.44:456][739]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, Skybox
+[2023.04.07-12.24.50:665][448]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.07-12.25.15:842][281]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.04.07-12.25.15:842][281]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.04.07-12.25.15:844][281]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.SkyLight_0
+[2023.04.07-12.25.15:844][281]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.SkyLight_0
+[2023.04.07-12.25.41:988][312]Cmd: DELETE
+[2023.04.07-12.25.41:988][312]Cmd: ACTOR DELETE
+[2023.04.07-12.25.41:989][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.07-12.25.42:091][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.07-12.25.42:097][312]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2023.04.07-12.25.44:873][635]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.07-12.25.57:614][118]Cmd: DELETE
+[2023.04.07-12.25.57:614][118]Cmd: ACTOR DELETE
+[2023.04.07-12.25.57:615][118]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.04.07-12.25.57:699][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.07-12.25.57:709][118]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2023.04.07-12.26.04:232][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-12.26.04:352][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.07-12.26.04:357][871]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Title_Screen
+[2023.04.07-12.26.04:358][871]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen7CE8DD204472D2F0A59B879B413E474C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Title_Screen.umap'
+[2023.04.07-12.26.04:371][871]LogFileHelpers: Saving map 'Title_Screen' took 0.082
+[2023.04.07-12.26.04:376][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 7.95 sec)
+[2023.04.07-12.26.04:385][871]AssetCheck: New page: Asset Save: Title_Screen
+[2023.04.07-12.26.04:385][871]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Title_Screen.Title_Screen
+[2023.04.07-12.26.11:575][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.07-12.26.11:575][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.04.07-12.26.11:577][706]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_3
+[2023.04.07-12.26.11:577][706]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_3
+[2023.04.07-12.26.47:008][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-12.26.47:106][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.07-12.26.47:113][705]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Title_Screen
+[2023.04.07-12.26.47:114][705]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen1434E0EE42875597D7E7F4898A11B4C8.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Title_Screen.umap'
+[2023.04.07-12.26.47:127][705]LogFileHelpers: Saving map 'Title_Screen' took 0.090
+[2023.04.07-12.26.47:132][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 8.08 sec)
+[2023.04.07-12.26.47:140][705]AssetCheck: New page: Asset Save: Title_Screen
+[2023.04.07-12.26.47:140][705]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Title_Screen.Title_Screen
+[2023.04.07-12.30.27:597][ 35]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Enemy_Under_Control.Enemy_Under_Control
+[2023.04.07-12.30.27:615][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-12.30.27:947][ 35]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.04.07-12.45.18:597][384]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.18:597][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.18:615][384]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.18:615][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.19:407][466]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.19:407][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.19:418][466]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.19:418][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.20:261][557]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.07-12.45.20:261][557]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.20:261][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.21:497][691]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.07-12.45.21:497][691]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.21:497][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.21:947][730]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.21:947][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.21:959][730]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.21:959][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.22:567][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.07-12.45.22:567][791]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.22:567][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.22:986][829]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.22:986][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.23:030][829]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.23:030][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.23:847][919]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.23:847][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.23:890][919]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.23:890][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.25:582][106]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-12.45.25:582][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: ================================================
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Total job queries 3999, among them cache hits 227 (5.68%)
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Tracking 3770 distinct input hashes that result in 2529 distinct outputs (67.08%)
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: RAM used: 10.35 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.63%
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Shaders Compiled: 3770
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Jobs assigned 3772, completed 3770 (99.95%)
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Average time worker was idle: 70.26 s
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Time job spent in pending queue: average 164.80 s, longest 458.13 s
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Job execution time: average 10.16 s, max 41.10 s
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Job life time (pending + execution): average 175.05 s, max 464.90
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 594.20 s
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Jobs were issued in 958 batches (only local compilation was used), average 3.94 jobs/batch
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Average processing rate: 6.34 jobs/sec
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Total thread time: 4369.82 s
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Total thread preprocess time: 179.62 s
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Effective parallelization: 7.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-12.45.38:125][483]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.95% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.23% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.33% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.95% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.82% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-12.45.38:126][483]LogShaderCompilers: Display: ================================================
+[2023.04.07-12.45.57:060][638]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2023.04.07-12.45.57:595][638]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2023.04.07-12.45.57:606][638]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2023.04.07-12.45.57:610][639]LogAutomationController: Ignoring very large delta of 18.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-12.45.57:649][639]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2023.04.07-12.46.03:708][348]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> Power
+[2023.04.07-12.46.03:813][348]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2023.04.07-12.46.04:576][413]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.811692 sec (time since issued), 2.213751 sec (combined shader worker time).
+[2023.04.07-12.46.04:726][416]LogNiagara: Warning: For some reason we are reporting that /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.04.07-12.46.04:727][416]LogNiagara: Warning: For some reason we are reporting that /Game/ThirdPerson/Char_Power/Power.Power:Fountain.UpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.04.07-12.46.04:727][416]LogNiagara: Warning: For some reason we are reporting that /Game/ThirdPerson/Char_Power/Power.Power:SystemSpawnScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.04.07-12.46.04:727][416]LogNiagara: Warning: For some reason we are reporting that /Game/ThirdPerson/Char_Power/Power.Power:SystemUpdateScript is in sync even though AreScriptAndSourceSynchronized returned false!
+[2023.04.07-12.46.04:729][416]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.925078 sec, no shader worker used.
+[2023.04.07-12.46.06:284][597]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-12.46.06:465][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-12.46.06:548][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-12.46.06:771][597]LogViewport: Scene viewport resized to 245x242, mode Windowed.
+[2023.04.07-12.46.07:436][631]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 1.117308 sec (time since issued), 2.536390 sec (combined shader worker time).
+[2023.04.07-12.46.07:587][638]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-12.46.08:379][660]LogViewport: Scene viewport resized to 244x253, mode Windowed.
+[2023.04.07-12.46.08:464][662]LogViewport: Scene viewport resized to 155x132, mode Windowed.
+[2023.04.07-12.46.08:659][670]LogViewport: Scene viewport resized to 378x424, mode Windowed.
+[2023.04.07-12.46.08:927][684]LogSlate: Window 'Power' being destroyed
+[2023.04.07-12.56.19:425][366]LogShaderCompilers: Display: ================================================
+[2023.04.07-12.56.19:425][366]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-12.56.19:425][366]LogShaderCompilers: Display: Total job queries 4024, among them cache hits 232 (5.77%)
+[2023.04.07-12.56.19:425][366]LogShaderCompilers: Display: Tracking 3791 distinct input hashes that result in 2546 distinct outputs (67.16%)
+[2023.04.07-12.56.19:425][366]LogShaderCompilers: Display: RAM used: 10.52 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.64%
+[2023.04.07-12.56.19:425][366]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Shaders Compiled: 3791
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Jobs assigned 3792, completed 3791 (99.97%)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Average time worker was idle: 78.90 s
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Time job spent in pending queue: average 163.93 s, longest 458.13 s
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Job execution time: average 10.11 s, max 41.10 s
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Job life time (pending + execution): average 174.08 s, max 464.90
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 598.83 s
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Jobs were issued in 978 batches (only local compilation was used), average 3.88 jobs/batch
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Average processing rate: 6.33 jobs/sec
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Total thread time: 4378.21 s
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Total thread preprocess time: 179.99 s
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Effective parallelization: 7.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.92% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.22% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.32% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.94% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.81% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-12.56.19:426][366]LogShaderCompilers: Display: ================================================
+[2023.04.07-12.56.20:975][393]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 2.976483 sec (time since issued), 6.622932 sec (combined shader worker time).
+[2023.04.07-12.56.22:683][400]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-12.56.48:578][452]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-12.56.48:993][496]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.502290 sec (time since issued), 1.581979 sec (combined shader worker time).
+[2023.04.07-12.56.50:583][678]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-12.57.43:775][366]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-12.57.44:088][402]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.378575 sec (time since issued), 0.697542 sec (combined shader worker time).
+[2023.04.07-12.57.45:781][602]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Total job queries 4032, among them cache hits 232 (5.75%)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Tracking 3799 distinct input hashes that result in 2551 distinct outputs (67.15%)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: RAM used: 10.66 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.65%
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Shaders Compiled: 3799
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Jobs assigned 3800, completed 3799 (99.97%)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Average time worker was idle: 78.96 s
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Time job spent in pending queue: average 163.59 s, longest 458.13 s
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Job execution time: average 10.09 s, max 41.10 s
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Job life time (pending + execution): average 173.72 s, max 464.90
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 600.03 s
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Jobs were issued in 986 batches (only local compilation was used), average 3.85 jobs/batch
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Average processing rate: 6.33 jobs/sec
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Total thread time: 4379.11 s
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Total thread preprocess time: 179.99 s
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Effective parallelization: 7.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.92% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.22% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.32% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.94% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.81% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.01.32:780][465]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.01.32:904][479]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.503748 sec (time since issued), 0.841059 sec (combined shader worker time).
+[2023.04.07-13.01.32:905][479]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.04.07-13.01.32:982][486]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.01.55:493][446]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.04.07-13.02.00:431][983]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.04.07-13.02.00:431][983]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.04.07-13.02.00:432][983]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.04.07-13.02.00:432][983]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_0
+[2023.04.07-13.02.00:631][985]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-13.02.01:000][ 26]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.487296 sec (time since issued), 0.882944 sec (combined shader worker time).
+[2023.04.07-13.02.01:000][ 26]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_1, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.02.02:925][ 93]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.02.11:272][119]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_1, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.02.30:809][821]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_1, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.02.40:833][619]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_1, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.02.50:838][767]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_1, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.04.19:298][858]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.087 and deleted 0 files with total size 0 MiB. Scanned 5635 files in 5590 folders with total size 882 MiB.
+[2023.04.07-13.04.41:148][ 96]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_1, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.04.44:018][434]LogNiagaraEditor: "(INPUT) New int32" has been duplicated as "(INPUT) random" as it is used in multiple locations.
+Please edit the Parameters Panel version to change in all locations.
+[2023.04.07-13.04.51:786][897]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.04.51:786][897]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Total job queries 4036, among them cache hits 232 (5.75%)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Tracking 3803 distinct input hashes that result in 2552 distinct outputs (67.10%)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: RAM used: 10.72 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.65%
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Shaders Compiled: 3803
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Jobs assigned 3804, completed 3803 (99.97%)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Average time worker was idle: 79.04 s
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Time job spent in pending queue: average 163.42 s, longest 458.13 s
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Job execution time: average 10.08 s, max 41.10 s
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Job life time (pending + execution): average 173.53 s, max 464.90
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 600.77 s
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Jobs were issued in 990 batches (only local compilation was used), average 3.84 jobs/batch
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Average processing rate: 6.33 jobs/sec
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Total thread time: 4379.41 s
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Total thread preprocess time: 179.99 s
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Effective parallelization: 7.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.92% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.22% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.32% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.94% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.81% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.04.51:787][897]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.04.51:914][911]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.519669 sec (time since issued), 0.857530 sec (combined shader worker time).
+[2023.04.07-13.04.51:914][911]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.04.51:999][918]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.05.04:449][314]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.17:372][686]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.21:422][150]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.22:093][230]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.22:093][230]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.22:098][230]LogNiagaraEditor: Removed Var 'Constants.Fountain.ScratchModule.random' from Script NiagaraScript /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript
+[2023.04.07-13.05.22:106][230]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.22:106][230]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.22:211][232]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-13.05.22:566][273]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.425909 sec (time since issued), 0.680033 sec (combined shader worker time).
+[2023.04.07-13.05.22:566][273]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_3, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.24:382][409]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.05.28:332][637]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_3, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.28:332][637]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_3, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.28:363][638]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_3, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.31:878][ 36]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_3, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.05.31:878][ 36]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_3, Mesh: StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.06.32:643][996]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.04.07-13.06.32:650][996]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.04.07-13.06.32:659][997]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.04.07-13.06.38:967][754]LogContentBrowser: Attempting asset rename: NewMaterial -> PowerM
+[2023.04.07-13.06.38:971][754]LogContentBrowser: End creating deferred item NewMaterial
+[2023.04.07-13.06.45:668][983]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/Char_Power/PowerM.PowerM
+[2023.04.07-13.06.45:695][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.06.45:799][983]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.07-13.06.45:799][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.07-13.06.45:799][983]MaterialEditorStats: Shader Count: 0
+[2023.04.07-13.06.45:803][983]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.04.07-13.06.46:618][ 70]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.04.07-13.06.46:618][ 70]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.07-13.06.46:618][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.07-13.06.46:618][ 70]MaterialEditorStats: Shader Count: 3
+[2023.04.07-13.06.46:718][ 82]MaterialEditorStats: Base pass shader: 161 instructions
+[2023.04.07-13.06.46:718][ 82]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.04.07-13.06.46:718][ 82]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.07-13.06.46:718][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.07-13.06.46:718][ 82]MaterialEditorStats: Shader Count: 4
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Total job queries 4048, among them cache hits 234 (5.78%)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Tracking 3811 distinct input hashes that result in 2556 distinct outputs (67.07%)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: RAM used: 10.79 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.66%
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Shaders Compiled: 3811
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Jobs assigned 3814, completed 3811 (99.92%)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Average time worker was idle: 80.46 s
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Time job spent in pending queue: average 162.99 s, longest 458.13 s
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Job execution time: average 10.06 s, max 41.10 s
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Job life time (pending + execution): average 173.17 s, max 464.90
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 602.60 s
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Jobs were issued in 1000 batches (only local compilation was used), average 3.81 jobs/batch
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Average processing rate: 6.32 jobs/sec
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Total thread time: 4381.91 s
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Total thread preprocess time: 180.33 s
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Percentage time preprocessing: 4.12%
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Effective parallelization: 7.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.91% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.21% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.32% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.94% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.80% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.10.01:917][509]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.10.32:196][489]LogMaterialEditor: Applying material PowerM
+[2023.04.07-13.10.35:030][489]LogMaterial: Warning: [AssetLog] /Engine/Transient.PowerM (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.07-13.10.35:036][489]LogMaterial: Warning: [AssetLog] /Game/ThirdPerson/Char_Power/PowerM.PowerM (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.04.07-13.10.35:158][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.07-13.10.35:285][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.07-13.10.35:314][489]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2023.04.07-13.10.35:330][490]LogAutomationController: Ignoring very large delta of 3.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-13.11.32:847][732]LogInterchangeEngine: [Pending] Importing
+[2023.04.07-13.11.32:864][733]LogInterchangeEngine: [Pending] Importing
+[2023.04.07-13.11.32:867][733]LogTexture: Display: Building textures: /Game/ThirdPerson/Char_Power/fire.fire (TFO_AutoDXT, 800x600 x1x1x1) (Required Memory Estimate: 77.064453 MB), EncodeSpeed: Fast
+[2023.04.07-13.11.32:879][733]LogInterchangeEngine: [Success] Import Done
+[2023.04.07-13.11.32:930][734]LogInterchangeEngine: [Success] Import Done
+[2023.04.07-13.11.47:774][371]LogMaterialEditor: Applying material PowerM
+[2023.04.07-13.11.51:406][371]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.04.07-13.11.51:811][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.07-13.11.52:723][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.07-13.11.52:732][371]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.07-13.11.52:732][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.11.52:732][371]MaterialEditorStats: Shader Count: 2
+[2023.04.07-13.11.52:748][372]LogAutomationController: Ignoring very large delta of 4.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-13.11.52:749][372]MaterialEditorStats: Base pass shader: 163 instructions
+[2023.04.07-13.11.52:749][372]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.04.07-13.11.52:749][372]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.07-13.11.52:749][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.11.52:749][372]MaterialEditorStats: Shader Count: 4
+[2023.04.07-13.15.00:284][106]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.15.00:288][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.15.00:544][106]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Total job queries 4064, among them cache hits 240 (5.91%)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Tracking 3823 distinct input hashes that result in 2562 distinct outputs (67.02%)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: RAM used: 10.82 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.66%
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Shaders Compiled: 3823
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Jobs assigned 3824, completed 3823 (99.97%)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Average time worker was idle: 83.68 s
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Time job spent in pending queue: average 162.56 s, longest 458.13 s
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Job execution time: average 10.03 s, max 41.10 s
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Job life time (pending + execution): average 172.63 s, max 464.90
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 604.72 s
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Jobs were issued in 1010 batches (only local compilation was used), average 3.79 jobs/batch
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Average processing rate: 6.32 jobs/sec
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Total thread time: 4387.32 s
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Total thread preprocess time: 180.67 s
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Percentage time preprocessing: 4.12%
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Effective parallelization: 7.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.90% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.20% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.31% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.93% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.80% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.16.06:736][570]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.16.06:869][584]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.488511 sec (time since issued), 0.777566 sec (combined shader worker time).
+[2023.04.07-13.16.06:967][591]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.16.55:515][122]LogMaterial: Display: Material /Game/ThirdPerson/Char_Power/PowerM.PowerM needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.07-13.16.55:515][122]LogMaterial: Display: Material /Engine/Transient.PowerM needed to have new flag set bUsedWithNiagaraSprites !
+[2023.04.07-13.16.55:584][122]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.07-13.16.55:584][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.16.55:584][122]MaterialEditorStats: Shader Count: 0
+[2023.04.07-13.16.55:646][123]MaterialEditorStats: Base pass shader: 163 instructions
+[2023.04.07-13.16.55:646][123]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.04.07-13.16.55:646][123]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.07-13.16.55:646][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.16.55:646][123]MaterialEditorStats: Shader Count: 6
+[2023.04.07-13.16.59:085][293]MaterialEditorStats: Base pass shader: 163 instructions
+[2023.04.07-13.16.59:085][293]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.04.07-13.16.59:085][293]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.07-13.16.59:085][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.16.59:085][293]MaterialEditorStats: Shader Count: 23
+[2023.04.07-13.16.59:719][326]MaterialEditorStats: Base pass shader: 163 instructions
+[2023.04.07-13.16.59:719][326]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.04.07-13.16.59:719][326]MaterialEditorStats: MaxSampler: 212 instructions
+[2023.04.07-13.16.59:719][326]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.07-13.16.59:719][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.16.59:719][326]MaterialEditorStats: Shader Count: 32
+[2023.04.07-13.17.13:774][559]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.361443 sec (time since issued), 0.870231 sec (combined shader worker time).
+[2023.04.07-13.17.13:782][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.17.13:835][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Char_Power/Power" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/Power.uasset" SILENT=true
+[2023.04.07-13.17.13:877][559]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Char_Power/Power
+[2023.04.07-13.17.13:877][559]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Power2BDC188748A665C7B9A4BCAB284EE894.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/Power.uasset'
+[2023.04.07-13.17.13:887][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 8.18 sec)
+[2023.04.07-13.17.13:898][559]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.011252 sec, no shader worker used.
+[2023.04.07-13.17.13:905][559]AssetCheck: New page: Asset Save: Power
+[2023.04.07-13.17.13:905][559]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-13.20.36:781][381]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-13.20.36:991][405]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.20.36:991][405]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.20.36:991][405]LogShaderCompilers: Display: Total job queries 4116, among them cache hits 253 (6.15%)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Tracking 3855 distinct input hashes that result in 2585 distinct outputs (67.06%)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: RAM used: 10.98 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.67%
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Shaders Compiled: 3855
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Jobs assigned 3856, completed 3855 (99.97%)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Average time worker was idle: 87.05 s
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Time job spent in pending queue: average 161.22 s, longest 458.13 s
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Job execution time: average 9.96 s, max 41.10 s
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Job life time (pending + execution): average 171.22 s, max 464.90
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 609.44 s
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Jobs were issued in 1034 batches (only local compilation was used), average 3.73 jobs/batch
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Average processing rate: 6.33 jobs/sec
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Total thread time: 4414.17 s
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Total thread preprocess time: 181.92 s
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Percentage time preprocessing: 4.12%
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Effective parallelization: 7.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.83% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.16% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.28% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.90% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.77% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.20.36:992][405]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.20.37:121][419]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.412144 sec (time since issued), 0.652312 sec (combined shader worker time).
+[2023.04.07-13.20.38:787][609]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.21.50:785][530]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-13.21.51:169][574]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.469771 sec (time since issued), 0.749990 sec (combined shader worker time).
+[2023.04.07-13.21.52:786][762]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.22.06:372][837]218268_Power_MessageLog: System compile status unknown.
+[2023.04.07-13.22.06:781][880]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.487315 sec (time since issued), 0.904199 sec (combined shader worker time).
+[2023.04.07-13.22.08:376][ 66]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Total job queries 4122, among them cache hits 253 (6.14%)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Tracking 3861 distinct input hashes that result in 2591 distinct outputs (67.11%)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: RAM used: 11.10 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.68%
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Shaders Compiled: 3861
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Jobs assigned 3862, completed 3861 (99.97%)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Average time worker was idle: 86.95 s
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Time job spent in pending queue: average 160.97 s, longest 458.13 s
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Job execution time: average 9.94 s, max 41.10 s
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Job life time (pending + execution): average 170.95 s, max 464.90
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 611.22 s
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Jobs were issued in 1040 batches (only local compilation was used), average 3.71 jobs/batch
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Average processing rate: 6.32 jobs/sec
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Total thread time: 4415.20 s
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Total thread preprocess time: 181.96 s
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Percentage time preprocessing: 4.12%
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Effective parallelization: 7.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.82% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.16% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.28% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.90% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.77% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.24.06:467][918]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.25.10:021][742]LogMaterialEditor: Applying material PowerM
+[2023.04.07-13.25.10:427][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.07-13.25.11:266][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.07-13.25.11:277][742]MaterialEditorStats: Texture samplers: 1/16
+[2023.04.07-13.25.11:277][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.25.11:277][742]MaterialEditorStats: Shader Count: 2
+[2023.04.07-13.25.11:935][814]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.07-13.25.11:935][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.25.11:935][814]MaterialEditorStats: Shader Count: 3
+[2023.04.07-13.25.12:036][826]MaterialEditorStats: Base pass vertex shader: 294 instructions
+[2023.04.07-13.25.12:036][826]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.07-13.25.12:036][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.25.12:036][826]MaterialEditorStats: Shader Count: 4
+[2023.04.07-13.25.12:471][873]LogMaterialEditor: Saving and Compiling material PowerM
+[2023.04.07-13.25.12:472][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.25.14:590][873]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.04.07-13.25.15:495][873]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049965s
+[2023.04.07-13.25.17:783][873]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005096s (2.333980s overbudget)
+[2023.04.07-13.25.17:809][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Char_Power/PowerM" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/PowerM.uasset" SILENT=true
+[2023.04.07-13.25.17:811][873]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Char_Power/PowerM
+[2023.04.07-13.25.17:811][873]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/PowerMB6AB6262476D25BE0036B1A02139F939.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/PowerM.uasset'
+[2023.04.07-13.25.17:820][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.34 sec (total: 13.5 sec)
+[2023.04.07-13.25.17:827][873]AssetCheck: New page: Asset Save: PowerM
+[2023.04.07-13.25.17:827][873]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Char_Power/PowerM.PowerM
+[2023.04.07-13.25.17:828][873]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.04.07-13.25.17:828][873]MaterialEditorStats: Base pass vertex shader: 294 instructions
+[2023.04.07-13.25.17:828][873]MaterialEditorStats: Texture samplers: 3/16
+[2023.04.07-13.25.17:828][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.04.07-13.25.17:828][873]MaterialEditorStats: Shader Count: 44
+[2023.04.07-13.25.17:830][874]LogAutomationController: Ignoring very large delta of 5.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Total job queries 4173, among them cache hits 258 (6.18%)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Tracking 3906 distinct input hashes that result in 2624 distinct outputs (67.18%)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: RAM used: 11.24 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.69%
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Shaders Compiled: 3906
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Jobs assigned 3906, completed 3906 (100.00%)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Average time worker was idle: 86.24 s
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Time job spent in pending queue: average 159.18 s, longest 458.13 s
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Job execution time: average 9.84 s, max 41.10 s
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Job life time (pending + execution): average 169.01 s, max 464.90
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 617.93 s
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Jobs were issued in 1084 batches (only local compilation was used), average 3.60 jobs/batch
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Average processing rate: 6.32 jobs/sec
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Total thread time: 4449.47 s
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Total thread preprocess time: 184.00 s
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Percentage time preprocessing: 4.14%
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Effective parallelization: 7.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.73% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.10% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.24% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.86% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.73% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.27.57:539][688]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.28.04:554][ 81]LogMaterialEditor: Saving and Compiling material PowerM
+[2023.04.07-13.28.04:958][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.04.07-13.28.05:780][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.07-13.28.05:790][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.28.07:912][ 81]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.07-13.28.11:139][ 81]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004921s (3.232177s overbudget)
+[2023.04.07-13.28.11:164][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Char_Power/PowerM" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/PowerM.uasset" SILENT=true
+[2023.04.07-13.28.11:166][ 81]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Char_Power/PowerM
+[2023.04.07-13.28.11:166][ 81]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/PowerM20697BA14879B1976C19339E1D9CC769.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/PowerM.uasset'
+[2023.04.07-13.28.11:173][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.38 sec (total: 18.9 sec)
+[2023.04.07-13.28.11:180][ 81]AssetCheck: New page: Asset Save: PowerM
+[2023.04.07-13.28.11:180][ 81]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ThirdPerson/Char_Power/PowerM.PowerM
+[2023.04.07-13.28.11:185][ 82]LogAutomationController: Ignoring very large delta of 6.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-13.28.27:716][865]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.389571 sec (time since issued), 1.163123 sec (combined shader worker time).
+[2023.04.07-13.28.27:940][875]218268_Power_MessageLog: System successfully compiled.
+[2023.04.07-13.29.15:045][266]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Total job queries 4231, among them cache hits 262 (6.19%)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Tracking 3960 distinct input hashes that result in 2666 distinct outputs (67.32%)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: RAM used: 11.53 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.70%
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Shaders Compiled: 3960
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Jobs assigned 3960, completed 3960 (100.00%)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Average time worker was idle: 84.77 s
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Time job spent in pending queue: average 157.02 s, longest 458.13 s
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Job execution time: average 9.71 s, max 41.10 s
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Job life time (pending + execution): average 166.74 s, max 464.90
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 624.45 s
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Jobs were issued in 1138 batches (only local compilation was used), average 3.48 jobs/batch
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Average processing rate: 6.34 jobs/sec
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Total thread time: 4484.92 s
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Total thread preprocess time: 185.84 s
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Percentage time preprocessing: 4.14%
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Effective parallelization: 7.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.64% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.05% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.19% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.82% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.69% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.32.45:361][581]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.32.45:402][581]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.620395 sec (time since issued), 3.173207 sec (combined shader worker time).
+[2023.04.07-13.32.45:411][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.32.45:467][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Char_Power/Power" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/Power.uasset" SILENT=true
+[2023.04.07-13.32.45:535][581]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Char_Power/Power
+[2023.04.07-13.32.45:536][581]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Power387806254C0AB1E37A5580ACEEA73317.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/Power.uasset'
+[2023.04.07-13.32.45:545][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 19.0 sec)
+[2023.04.07-13.32.45:565][581]LogNiagara: Compiling System NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power took 0.020158 sec, no shader worker used.
+[2023.04.07-13.32.45:575][581]AssetCheck: New page: Asset Save: Power
+[2023.04.07-13.32.45:575][581]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-13.33.07:944][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.04.07-13.33.07:944][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.04.07-13.33.07:945][875]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_4
+[2023.04.07-13.33.07:946][875]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_4
+[2023.04.07-13.33.49:360][559]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.04.07-13.33.49:368][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-13.33.49:368][559]PIE: New page: SIE session: Title_Screen (7 Apr 2023, 15:33:49)
+[2023.04.07-13.33.49:368][559]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen
+[2023.04.07-13.33.49:369][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001021s)
+[2023.04.07-13.33.49:369][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Title_Screen.Title_Screen to /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen.Title_Screen (0.001047s)
+[2023.04.07-13.33.49:369][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.33.49:370][559]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-13.33.49:370][559]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.04.07-13.33.49:399][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.07-13.33.49:410][559]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-13.33.49:410][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-13.33.49:410][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-13.33.49:410][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-13.33.49:410][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-13.33.49:410][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-13.33.49:412][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-13.33.49:427][559]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-13.33.49:428][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-13.33.49:428][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-13.33.49:428][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-13.33.49:429][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2023.04.07-13.33.49:429][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2023.04.07-13.33.49:430][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2023.04.07-13.33.49:430][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2023.04.07-13.33.49:430][559]LogInit: FAudioDevice initialized.
+[2023.04.07-13.33.49:430][559]LogAudio: Display: Audio Device (ID: 60) registered with world 'Title_Screen'.
+[2023.04.07-13.33.49:432][559]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.07-13.33.49:433][559]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-14.33.49
+[2023.04.07-13.33.49:433][559]LogWorld: Bringing up level for play took: 0.000475
+[2023.04.07-13.33.49:434][559]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2023.04.07-13.33.49:435][559]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.07-13.33.49:435][559]PIE: Server logged in
+[2023.04.07-13.33.49:436][559]PIE: Play in editor total start time 0.068 seconds.
+[2023.04.07-13.33.51:549][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.33.51:549][780]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen
+[2023.04.07-13.33.51:549][780]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-13.33.51:549][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.33.51:552][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-13.33.51:557][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.33.51:578][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-13.33.51:579][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2023.04.07-13.33.51:581][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2023.04.07-13.33.51:585][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.33.51:587][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.07-13.33.51:642][782]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2023.04.07-13.35.16:322][601]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-13.35.16:322][601]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-13.35.16:323][601]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power as actor: NiagaraActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.NiagaraActor_0
+[2023.04.07-13.35.16:323][601]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power as actor: NiagaraActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.NiagaraActor_0
+[2023.04.07-13.35.17:420][666]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-13.35.17:420][666]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power
+[2023.04.07-13.35.17:422][666]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power as actor: NiagaraActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.NiagaraActor_1
+[2023.04.07-13.35.17:422][666]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/ThirdPerson/Char_Power/Power.Power as actor: NiagaraActor /Game/ThirdPerson/Maps/Title_Screen.Title_Screen:PersistentLevel.NiagaraActor_1
+[2023.04.07-13.37.07:725][884]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPerson/Char_Power/fire.fire
+[2023.04.07-13.37.07:784][884]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.04.07-13.37.08:770][972]LogInterchangeEngine: [Pending] Importing
+[2023.04.07-13.37.08:794][973]LogInterchangeEngine: [Pending] Importing
+[2023.04.07-13.37.08:799][973]LogInterchangeEngine: [Success] Import Done
+[2023.04.07-13.37.08:800][973]LogTexture: Display: Building textures: /Game/ThirdPerson/Char_Power/fire.fire (BGRA8, 760x610 x1x1x1) (Required Memory Estimate: 13.620945 MB), EncodeSpeed: Fast
+[2023.04.07-13.37.08:844][974]LogInterchangeEngine: [Success] Import Done
+[2023.04.07-13.37.10:586][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.37.10:634][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Char_Power/fire" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/fire.uasset" SILENT=true
+[2023.04.07-13.37.10:650][104]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Char_Power/fire
+[2023.04.07-13.37.10:650][104]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/fireEB385F084717B35A965A4CBBEDE17E4F.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/fire.uasset'
+[2023.04.07-13.37.10:657][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 19.1 sec)
+[2023.04.07-13.37.10:664][104]AssetCheck: New page: Asset Save: fire
+[2023.04.07-13.37.10:664][104]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ThirdPerson/Char_Power/fire.fire
+[2023.04.07-13.37.15:100][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-13.37.15:100][345]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 15:37:15)
+[2023.04.07-13.37.15:100][345]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen
+[2023.04.07-13.37.15:106][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006146s)
+[2023.04.07-13.37.15:107][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Title_Screen.Title_Screen to /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen.Title_Screen (0.006199s)
+[2023.04.07-13.37.15:107][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.37.15:107][345]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-13.37.15:107][345]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2023.04.07-13.37.15:135][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.07-13.37.15:139][345]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-13.37.15:139][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-13.37.15:139][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-13.37.15:140][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-13.37.15:140][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-13.37.15:140][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-13.37.15:142][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-13.37.15:161][345]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-13.37.15:161][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-13.37.15:161][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-13.37.15:161][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-13.37.15:163][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2023.04.07-13.37.15:163][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2023.04.07-13.37.15:164][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2023.04.07-13.37.15:164][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2023.04.07-13.37.15:164][345]LogInit: FAudioDevice initialized.
+[2023.04.07-13.37.15:164][345]LogAudio: Display: Audio Device (ID: 61) registered with world 'Title_Screen'.
+[2023.04.07-13.37.15:166][345]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.07-13.37.15:167][345]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-14.37.15
+[2023.04.07-13.37.15:167][345]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11
+[2023.04.07-13.37.15:167][345]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2
+[2023.04.07-13.37.15:167][345]LogWorld: Bringing up level for play took: 0.000906
+[2023.04.07-13.37.15:169][345]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2023.04.07-13.37.15:174][345]PIE: Server logged in
+[2023.04.07-13.37.15:174][345]PIE: Play in editor total start time 0.075 seconds.
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Total job queries 4238, among them cache hits 262 (6.18%)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Tracking 3967 distinct input hashes that result in 2669 distinct outputs (67.28%)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: RAM used: 11.54 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.70%
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Shaders Compiled: 3967
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Jobs assigned 3967, completed 3967 (100.00%)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Average time worker was idle: 84.81 s
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Time job spent in pending queue: average 156.75 s, longest 458.13 s
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Job execution time: average 9.70 s, max 41.10 s
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Job life time (pending + execution): average 166.44 s, max 464.90
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 626.94 s
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Jobs were issued in 1145 batches (only local compilation was used), average 3.46 jobs/batch
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Average processing rate: 6.33 jobs/sec
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Total thread time: 4488.92 s
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Total thread preprocess time: 186.12 s
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Percentage time preprocessing: 4.15%
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Effective parallelization: 7.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.49 sec, max 19.49 sec, min 19.49 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 13.08 sec, max 13.08 sec, min 13.08 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 10.40 sec, max 10.40 sec, min 10.40 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.49 sec, max 28.38 sec, min 0.53 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 9.40 sec, max 9.40 sec, min 9.40 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.63% of total time (compiled  128 times, average 4.08 sec, max 7.50 sec, min 2.45 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 7.04% of total time (compiled  128 times, average 2.47 sec, max 6.39 sec, min 0.46 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.19% of total time (compiled  102 times, average 2.28 sec, max 4.83 sec, min 0.64 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.82% of total time (compiled   64 times, average 3.38 sec, max 5.19 sec, min 1.18 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.69% of total time (compiled  128 times, average 1.64 sec, max 2.65 sec, min 1.04 sec)
+[2023.04.07-13.37.16:221][455]LogShaderCompilers: Display: ================================================
+[2023.04.07-13.37.17:079][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.37.17:079][535]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen
+[2023.04.07-13.37.17:079][535]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-13.37.17:079][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.37.17:082][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-13.37.17:088][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.37.17:112][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-13.37.17:112][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.04.07-13.37.17:114][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2023.04.07-13.37.17:118][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.37.17:121][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.07-13.37.17:204][536]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2023.04.07-13.37.22:068][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-13.37.22:068][797]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 15:37:22)
+[2023.04.07-13.37.22:068][797]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen
+[2023.04.07-13.37.22:070][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001907s)
+[2023.04.07-13.37.22:070][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Title_Screen.Title_Screen to /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen.Title_Screen (0.001948s)
+[2023.04.07-13.37.22:070][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.37.22:071][797]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-13.37.22:071][797]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2023.04.07-13.37.22:098][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.04.07-13.37.22:100][797]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-13.37.22:100][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-13.37.22:100][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-13.37.22:101][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-13.37.22:101][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-13.37.22:101][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-13.37.22:103][797]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-13.37.22:119][797]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-13.37.22:119][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-13.37.22:119][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-13.37.22:119][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-13.37.22:120][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2023.04.07-13.37.22:120][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2023.04.07-13.37.22:121][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2023.04.07-13.37.22:121][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2023.04.07-13.37.22:121][797]LogInit: FAudioDevice initialized.
+[2023.04.07-13.37.22:121][797]LogAudio: Display: Audio Device (ID: 62) registered with world 'Title_Screen'.
+[2023.04.07-13.37.22:123][797]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.07-13.37.22:123][797]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-14.37.22
+[2023.04.07-13.37.22:124][797]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11
+[2023.04.07-13.37.22:124][797]LogNiagara: StaticMesh data interface has no valid mesh - NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2
+[2023.04.07-13.37.22:124][797]LogWorld: Bringing up level for play took: 0.000650
+[2023.04.07-13.37.22:125][797]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2023.04.07-13.37.22:127][797]PIE: Server logged in
+[2023.04.07-13.37.22:128][797]PIE: Play in editor total start time 0.061 seconds.
+[2023.04.07-13.37.23:078][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.37.23:078][900]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Title_Screen
+[2023.04.07-13.37.23:079][900]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-13.37.23:079][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.37.23:082][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-13.37.23:088][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.37.23:109][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-13.37.23:109][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.04.07-13.37.23:111][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2023.04.07-13.37.23:114][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.37.23:116][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.04.07-13.37.23:163][901]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2023.04.07-13.37.58:022][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Char_Power/BP_TelekineticProp.BP_TelekineticProp
+[2023.04.07-13.37.58:022][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.38.10:072][945]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.04.07-13.38.17:269][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:269][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:270][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:270][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:277][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:277][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:277][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:277][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:278][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:278][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:279][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:279][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:298][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:298][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:298][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.17:298][455]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:250][674]BlueprintLog: New page: Compile BP_TelekineticProp
+[2023.04.07-13.38.22:276][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:276][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:277][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:277][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:277][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.22:277][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.22:278][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/BankBuilding/Meshes/SM_Coffee_Cup.SM_Coffee_Cup
+[2023.04.07-13.38.22:278][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/BankBuilding/Meshes/SM_Coffee_Cup.SM_Coffee_Cup
+[2023.04.07-13.38.22:325][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.07-13.38.22:334][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:334][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:335][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:335][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:336][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:336][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:336][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:336][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:337][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:337][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:345][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:345][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:346][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:346][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:346][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:346][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:347][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:347][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:393][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:393][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:394][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.22:394][674]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.23:205][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.38.23:307][721]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Char_Power/BP_TelekineticProp
+[2023.04.07-13.38.23:307][721]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/BP_TelekineticPropA181396E4735D10A72063184D569D5EB.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Char_Power/BP_TelekineticProp.uasset'
+[2023.04.07-13.38.23:313][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 19.2 sec)
+[2023.04.07-13.38.23:321][721]AssetCheck: New page: Asset Save: BP_TelekineticProp
+[2023.04.07-13.38.23:321][721]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Char_Power/BP_TelekineticProp.BP_TelekineticProp
+[2023.04.07-13.38.24:944][801]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.24:944][801]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.32:467][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.07-13.38.33:434][134]LogSlate: Window 'Save Content' being destroyed
+[2023.04.07-13.38.33:442][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.38.33:532][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.07-13.38.33:537][134]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Title_Screen
+[2023.04.07-13.38.33:537][134]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_ScreenF7BF90504A919E59929309A06CBA795A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Title_Screen.umap'
+[2023.04.07-13.38.33:551][134]LogFileHelpers: Saving map 'Title_Screen' took 0.048
+[2023.04.07-13.38.33:563][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMeshes/ArcadeEditorSphere" FILE="../../../Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset" SILENT=true
+[2023.04.07-13.38.33:568][134]LogSavePackage: Moving output files for package: /Engine/EditorMeshes/ArcadeEditorSphere
+[2023.04.07-13.38.33:569][134]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/ArcadeEditorSphere6EEEA4424968B89719BC8D98DA1AA1BC.tmp' to '../../../Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset'
+[2023.04.07-13.38.33:574][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 19.3 sec)
+[2023.04.07-13.38.33:725][134]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.07-13.38.33:726][134]Cmd: MAP LOAD FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.07-13.38.33:726][134]LightingResults: New page: Lighting Build
+[2023.04.07-13.38.33:726][134]LoadErrors: New page: Loading map: Part_three.umap
+[2023.04.07-13.38.33:728][134]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-13.38.33:728][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.38.33:729][134]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2023.04.07-13.38.33:729][134]MapCheck: New page: Map Check
+[2023.04.07-13.38.33:729][134]LightingResults: New page: Lighting Build
+[2023.04.07-13.38.33:765][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-13.38.33:769][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.07-13.38.33:771][134]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-13.38.33:772][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.38.33:804][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.07-13.38.33:834][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.07-13.38.33:856][134]LogAudio: Display: Audio Device (ID: 1) registered with world 'Part_three'.
+[2023.04.07-13.38.33:857][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.38.33:857][134]LogAIModule: Creating AISystem for world Part_three
+[2023.04.07-13.38.33:872][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:872][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:873][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:873][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:873][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:873][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:874][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:874][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:875][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:875][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:875][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:875][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.33:876][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:876][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:876][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:876][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:877][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:877][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:877][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:878][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:878][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:878][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.33:879][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/BankBuilding/Meshes/SM_Coffee_Cup.SM_Coffee_Cup
+[2023.04.07-13.38.33:879][134]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/BankBuilding/Meshes/SM_Coffee_Cup.SM_Coffee_Cup
+[2023.04.07-13.38.33:895][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.07-13.38.33:929][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.07-13.38.33:942][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.07-13.38.33:942][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.295ms to complete.
+[2023.04.07-13.38.33:942][134]LogFileHelpers: Loading map 'Part_three' took 0.216
+[2023.04.07-13.38.33:965][134]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.07-13.38.33:965][134]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Engine/EditorMeshes/ArcadeEditorSphere.ArcadeEditorSphere
+[2023.04.07-13.38.35:779][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4411708), will have allocated 35632128 total this frame
+[2023.04.07-13.38.35:785][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43960), will have allocated 35676088 total this frame
+[2023.04.07-13.38.35:785][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4409636), will have allocated 40085724 total this frame
+[2023.04.07-13.38.35:791][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43988), will have allocated 40129712 total this frame
+[2023.04.07-13.38.35:791][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4414116), will have allocated 44543828 total this frame
+[2023.04.07-13.38.36:449][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4407732), will have allocated 35630504 total this frame
+[2023.04.07-13.38.36:453][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43596), will have allocated 35674100 total this frame
+[2023.04.07-13.38.36:453][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4408740), will have allocated 40082840 total this frame
+[2023.04.07-13.38.36:457][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44044), will have allocated 40126884 total this frame
+[2023.04.07-13.38.36:457][183]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4415040), will have allocated 44541924 total this frame
+[2023.04.07-13.38.36:985][185]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4407172), will have allocated 35630784 total this frame
+[2023.04.07-13.38.36:992][185]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43764), will have allocated 35674548 total this frame
+[2023.04.07-13.38.36:992][185]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4410868), will have allocated 40085416 total this frame
+[2023.04.07-13.38.36:997][185]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44296), will have allocated 40129712 total this frame
+[2023.04.07-13.38.36:997][185]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4407452), will have allocated 44537164 total this frame
+[2023.04.07-13.38.42:086][267]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4410336), will have allocated 35630924 total this frame
+[2023.04.07-13.38.42:450][269]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4412156), will have allocated 35636076 total this frame
+[2023.04.07-13.38.42:754][273]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4408012), will have allocated 35625604 total this frame
+[2023.04.07-13.38.42:869][273]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4413472), will have allocated 35632352 total this frame
+[2023.04.07-13.38.42:927][273]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4413472), will have allocated 35632352 total this frame
+[2023.04.07-13.38.43:089][275]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4412968), will have allocated 35637308 total this frame
+[2023.04.07-13.38.43:656][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-13.38.43:656][284]PIE: New page: PIE session: Part_three (7 Apr 2023, 15:38:43)
+[2023.04.07-13.38.43:656][284]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.07-13.38.43:709][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052869s)
+[2023.04.07-13.38.43:709][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.052908s)
+[2023.04.07-13.38.43:709][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-13.38.43:709][284]LogAIModule: Creating AISystem for world Part_three
+[2023.04.07-13.38.43:710][284]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2023.04.07-13.38.43:746][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.07-13.38.43:751][284]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-13.38.43:751][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-13.38.43:751][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-13.38.43:752][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-13.38.43:752][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-13.38.43:752][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-13.38.43:754][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-13.38.43:774][284]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-13.38.43:774][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-13.38.43:774][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-13.38.43:774][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-13.38.43:774][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2023.04.07-13.38.43:774][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2023.04.07-13.38.43:776][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2023.04.07-13.38.43:776][284]LogInit: FAudioDevice initialized.
+[2023.04.07-13.38.43:776][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2023.04.07-13.38.43:776][284]LogAudio: Display: Audio Device (ID: 63) registered with world 'Part_three'.
+[2023.04.07-13.38.43:779][284]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.07-13.38.43:791][284]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.07-14.38.43
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:792][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:793][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:793][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:793][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:793][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/StorageHouse/Meshes/Buildings/SM_Door_01.SM_Door_01
+[2023.04.07-13.38.43:793][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain.SpawnScript.NiagaraDataInterfaceStaticMesh_11, Mesh: StaticMesh /Game/BankBuilding/Meshes/SM_Coffee_Cup.SM_Coffee_Cup
+[2023.04.07-13.38.43:793][284]LogNiagara: NiagaraStaticMeshDataInterface used by CPU emitter and does not allow CPU access. Interface: NiagaraDataInterfaceStaticMesh /Game/ThirdPerson/Char_Power/Power.Power:Fountain001_1.SpawnScript.NiagaraDataInterfaceStaticMesh_2, Mesh: StaticMesh /Game/BankBuilding/Meshes/SM_Coffee_Cup.SM_Coffee_Cup
+[2023.04.07-13.38.43:793][284]LogWorld: Bringing up level for play took: 0.014720
+[2023.04.07-13.38.43:795][284]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2023.04.07-13.38.43:799][284]PIE: Server logged in
+[2023.04.07-13.38.43:800][284]PIE: Play in editor total start time 0.143 seconds.
+[2023.04.07-13.38.49:478][407]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.07-13.38.49:478][407]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.07-13.38.50:349][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.38.50:349][426]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.07-13.38.50:350][426]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-13.38.50:353][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.38.50:356][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-13.38.50:357][426]LogNiagaraEditor: onPieEnd
+[2023.04.07-13.38.50:363][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-13.38.50:393][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-13.38.50:394][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.04.07-13.38.50:395][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2023.04.07-13.38.50:399][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-13.38.50:404][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.07-13.38.50:444][426]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4411344), will have allocated 35641144 total this frame
+[2023.04.07-13.38.50:447][426]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43792), will have allocated 35684936 total this frame
+[2023.04.07-13.38.50:447][426]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4410224), will have allocated 40095160 total this frame
+[2023.04.07-13.38.50:450][426]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44184), will have allocated 40139344 total this frame
+[2023.04.07-13.38.50:450][426]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4407984), will have allocated 44547328 total this frame
+[2023.04.07-13.38.50:690][427]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2023.04.07-13.38.50:792][427]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4409384), will have allocated 35641564 total this frame
+[2023.04.07-13.38.50:796][427]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43876), will have allocated 35685440 total this frame
+[2023.04.07-13.38.50:796][427]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4410476), will have allocated 40095916 total this frame
+[2023.04.07-13.38.50:799][427]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44352), will have allocated 40140268 total this frame
+[2023.04.07-13.38.50:799][427]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4410308), will have allocated 44550576 total this frame
+[2023.04.07-13.38.51:308][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4409776), will have allocated 35636860 total this frame
+[2023.04.07-13.38.51:311][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43848), will have allocated 35680708 total this frame
+[2023.04.07-13.38.51:311][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4411428), will have allocated 40092136 total this frame
+[2023.04.07-13.38.51:314][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44436), will have allocated 40136572 total this frame
+[2023.04.07-13.38.51:314][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4411904), will have allocated 44548476 total this frame
+[2023.04.07-13.38.51:382][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4409776), will have allocated 35636860 total this frame
+[2023.04.07-13.38.51:385][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43848), will have allocated 35680708 total this frame
+[2023.04.07-13.38.51:385][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4411428), will have allocated 40092136 total this frame
+[2023.04.07-13.38.51:388][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44436), will have allocated 40136572 total this frame
+[2023.04.07-13.38.51:388][428]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4411904), will have allocated 44548476 total this frame
+[2023.04.07-13.38.51:534][430]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4408376), will have allocated 35626136 total this frame
+[2023.04.07-13.38.51:540][430]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(43848), will have allocated 35669984 total this frame
+[2023.04.07-13.38.51:540][430]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4412772), will have allocated 40082756 total this frame
+[2023.04.07-13.38.51:546][430]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(44464), will have allocated 40127220 total this frame
+[2023.04.07-13.38.51:546][430]LogRendererCore: Warning: FGlobalReadBuffer::AllocateInternal(4407228), will have allocated 44534448 total this frame
+[2023.04.07-13.38.53:548][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-13.38.53:638][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.07-13.38.53:687][462]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.07-13.38.53:688][462]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three537C07B247D5EC987FCBFDB459861389.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.07-13.38.53:700][462]LogFileHelpers: No new changes to save!
+[2023.04.07-13.38.53:700][462]LogFileHelpers: Saving map 'Part_three' took 0.098
+[2023.04.07-13.38.53:724][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 19.5 sec)
+[2023.04.07-13.38.53:730][462]AssetCheck: New page: Asset Save: Part_three
+[2023.04.07-13.38.53:730][462]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
