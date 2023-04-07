@@ -3294,3 +3294,599 @@ UnknownFunction []
 [2023.04.07-18.35.27:311][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Title_Screen/Movepeople1.Movepeople1
 [2023.04.07-18.35.59:944][505]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2023.04.07-18.36.00:001][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.07-18.41.14:756][733]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.04.07-18.41.14:810][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.07-18.43.08:637][ 14]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: ================================================
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Total job queries 969, among them cache hits 104 (10.73%)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Tracking 865 distinct input hashes that result in 417 distinct outputs (48.21%)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: RAM used: 2.20 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Shaders Compiled: 601
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Jobs assigned 601, completed 601 (100.00%)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Average time worker was idle: 5.50 s
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Time job spent in pending queue: average 28.70 s, longest 56.11 s
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Job execution time: average 1.53 s, max 8.28 s
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Job life time (pending + execution): average 30.23 s, max 56.43
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.33 s
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Jobs were issued in 530 batches (only local compilation was used), average 1.13 jobs/batch
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Average processing rate: 9.49 jobs/sec
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Total thread time: 440.42 s
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Total thread preprocess time: 28.15 s
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Percentage time preprocessing: 6.39%
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Effective parallelization: 6.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 1.06 sec, max 1.17 sec, min 0.92 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 1.05 sec, max 1.15 sec, min 0.82 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.04 sec, max 1.06 sec, min 1.02 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    8 times, average 1.04 sec, max 1.20 sec, min 0.91 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 1.02 sec, max 1.12 sec, min 0.95 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.93% of total time (compiled   52 times, average 1.01 sec, max 6.13 sec, min 0.66 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.17% of total time (compiled   53 times, average 0.76 sec, max 2.30 sec, min 0.47 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.79% of total time (compiled   52 times, average 0.74 sec, max 1.03 sec, min 0.66 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.43% of total time (compiled   52 times, average 0.63 sec, max 1.11 sec, min 0.53 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.01% of total time (compiled   45 times, average 0.59 sec, max 1.05 sec, min 0.43 sec)
+[2023.04.07-18.43.08:691][ 15]LogShaderCompilers: Display: ================================================
+[2023.04.07-18.43.08:895][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.04.07-18.43.08:897][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.04.07-18.43.09:008][ 17]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2023.04.07-18.43.09:038][ 17]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2023.04.07-18.43.11:756][ 17]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.04.07-18.43.14:386][ 17]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.04.07-18.43.17:633][ 17]LogSkeletalMesh: Built Skeletal Mesh [8.63s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2023.04.07-18.43.17:666][ 18]LogAutomationController: Ignoring very large delta of 8.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.07-18.43.17:667][ 18]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.04.07-18.43.17:667][ 18]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.04.07-18.43.17:679][ 19]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.04.07-18.43.17:679][ 19]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.04.07-18.43.17:790][ 20]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.04.07-18.43.17:790][ 20]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.04.07-18.43.17:800][ 21]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.04.07-18.43.17:800][ 21]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.04.07-18.43.17:808][ 22]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.04.07-18.43.17:809][ 22]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.04.07-18.43.17:837][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.04.07-18.43.17:837][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.04.07-18.43.28:487][152]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ThirdPerson/Animation/Animations/Breathing_Idle.Breathing_Idle
+[2023.04.07-18.43.28:488][152]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ThirdPerson/Animation/Skeleton/Ch08_nonPBR.Ch08_nonPBR as actor: SkeletalMeshActor /Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:489][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:490][152]PIE: Warning: Constraint in '/Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2.SkeletalMeshComponent0' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.07-18.43.28:508][152]EditorErrors: New page: Actor Reattachment
+[2023.04.07-18.43.30:710][402]Cmd: TRANSACTION UNDO
+[2023.04.07-18.43.30:710][402]LogEditorTransaction: Undo Replace Actor(s)
+[2023.04.07-18.43.43:687][800]LogContentBrowser: Deferred new asset file creation: Movepeople2
+[2023.04.07-18.43.43:705][800]LogContentBrowser: Creating deferred item: Movepeople2
+[2023.04.07-18.43.43:716][801]LogContentBrowser: Renaming the item being created (Deferred Item: Movepeople2).
+[2023.04.07-18.43.44:429][886]LogContentBrowser: Attempting asset rename: Movepeople2 -> Movepeople2
+[2023.04.07-18.43.44:476][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.07-18.43.44:486][886]LogContentBrowser: End creating deferred item Movepeople2
+[2023.04.07-18.43.45:171][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Title_Screen/Movepeople2.Movepeople2
+[2023.04.07-18.43.45:172][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.43.49:476][376]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2023.04.07-18.44.00:164][534]BlueprintLog: New page: Compile Movepeople2
+[2023.04.07-18.44.00:233][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.07-18.44.00:833][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-18.44.00:893][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Screen/Movepeople2" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset" SILENT=true
+[2023.04.07-18.44.00:899][598]LogSavePackage: Moving output files for package: /Game/Title_Screen/Movepeople2
+[2023.04.07-18.44.00:899][598]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Movepeople253F8DDB74B9C69BE84D6A0A9B16DB1A4.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset'
+[2023.04.07-18.44.00:905][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.75 sec)
+[2023.04.07-18.44.00:911][598]AssetCheck: New page: Asset Save: Movepeople2
+[2023.04.07-18.44.00:911][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Title_Screen/Movepeople2.Movepeople2
+[2023.04.07-18.44.07:268][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Title_Screen/Titlescreen_man.Titlescreen_man
+[2023.04.07-18.44.07:269][307]LogActorFactory: Actor Factory spawned StaticMesh /Game/Title_Screen/Titlescreen_man.Titlescreen_man as actor: StaticMeshActor /Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2
+[2023.04.07-18.44.07:285][307]EditorErrors: New page: Actor Reattachment
+[2023.04.07-18.44.11:143][749]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.07-18.44.11:143][749]LogPlayLevel: [PlayLevel] Compiling Title_Screen before play...
+[2023.04.07-18.44.11:209][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.07-18.44.11:210][749]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2023.04.07-18.44.11:210][749]PIE: New page: SIE session: Title_Screen (7 Apr 2023, 20:44:11)
+[2023.04.07-18.44.11:211][749]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.44.11:213][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002554s)
+[2023.04.07-18.44.11:213][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002575s)
+[2023.04.07-18.44.11:213][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.44.11:214][749]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.44.11:214][749]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2023.04.07-18.44.11:258][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.07-18.44.11:259][749]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.44.11:259][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.44.11:259][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.44.11:260][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.44.11:260][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.44.11:260][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.44.11:262][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.44.11:277][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.44.11:277][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.44.11:277][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.44.11:277][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.44.11:278][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.04.07-18.44.11:278][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.04.07-18.44.11:279][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.04.07-18.44.11:279][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.04.07-18.44.11:279][749]LogInit: FAudioDevice initialized.
+[2023.04.07-18.44.11:279][749]LogAudio: Display: Audio Device (ID: 29) registered with world 'Title_Screen'.
+[2023.04.07-18.44.11:281][749]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.44.11:282][749]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.44.11
+[2023.04.07-18.44.11:282][749]LogWorld: Bringing up level for play took: 0.000968
+[2023.04.07-18.44.11:283][749]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.04.07-18.44.11:284][749]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.07-18.44.11:284][749]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.44.11:284][749]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.44.11:284][749]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.44.11:284][749]PIE: Server logged in
+[2023.04.07-18.44.11:285][749]PIE: Play in editor total start time 0.143 seconds.
+[2023.04.07-18.44.15:297][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.44.15:297][181]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.44.15:298][181]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.44.15:298][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.44.15:301][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.44.15:307][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.44.15:350][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.44.15:351][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.04.07-18.44.15:352][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.04.07-18.44.15:358][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.07-18.44.15:391][182]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.04.07-18.44.25:828][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Title_Screen/Movepeople2.Movepeople2_C
+[2023.04.07-18.44.25:829][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Title_Screen/Movepeople2.Movepeople2 as actor: Movepeople2_C /Game/Title_Screen/Title_Screen.Title_Screen:PersistentLevel.StaticMeshActor_2
+[2023.04.07-18.44.25:839][311]EditorErrors: New page: Actor Reattachment
+[2023.04.07-18.44.27:252][470]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.04.07-18.44.27:261][470]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.07-18.44.27:261][470]LogPlayLevel: [PlayLevel] Compiling Title_Screen before play...
+[2023.04.07-18.44.27:330][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.04.07-18.44.27:331][470]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2023.04.07-18.44.27:331][470]PIE: New page: SIE session: Title_Screen (7 Apr 2023, 20:44:27)
+[2023.04.07-18.44.27:331][470]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.44.27:334][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002828s)
+[2023.04.07-18.44.27:334][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002857s)
+[2023.04.07-18.44.27:334][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.44.27:335][470]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.44.27:335][470]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2023.04.07-18.44.27:381][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.07-18.44.27:382][470]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.44.27:382][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.44.27:382][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.44.27:383][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.44.27:383][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.44.27:383][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.44.27:385][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.44.27:401][470]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.44.27:402][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.44.27:402][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.44.27:402][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.44.27:402][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.04.07-18.44.27:402][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.04.07-18.44.27:404][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.04.07-18.44.27:404][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.04.07-18.44.27:404][470]LogInit: FAudioDevice initialized.
+[2023.04.07-18.44.27:404][470]LogAudio: Display: Audio Device (ID: 30) registered with world 'Title_Screen'.
+[2023.04.07-18.44.27:406][470]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.44.27:407][470]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.44.27
+[2023.04.07-18.44.27:407][470]LogWorld: Bringing up level for play took: 0.001015
+[2023.04.07-18.44.27:409][470]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.04.07-18.44.27:410][470]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.07-18.44.27:410][470]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.44.27:411][470]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.44.27:411][470]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.44.27:411][470]PIE: Server logged in
+[2023.04.07-18.44.27:411][470]PIE: Play in editor total start time 0.152 seconds.
+[2023.04.07-18.44.29:516][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.44.29:516][699]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.44.29:517][699]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.44.29:517][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.44.29:521][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.44.29:527][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.44.29:570][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.44.29:570][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.07-18.44.29:571][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.07-18.44.29:578][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.07-18.44.29:608][700]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.04.07-18.44.31:033][859]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.04.07-18.44.58:528][115]BlueprintLog: New page: Compile Movepeople2
+[2023.04.07-18.44.58:594][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.07-18.44.59:258][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-18.44.59:340][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Screen/Movepeople2" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset" SILENT=true
+[2023.04.07-18.44.59:345][183]LogSavePackage: Moving output files for package: /Game/Title_Screen/Movepeople2
+[2023.04.07-18.44.59:346][183]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Movepeople2AA2EA97D445C3FD58E656287D4CB570E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset'
+[2023.04.07-18.44.59:357][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.84 sec)
+[2023.04.07-18.44.59:363][183]AssetCheck: New page: Asset Save: Movepeople2
+[2023.04.07-18.44.59:363][183]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Title_Screen/Movepeople2.Movepeople2
+[2023.04.07-18.45.00:797][326]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.04.07-18.45.00:806][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-18.45.00:806][326]PIE: New page: SIE session: Title_Screen (7 Apr 2023, 20:45:00)
+[2023.04.07-18.45.00:806][326]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.00:809][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002761s)
+[2023.04.07-18.45.00:809][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002795s)
+[2023.04.07-18.45.00:809][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.45.00:809][326]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.45.00:809][326]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.04.07-18.45.00:855][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.04.07-18.45.00:858][326]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.45.00:858][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.45.00:858][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.45.00:859][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.45.00:859][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.45.00:859][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.45.00:861][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.45.00:876][326]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.45.00:877][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.45.00:877][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.45.00:877][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.45.00:877][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.04.07-18.45.00:877][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.04.07-18.45.00:879][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.04.07-18.45.00:879][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.04.07-18.45.00:879][326]LogInit: FAudioDevice initialized.
+[2023.04.07-18.45.00:879][326]LogAudio: Display: Audio Device (ID: 31) registered with world 'Title_Screen'.
+[2023.04.07-18.45.00:881][326]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.45.00:882][326]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.45.00
+[2023.04.07-18.45.00:882][326]LogWorld: Bringing up level for play took: 0.001095
+[2023.04.07-18.45.00:884][326]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.04.07-18.45.00:884][326]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.07-18.45.00:885][326]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.45.00:885][326]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.45.00:885][326]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.45.00:885][326]PIE: Server logged in
+[2023.04.07-18.45.00:885][326]PIE: Play in editor total start time 0.08 seconds.
+[2023.04.07-18.45.03:167][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.03:167][560]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.03:168][560]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.45.03:168][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.03:172][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.45.03:177][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.03:220][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-18.45.03:221][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.07-18.45.03:222][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.07-18.45.03:226][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.03:229][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.07-18.45.03:256][561]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.04.07-18.45.05:410][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-18.45.05:410][809]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 20:45:05)
+[2023.04.07-18.45.05:410][809]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.05:413][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002747s)
+[2023.04.07-18.45.05:413][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002768s)
+[2023.04.07-18.45.05:413][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.45.05:413][809]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.45.05:413][809]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2023.04.07-18.45.05:458][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.07-18.45.05:460][809]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.45.05:460][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.45.05:460][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.45.05:460][809]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.45.05:460][809]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.45.05:460][809]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.45.05:462][809]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.45.05:478][809]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.45.05:478][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.45.05:478][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.45.05:478][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.45.05:478][809]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.04.07-18.45.05:478][809]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.04.07-18.45.05:480][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.04.07-18.45.05:480][809]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.04.07-18.45.05:480][809]LogInit: FAudioDevice initialized.
+[2023.04.07-18.45.05:480][809]LogAudio: Display: Audio Device (ID: 32) registered with world 'Title_Screen'.
+[2023.04.07-18.45.05:482][809]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.45.05:483][809]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.45.05
+[2023.04.07-18.45.05:483][809]LogWorld: Bringing up level for play took: 0.001022
+[2023.04.07-18.45.05:484][809]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.04.07-18.45.05:485][809]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.45.05:486][809]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.45.05:486][809]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.45.05:486][809]PIE: Server logged in
+[2023.04.07-18.45.05:486][809]PIE: Play in editor total start time 0.076 seconds.
+[2023.04.07-18.45.09:816][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.09:816][302]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.09:816][302]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.45.09:816][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.09:821][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.45.09:828][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.09:874][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.09:874][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.07-18.45.09:876][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.07-18.45.09:882][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.07-18.45.09:911][303]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.04.07-18.45.35:189][289]BlueprintLog: New page: Compile Movepeople2
+[2023.04.07-18.45.35:258][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.07-18.45.35:735][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-18.45.35:825][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Screen/Movepeople2" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset" SILENT=true
+[2023.04.07-18.45.35:831][335]LogSavePackage: Moving output files for package: /Game/Title_Screen/Movepeople2
+[2023.04.07-18.45.35:831][335]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Movepeople2201265A3485EAC1E61154FAFE7859B77.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset'
+[2023.04.07-18.45.35:842][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.95 sec)
+[2023.04.07-18.45.35:848][335]AssetCheck: New page: Asset Save: Movepeople2
+[2023.04.07-18.45.35:848][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Title_Screen/Movepeople2.Movepeople2
+[2023.04.07-18.45.37:605][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.07-18.45.37:613][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-18.45.37:613][504]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 20:45:37)
+[2023.04.07-18.45.37:614][504]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.37:616][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002786s)
+[2023.04.07-18.45.37:616][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002809s)
+[2023.04.07-18.45.37:616][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.45.37:617][504]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.45.37:617][504]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2023.04.07-18.45.37:662][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.07-18.45.37:663][504]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.45.37:664][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.45.37:664][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.45.37:664][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.45.37:664][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.45.37:664][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.45.37:666][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.45.37:681][504]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.45.37:681][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.45.37:681][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.45.37:681][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.45.37:682][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.04.07-18.45.37:682][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.04.07-18.45.37:683][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.04.07-18.45.37:683][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.04.07-18.45.37:683][504]LogInit: FAudioDevice initialized.
+[2023.04.07-18.45.37:683][504]LogAudio: Display: Audio Device (ID: 33) registered with world 'Title_Screen'.
+[2023.04.07-18.45.37:685][504]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.45.37:686][504]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.45.37
+[2023.04.07-18.45.37:686][504]LogWorld: Bringing up level for play took: 0.001051
+[2023.04.07-18.45.37:688][504]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.04.07-18.45.37:688][504]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.45.37:688][504]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.45.37:688][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.45.37:688][504]PIE: Server logged in
+[2023.04.07-18.45.37:689][504]PIE: Play in editor total start time 0.077 seconds.
+[2023.04.07-18.45.41:397][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.41:397][938]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.41:397][938]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.45.41:397][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.41:407][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.45.41:413][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.41:455][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-18.45.41:455][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.04.07-18.45.41:457][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.04.07-18.45.41:460][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.41:462][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.07-18.45.41:489][939]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.04.07-18.45.45:139][364]BlueprintLog: New page: Compile Movepeople2
+[2023.04.07-18.45.45:206][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.07-18.45.46:506][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.07-18.45.46:514][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-18.45.46:514][483]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 20:45:46)
+[2023.04.07-18.45.46:514][483]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.46:517][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002709s)
+[2023.04.07-18.45.46:517][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002733s)
+[2023.04.07-18.45.46:517][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.45.46:517][483]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.45.46:517][483]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.04.07-18.45.46:560][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.07-18.45.46:562][483]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.45.46:562][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.45.46:563][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.45.46:563][483]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.45.46:563][483]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.45.46:563][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.45.46:566][483]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.45.46:581][483]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.45.46:581][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.45.46:581][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.45.46:581][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.45.46:582][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.04.07-18.45.46:582][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.04.07-18.45.46:584][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.04.07-18.45.46:584][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.04.07-18.45.46:584][483]LogInit: FAudioDevice initialized.
+[2023.04.07-18.45.46:584][483]LogAudio: Display: Audio Device (ID: 34) registered with world 'Title_Screen'.
+[2023.04.07-18.45.46:586][483]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.45.46:587][483]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.45.46
+[2023.04.07-18.45.46:587][483]LogWorld: Bringing up level for play took: 0.000989
+[2023.04.07-18.45.46:589][483]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.04.07-18.45.46:590][483]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.45.46:590][483]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.45.46:590][483]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.45.46:590][483]PIE: Server logged in
+[2023.04.07-18.45.46:591][483]PIE: Play in editor total start time 0.078 seconds.
+[2023.04.07-18.45.50:885][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.50:885][985]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.50:886][985]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.45.50:886][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.50:896][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.45.50:902][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.45.50:945][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-18.45.50:946][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.04.07-18.45.50:947][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.04.07-18.45.50:951][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.45.50:953][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.07-18.45.50:979][986]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.04.07-18.45.58:002][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-18.45.58:002][810]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 20:45:58)
+[2023.04.07-18.45.58:002][810]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.45.58:005][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003130s)
+[2023.04.07-18.45.58:005][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.003154s)
+[2023.04.07-18.45.58:005][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.45.58:006][810]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.45.58:006][810]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2023.04.07-18.45.58:049][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.04.07-18.45.58:051][810]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.45.58:051][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.45.58:051][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.45.58:052][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.45.58:052][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.45.58:052][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.45.58:054][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.45.58:070][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.45.58:070][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.45.58:070][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.45.58:070][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.45.58:070][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.04.07-18.45.58:070][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.04.07-18.45.58:072][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.04.07-18.45.58:072][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.04.07-18.45.58:072][810]LogInit: FAudioDevice initialized.
+[2023.04.07-18.45.58:072][810]LogAudio: Display: Audio Device (ID: 35) registered with world 'Title_Screen'.
+[2023.04.07-18.45.58:074][810]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.45.58:075][810]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.45.58
+[2023.04.07-18.45.58:075][810]LogWorld: Bringing up level for play took: 0.001066
+[2023.04.07-18.45.58:077][810]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.04.07-18.45.58:078][810]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.45.58:078][810]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.45.58:078][810]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.45.58:078][810]PIE: Server logged in
+[2023.04.07-18.45.58:078][810]PIE: Play in editor total start time 0.077 seconds.
+[2023.04.07-18.46.03:615][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.46.03:615][451]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.46.03:615][451]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.46.03:616][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.46.03:620][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.46.03:626][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.46.03:669][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.46.03:669][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.04.07-18.46.03:671][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.04.07-18.46.03:676][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.07-18.46.03:700][452]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.04.07-18.46.07:998][959]BlueprintLog: New page: Compile Movepeople2
+[2023.04.07-18.46.08:069][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.07-18.46.08:592][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-18.46.08:650][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Screen/Movepeople2" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset" SILENT=true
+[2023.04.07-18.46.08:656][  9]LogSavePackage: Moving output files for package: /Game/Title_Screen/Movepeople2
+[2023.04.07-18.46.08:657][  9]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Movepeople2CCEA80B34BF2AC6D7AFB08944E246F82.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset'
+[2023.04.07-18.46.08:665][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 3.02 sec)
+[2023.04.07-18.46.08:671][  9]AssetCheck: New page: Asset Save: Movepeople2
+[2023.04.07-18.46.08:672][  9]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Title_Screen/Movepeople2.Movepeople2
+[2023.04.07-18.46.09:414][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.07-18.46.09:422][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.07-18.46.09:422][ 97]PIE: New page: PIE session: Title_Screen (7 Apr 2023, 20:46:09)
+[2023.04.07-18.46.09:423][ 97]LogPlayLevel: Creating play world package: /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.46.09:425][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002832s)
+[2023.04.07-18.46.09:425][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Title_Screen/Title_Screen.Title_Screen to /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen (0.002857s)
+[2023.04.07-18.46.09:426][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.07-18.46.09:426][ 97]LogAIModule: Creating AISystem for world Title_Screen
+[2023.04.07-18.46.09:426][ 97]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.04.07-18.46.09:472][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.07-18.46.09:474][ 97]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.07-18.46.09:474][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.07-18.46.09:474][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.07-18.46.09:475][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.07-18.46.09:475][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.07-18.46.09:475][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.07-18.46.09:477][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.07-18.46.09:492][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.07-18.46.09:492][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.07-18.46.09:492][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.07-18.46.09:492][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.07-18.46.09:492][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.04.07-18.46.09:492][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.04.07-18.46.09:494][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.04.07-18.46.09:494][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.04.07-18.46.09:494][ 97]LogInit: FAudioDevice initialized.
+[2023.04.07-18.46.09:494][ 97]LogAudio: Display: Audio Device (ID: 36) registered with world 'Title_Screen'.
+[2023.04.07-18.46.09:541][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.46.09:541][ 97]LogLoad: Game class is 'Title_ScreeMode_C'
+[2023.04.07-18.46.09:542][ 97]LogWorld: Bringing World /Game/Title_Screen/UEDPIE_0_Title_Screen.Title_Screen up for play (max tick rate 0) at 2023.04.07-19.46.09
+[2023.04.07-18.46.09:543][ 97]LogWorld: Bringing up level for play took: 0.001269
+[2023.04.07-18.46.09:545][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.04.07-18.46.09:545][ 97]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.07-18.46.09:546][ 97]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.07-18.46.09:546][ 97]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.07-18.46.09:546][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.07-18.46.09:547][ 97]PIE: Server logged in
+[2023.04.07-18.46.09:548][ 97]PIE: Play in editor total start time 0.125 seconds.
+[2023.04.07-18.46.09:555][ 97]LogViewport: Scene viewport resized to 1930x1000, mode Windowed.
+[2023.04.07-18.46.13:618][530]Cmd: LevelEditor.ToggleImmersive
+[2023.04.07-18.46.16:094][827]Cmd: LevelEditor.ToggleImmersive
+[2023.04.07-18.46.16:886][922]Cmd: LevelEditor.ToggleImmersive
+[2023.04.07-18.46.17:853][ 35]LogViewport: Scene viewport resized to 1920x1006, mode Windowed.
+[2023.04.07-18.46.19:536][218]LogViewport: Scene viewport resized to 1930x1000, mode Windowed.
+[2023.04.07-18.46.26:666][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.07-18.46.26:666][ 66]LogWorld: BeginTearingDown for /Game/Title_Screen/UEDPIE_0_Title_Screen
+[2023.04.07-18.46.26:666][ 66]LogSlate: Window 'FYPmechanics Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.04.07-18.46.26:674][ 66]LogWorld: UWorld::CleanupWorld for Title_Screen, bSessionEnded=true, bCleanupResources=true
+[2023.04.07-18.46.26:674][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.46.26:684][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.07-18.46.26:690][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.07-18.46.26:734][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.07-18.46.26:734][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.04.07-18.46.26:736][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.04.07-18.46.26:743][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.07-18.46.26:782][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.04.07-18.46.47:175][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.07-18.46.47:228][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Title_Screen/Movepeople2" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset" SILENT=true
+[2023.04.07-18.46.47:233][449]LogSavePackage: Moving output files for package: /Game/Title_Screen/Movepeople2
+[2023.04.07-18.46.47:233][449]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Movepeople294FD977847BDF0613D3CA096D49E7485.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Title_Screen/Movepeople2.uasset'
+[2023.04.07-18.46.47:241][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.09 sec)
+[2023.04.07-18.46.47:248][449]AssetCheck: New page: Asset Save: Movepeople2
+[2023.04.07-18.46.47:248][449]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Title_Screen/Movepeople2.Movepeople2
+[2023.04.07-18.46.48:345][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.04.07-18.46.48:356][561]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Title_Screen/Title_Screen_Auto4
+[2023.04.07-18.46.48:356][561]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Title_Screen_Auto4EA9A5DF34595A6D67D4F42A0A6F0A10A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/Title_Screen/Title_Screen_Auto4.umap'
+[2023.04.07-18.46.48:364][561]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Title_Screen/Title_Screen' took 0.063
+[2023.04.07-18.46.48:364][561]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
