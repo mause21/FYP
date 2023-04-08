@@ -1574,3 +1574,373 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.08-17.39.16:617][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 295 ms)
 [2023.04.08-17.39.16:620][ 24]AssetCheck: New page: Asset Save: Part_three
 [2023.04.08-17.39.16:620][ 24]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.08-17.39.31:656][431]MapCheck: New page: Map Check
+[2023.04.08-17.39.31:674][431]LogSlate: Took 0.003621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.08-17.39.31:679][431]LightingResults: New page: Lighting Build - 8 Apr 2023, 19:39:31
+[2023.04.08-17.39.31:707][431]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.08-17.39.32:394][431]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.08-17.39.32:410][431]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.08-17.39.33:427][431]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.08-17.39.33:427][431]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12704
+[2023.04.08-17.39.47:358][431]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.04.08-17.39.47:359][431]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.08-17.39.47:359][431]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.08-17.39.47:359][431]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.08-17.39.47:359][431]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.08-17.39.47:359][431]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.08-17.39.47:604][431]LogEditorBuildUtils: Build time 0:15
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: ================================================
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: Total job queries 258, among them cache hits 35 (13.57%)
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: Tracking 223 distinct input hashes that result in 150 distinct outputs (67.26%)
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: RAM used: 0.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.08-17.39.47:636][431]LogShaderCompilers: Display: ================================================
+[2023.04.08-17.39.48:576][436]LogDerivedDataCache: Display: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash e0e20ecf0493851d277d0e68fe16a174ad139f5b and existing hash 53a60f793375be024aa4ea9ba0bfca005622b83d for MaterialShaderMap/b68eea2f303f33d5deb1ed007bd464b76e3fc1ab from ' [PCD3D_SM5, SM5, Num]'
+[2023.04.08-17.39.48:577][436]LogDerivedDataCache: Display: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 948fdea3f48257c6fdd26ad5130fe9c45f622f02 and existing hash 46445dae47f45badb9ecc97deb37f423acb01050 for MaterialShaderMap/f47323fef1fd27cd4993704d06dc9f27e738b195 from ' [PCD3D_SM5, SM5, Num]'
+[2023.04.08-17.39.48:762][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.08-17.39.58:448][ 58]Job is a success!
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.092s
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:      BrickData (all levels) 3.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:          1: 8.0% covering 12.5% of volume
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:          2: 91.0% covering 2.2% of volume
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.08-17.39.58:768][ 60]LogVolumetricLightmapImport:          Part_three 			 801 bricks 	 100.0% (Persistent Level)
+[2023.04.08-17.39.59:007][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:024][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:041][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:060][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:075][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:138][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:150][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:155][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:158][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:165][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:346][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:355][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_4 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:360][ 60]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_5 (G8, 64x64 x1x1x1) (Required Memory Estimate: 0.156244 MB), EncodeSpeed: Fast
+[2023.04.08-17.39.59:392][ 60]Lightmass on C117A-45: 9.60 sec total, 233 ms importing, 257 ms setup, 1.92 sec photons, 7.17 sec processing, 0 us extra exporting [393/393 mappings]. Threads: 1:47 min total, 1:05 min processing.
+[2023.04.08-17.39.59:424][ 60]LogStaticLightingSystem: Part_three_BuiltData storing lightmap data for 393 meshes in 14 LightmapResourceClusters (28.1 Meshes per cluster).
+[2023.04.08-17.39.59:476][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.08-17.39.59:482][ 60]LogStaticLightingSystem: Illumination: 27.7 sec (222 ms encoding lightmaps, 190 ms encoding shadowmaps)
+[2023.04.08-17.39.59:482][ 60]LogStaticLightingSystem: Lightmap texture memory:  7.0 MB (7.0 MB streaming, 0.0 MB non-streaming), 12 textures
+[2023.04.08-17.39.59:482][ 60]LogStaticLightingSystem: Shadowmap texture memory: 8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.04.08-17.40.00:374][ 60]DumpUnbuiltLightIteractions
+[2023.04.08-17.40.00:374][ 60]Lights with unbuilt interactions: 0
+[2023.04.08-17.40.00:374][ 60]
+[2023.04.08-17.40.00:374][ 60]Primitives with unbuilt interactions: 0
+[2023.04.08-17.40.02:797][ 60]LogDerivedDataCache: Display: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash be0483b8703627916b4a1d3a18cd850565add2c4 and existing hash c33756d98349a20bcd33d2e3ff3322ce41196b7a for MaterialShaderMap/93d594631c8fdbc1b7939ad5d148c6623520d861 from '/Game/Level_Blueprints/Video/NewMediaPlayer_Video_Mat.NewMediaPlayer_Video_Mat [PCD3D_SM5, SM5, Num]'
+[2023.04.08-17.40.02:819][ 61]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.08-17.40.02:819][ 61]MapCheck: New page: Part_three - 8 Apr 2023, 19:40:02
+[2023.04.08-17.40.02:821][ 61]MapCheck: Warning: StaticMeshActor_380 Static mesh actor has NULL StaticMesh property 
+[2023.04.08-17.40.02:821][ 61]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2.4ms to complete.
+[2023.04.08-17.40.17:983][499]LogSlate: Window 'Message Log' being destroyed
+[2023.04.08-17.40.17:996][499]LogSlate: Window 'Message Log' being destroyed
+[2023.04.08-17.40.19:265][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.08-17.40.19:274][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.08-17.40.19:274][633]PIE: New page: PIE session: Part_three (8 Apr 2023, 19:40:19)
+[2023.04.08-17.40.19:301][633]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.08-17.40.19:326][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025258s)
+[2023.04.08-17.40.19:326][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.025295s)
+[2023.04.08-17.40.19:326][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.40.19:327][633]LogAIModule: Creating AISystem for world Part_three
+[2023.04.08-17.40.19:327][633]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.04.08-17.40.19:335][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.08-17.40.19:336][633]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.08-17.40.19:336][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.08-17.40.19:336][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.08-17.40.19:337][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.08-17.40.19:337][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.08-17.40.19:337][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.08-17.40.19:338][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.08-17.40.19:353][633]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.08-17.40.19:354][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.08-17.40.19:354][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.08-17.40.19:354][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.08-17.40.19:354][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.08-17.40.19:354][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.08-17.40.19:356][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.08-17.40.19:356][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.04.08-17.40.19:356][633]LogInit: FAudioDevice initialized.
+[2023.04.08-17.40.19:356][633]LogAudio: Display: Audio Device (ID: 10) registered with world 'Part_three'.
+[2023.04.08-17.40.19:359][633]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.08-17.40.19:373][633]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.08-18.40.19
+[2023.04.08-17.40.19:374][633]LogWorld: Bringing up level for play took: 0.015295
+[2023.04.08-17.40.19:376][633]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.04.08-17.40.19:379][633]PIE: Server logged in
+[2023.04.08-17.40.19:380][633]PIE: Play in editor total start time 0.106 seconds.
+[2023.04.08-17.40.21:412][832]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.08-17.40.21:412][832]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.08-17.40.23:529][ 64]LogBlueprintUserMessages: [Tut_1_C_0] gggggggggg
+[2023.04.08-17.40.41:798][130]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.40.41:798][130]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.40.49:097][858]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUIF_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.40.51:580][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUI_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.40.51:987][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUI_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.40.53:727][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUI_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.41.00:400][168]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUI_C_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.41.02:527][414]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUI_C_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.41.08:119][ 70]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.08-17.41.08:119][ 70]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.08-17.41.08:836][156]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.41.09:677][257]LogBlueprintUserMessages: [Tut_1_C_1] gggggggggg
+[2023.04.08-17.41.11:156][430]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.41.13:035][655]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.41.13:035][655]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.41.14:432][822]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.41.14:432][822]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.41.20:299][395]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUIF_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.41.25:288][959]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.08-17.41.25:288][959]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.08-17.41.52:300][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUIF_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.41.53:736][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUIF_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.42.01:128][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.InteractUI_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.43.13:392][260]LogBlueprintUserMessages: [Shooter_AI_C_8] Spawned bullets
+[2023.04.08-17.43.13:891][320]LogBlueprintUserMessages: [Shooter_AI_C_8] Not firing bullets
+[2023.04.08-17.43.13:949][327]LogBlueprintUserMessages: [Health_Bar_C_0] 0.95
+[2023.04.08-17.43.13:949][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2023.04.08-17.43.14:397][380]LogBlueprintUserMessages: [Shooter_AI_C_8] Spawned bullets
+[2023.04.08-17.43.19:810][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-17.43.19:811][ 24]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.08-17.43.19:811][ 24]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-17.43.19:813][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-17.43.19:816][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.08-17.43.19:819][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-17.43.19:827][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-17.43.19:828][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.08-17.43.19:829][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.08-17.43.19:840][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.08-17.43.19:875][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: ================================================
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Total job queries 839, among them cache hits 37 (4.41%)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Tracking 802 distinct input hashes that result in 431 distinct outputs (53.74%)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: RAM used: 1.94 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 0.73 s
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 0.82
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.82 s
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Total thread time: 2.04 s
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Total thread preprocess time: 0.14 s
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Percentage time preprocessing: 6.62%
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Effective parallelization: 2.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 51.81% of total time (compiled    2 times, average 0.53 sec, max 0.54 sec, min 0.52 sec)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 48.19% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2023.04.08-17.43.40:640][972]LogShaderCompilers: Display: ================================================
+[2023.04.08-17.43.47:254][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level_Blueprints/Tutorials/Tutorial_3.Tutorial_3
+[2023.04.08-17.43.47:254][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.43.48:603][580]LogSlate: Took 0.005153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.08-17.43.58:361][522]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level_Blueprints/Tutorials/Tut_1.Tut_1
+[2023.04.08-17.43.58:361][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.43.58:372][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.43.58:373][522]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.04.08-17.43.58:697][522]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.43.58:697][522]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.43.58:754][522]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.04.08-17.44.08:252][576]BlueprintLog: New page: Compile Tut_1
+[2023.04.08-17.44.08:323][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.04.08-17.44.08:886][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.44.08:943][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Blueprints/Tutorials/Tut_1" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Level_Blueprints/Tutorials/Tut_1.uasset" SILENT=true
+[2023.04.08-17.44.08:949][639]LogSavePackage: Moving output files for package: /Game/Level_Blueprints/Tutorials/Tut_1
+[2023.04.08-17.44.08:949][639]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Tut_14158018A4F824A1A4A6B12A5F685C9AD.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Level_Blueprints/Tutorials/Tut_1.uasset'
+[2023.04.08-17.44.08:958][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 367 ms)
+[2023.04.08-17.44.08:964][639]AssetCheck: New page: Asset Save: Tut_1
+[2023.04.08-17.44.08:964][639]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Level_Blueprints/Tutorials/Tut_1.Tut_1
+[2023.04.08-17.44.11:987][931]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level_Blueprints/Tutorials/Tut_2.Tut_2
+[2023.04.08-17.44.11:988][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.44.11:993][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.44.12:388][931]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.44.12:388][931]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.44.26:718][510]BlueprintLog: New page: Compile Tut_2
+[2023.04.08-17.44.26:782][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.08-17.44.27:376][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.44.27:426][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Blueprints/Tutorials/Tut_2" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Level_Blueprints/Tutorials/Tut_2.uasset" SILENT=true
+[2023.04.08-17.44.27:431][568]LogSavePackage: Moving output files for package: /Game/Level_Blueprints/Tutorials/Tut_2
+[2023.04.08-17.44.27:432][568]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Tut_21D729FB04FC0661E5D40A3B932AB9F7D.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Level_Blueprints/Tutorials/Tut_2.uasset'
+[2023.04.08-17.44.27:439][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 430 ms)
+[2023.04.08-17.44.27:445][568]AssetCheck: New page: Asset Save: Tut_2
+[2023.04.08-17.44.27:445][568]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Level_Blueprints/Tutorials/Tut_2.Tut_2
+[2023.04.08-17.44.29:014][739]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.44.29:014][739]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.44.33:161][140]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level_Blueprints/Tutorials/Tut_3.Tut_3
+[2023.04.08-17.44.33:161][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.44.33:174][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.44.33:487][140]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.44.33:487][140]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.08-17.44.47:303][713]BlueprintLog: New page: Compile Tut_3
+[2023.04.08-17.44.47:373][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.08-17.44.48:014][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.44.48:059][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Blueprints/Tutorials/Tut_3" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Level_Blueprints/Tutorials/Tut_3.uasset" SILENT=true
+[2023.04.08-17.44.48:065][775]LogSavePackage: Moving output files for package: /Game/Level_Blueprints/Tutorials/Tut_3
+[2023.04.08-17.44.48:065][775]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Tut_30DCEDC5C4BBAC5DF6D9347A6AB1E9644.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/Level_Blueprints/Tutorials/Tut_3.uasset'
+[2023.04.08-17.44.48:072][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 488 ms)
+[2023.04.08-17.44.48:078][775]AssetCheck: New page: Asset Save: Tut_3
+[2023.04.08-17.44.48:078][775]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Level_Blueprints/Tutorials/Tut_3.Tut_3
+[2023.04.08-17.45.07:698][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.45.07:807][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.08-17.45.07:865][632]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.08-17.45.07:866][632]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three525ABCBA4F6D490D03D49E87BB5A4F58.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.08-17.45.07:880][632]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPerson/Maps/Part_three_BuiltData
+[2023.04.08-17.45.07:880][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.45.07:881][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Part_three_BuiltData" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three_BuiltData.uasset" SILENT=true
+[2023.04.08-17.45.07:959][632]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three_BuiltData
+[2023.04.08-17.45.07:959][632]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three_BuiltDataCCFD3A564C9553A56D5DD2B31E39623F.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three_BuiltData.uasset'
+[2023.04.08-17.45.07:960][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 568 ms)
+[2023.04.08-17.45.07:961][632]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPerson/Maps/Part_three_BuiltData
+[2023.04.08-17.45.07:961][632]LogFileHelpers: Saving map 'Part_three' took 0.202
+[2023.04.08-17.45.07:967][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 268 ms (total: 836 ms)
+[2023.04.08-17.45.07:974][632]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.08-17.45.07:974][632]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.08-17.45.07:974][632]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData
+[2023.04.08-17.46.53:809][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.08-17.46.53:818][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.08-17.46.53:818][451]PIE: New page: PIE session: Part_three (8 Apr 2023, 19:46:53)
+[2023.04.08-17.46.53:818][451]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.08-17.46.53:846][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027102s)
+[2023.04.08-17.46.53:846][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.027137s)
+[2023.04.08-17.46.53:846][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.46.53:846][451]LogAIModule: Creating AISystem for world Part_three
+[2023.04.08-17.46.53:846][451]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.04.08-17.46.53:895][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.08-17.46.53:896][451]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.08-17.46.53:896][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.08-17.46.53:896][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.08-17.46.53:897][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.08-17.46.53:897][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.08-17.46.53:897][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.08-17.46.53:898][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.08-17.46.53:914][451]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.08-17.46.53:914][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.08-17.46.53:914][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.08-17.46.53:914][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.08-17.46.53:915][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.08-17.46.53:915][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.08-17.46.53:917][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.08-17.46.53:917][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.04.08-17.46.53:917][451]LogInit: FAudioDevice initialized.
+[2023.04.08-17.46.53:917][451]LogAudio: Display: Audio Device (ID: 11) registered with world 'Part_three'.
+[2023.04.08-17.46.53:919][451]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.08-17.46.53:932][451]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.08-18.46.53
+[2023.04.08-17.46.53:933][451]LogWorld: Bringing up level for play took: 0.015016
+[2023.04.08-17.46.53:935][451]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.04.08-17.46.53:939][451]PIE: Server logged in
+[2023.04.08-17.46.53:939][451]PIE: Play in editor total start time 0.122 seconds.
+[2023.04.08-17.46.55:605][613]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.08-17.46.55:605][613]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.08-17.47.08:149][ 29]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.47.08:149][ 29]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.47.16:146][826]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUIF_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.47.19:252][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUI_C_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.47.26:158][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUI_C_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.47.27:970][142]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUI_C_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.47.31:960][618]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.47.31:960][618]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.47.33:051][730]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUIF_C_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.47.37:992][269]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.08-17.47.37:992][269]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.08-17.47.41:322][652]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.47.41:322][652]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.47.47:449][240]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUIF_C_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.47.55:313][100]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.08-17.47.55:313][100]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.08-17.48.20:440][791]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUI_C_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.48.38:015][731]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.48.38:015][731]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.48.42:899][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_9.InteractUIF_C_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.08-17.49.00:955][185]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.08-17.49.49:684][771]LogBlueprintUserMessages: [Shooter_AI_C_7] Not firing bullets
+[2023.04.08-17.49.51:653][998]LogBlueprintUserMessages: [Shooter_AI_C_8] Spawned bullets
+[2023.04.08-17.49.52:216][ 64]LogBlueprintUserMessages: [Health_Bar_C_0] 0.95
+[2023.04.08-17.49.52:216][ 64]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2023.04.08-17.49.59:390][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-17.49.59:390][912]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.08-17.49.59:390][912]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-17.49.59:392][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-17.49.59:396][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.08-17.49.59:403][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-17.49.59:449][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-17.49.59:449][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.08-17.49.59:451][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.08-17.49.59:456][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.08-17.49.59:463][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.08-17.49.59:495][913]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.08-17.50.18:300][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/inspection_system/Book.Book
+[2023.04.08-17.50.18:300][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.50.20:013][913]LogSlate: Window 'Book' being destroyed
+[2023.04.08-17.50.20:025][913]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-17.50.20:026][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-17.50.20:052][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/inspection_system/Book.Book
+[2023.04.08-17.50.20:052][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-17.50.22:678][106]LogSlate: Window 'Book' being destroyed
+[2023.04.08-17.50.33:948][432]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.04.08-17.50.58:384][303]LogViewport: Scene viewport resized to 1139x710, mode Windowed.
+[2023.04.08-17.50.58:468][305]LogViewport: Scene viewport resized to 547x282, mode Windowed.
+[2023.04.08-17.50.58:550][306]LogViewport: Scene viewport resized to 469x234, mode Windowed.
+[2023.04.08-17.50.59:923][406]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.04.08-17.52.08:041][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.52.08:168][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.08-17.52.08:224][483]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.08-17.52.08:225][483]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeDDA1F4854591EBAB90686CABCB86E122.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.08-17.52.08:239][483]LogFileHelpers: No new changes to save!
+[2023.04.08-17.52.08:240][483]LogFileHelpers: Saving map 'Part_three' took 0.130
+[2023.04.08-17.52.08:246][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 1.04 sec)
+[2023.04.08-17.52.08:254][483]AssetCheck: New page: Asset Save: Part_three
+[2023.04.08-17.52.08:254][483]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.08-17.52.22:169][431]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.04.08-17.52.22:169][431]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.04.08-17.52.36:648][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.52.36:764][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.08-17.52.36:822][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.08-17.52.36:822][430]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three398777734D6B4A3C39E25189D7195446.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.08-17.52.36:835][430]LogFileHelpers: No new changes to save!
+[2023.04.08-17.52.36:835][430]LogFileHelpers: Saving map 'Part_three' took 0.126
+[2023.04.08-17.52.36:841][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 1.23 sec)
+[2023.04.08-17.52.36:849][430]AssetCheck: New page: Asset Save: Part_three
+[2023.04.08-17.52.36:849][430]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.08-17.52.59:580][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.52.59:693][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.08-17.52.59:750][ 33]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.08-17.52.59:751][ 33]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three53779B9C4D5B86116E976B84B3D9DA26.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.08-17.52.59:764][ 33]LogFileHelpers: No new changes to save!
+[2023.04.08-17.52.59:764][ 33]LogFileHelpers: Saving map 'Part_three' took 0.122
+[2023.04.08-17.52.59:779][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.43 sec)
+[2023.04.08-17.52.59:785][ 33]AssetCheck: New page: Asset Save: Part_three
+[2023.04.08-17.52.59:785][ 33]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.08-17.53.31:882][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-17.53.31:997][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.08-17.53.32:055][180]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.08-17.53.32:055][180]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeF4859F2448DB1F5754305F803A6A26BC.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.08-17.53.32:069][180]LogFileHelpers: No new changes to save!
+[2023.04.08-17.53.32:069][180]LogFileHelpers: Saving map 'Part_three' took 0.126
+[2023.04.08-17.53.32:076][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 1.62 sec)
+[2023.04.08-17.53.32:083][180]AssetCheck: New page: Asset Save: Part_three
+[2023.04.08-17.53.32:083][180]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
