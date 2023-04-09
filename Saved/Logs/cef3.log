@@ -1,1 +1,5 @@
-[0406/111027.386:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0409/151915.264:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0409/151917.861:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0409/152115.503:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0409/154631.010:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[0409/154631.010:ERROR:dns_config_service.cc(259)] DNS config watch failed.
