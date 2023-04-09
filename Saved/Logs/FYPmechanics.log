@@ -3663,3 +3663,16 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.04.09-13.30.54:842][822]LogEditorActor: Deleted Actor: StaticMeshActor
 [2023.04.09-13.30.54:852][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2023.04.09-13.30.54:856][822]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.04.09-13.33.25:083][334]LogViewport: Scene viewport resized to 506x284, mode Windowed.
+[2023.04.09-13.33.33:530][914]LogEditorViewport: Clicking Background
+[2023.04.09-13.33.34:713][ 55]Cmd: TRANSACTION UNDO
+[2023.04.09-13.33.34:713][ 55]LogEditorTransaction: Undo Pilot Actor
+[2023.04.09-13.33.38:001][283]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00019.png
+[2023.04.09-13.33.39:328][380]Cmd: r.ResetRenderTargetsExtent
+[2023.04.09-13.33.39:328][380]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.09-13.33.39:329][380]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.09-13.34.07:217][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.09-13.34.07:278][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Part_three_Auto3
+[2023.04.09-13.34.07:279][205]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three_Auto3C60D19E044D9BBFA56907597F8338660.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Part_three_Auto3.umap'
+[2023.04.09-13.34.07:286][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Part_three' took 0.077
+[2023.04.09-13.34.07:286][205]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
