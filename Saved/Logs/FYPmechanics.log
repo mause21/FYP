@@ -11681,3 +11681,341 @@ Script call stack:
 [2023.04.10-17.34.27:256][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 16.2 sec)
 [2023.04.10-17.34.27:266][ 41]AssetCheck: New page: Asset Save: Part_three
 [2023.04.10-17.34.27:266][ 41]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-17.34.42:717][144]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.10-17.34.42:728][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-17.34.42:728][144]PIE: New page: PIE session: Part_three (10 Apr 2023, 19:34:42)
+[2023.04.10-17.34.42:728][144]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.10-17.34.42:760][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032197s)
+[2023.04.10-17.34.42:761][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.032247s)
+[2023.04.10-17.34.42:761][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-17.34.42:761][144]LogAIModule: Creating AISystem for world Part_three
+[2023.04.10-17.34.42:761][144]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2023.04.10-17.34.42:837][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.10-17.34.42:840][144]LogAudio: Display: Creating Audio Device:                 Id: 120, Scope: Unique, Realtime: True
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.10-17.34.42:840][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-17.34.42:840][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-17.34.42:841][144]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-17.34.42:841][144]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-17.34.42:841][144]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-17.34.42:843][144]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.10-17.34.42:857][144]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.10-17.34.42:858][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-17.34.42:858][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-17.34.42:858][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-17.34.42:858][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=120
+[2023.04.10-17.34.42:858][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=120
+[2023.04.10-17.34.42:860][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=120
+[2023.04.10-17.34.42:860][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=120
+[2023.04.10-17.34.42:860][144]LogInit: FAudioDevice initialized.
+[2023.04.10-17.34.42:860][144]LogAudio: Display: Audio Device (ID: 120) registered with world 'Part_three'.
+[2023.04.10-17.34.42:862][144]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.10-17.34.42:881][144]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.10-18.34.42
+[2023.04.10-17.34.42:882][144]LogWorld: Bringing up level for play took: 0.020037
+[2023.04.10-17.34.42:884][144]LogOnline: OSS: Created online subsystem instance for: :Context_166
+[2023.04.10-17.34.42:889][144]PIE: Server logged in
+[2023.04.10-17.34.42:889][144]PIE: Play in editor total start time 0.161 seconds.
+[2023.04.10-17.34.55:646][ 81]LogBlueprintUserMessages: [Book_C_2] F is showing
+[2023.04.10-17.34.56:094][116]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.10-17.34.56:094][116]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2023.04.10-17.35.09:752][ 15]LogBlueprintUserMessages: [Studio_C_0] This is the button to exit
+[2023.04.10-17.35.10:379][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_118.InteractUIF_C_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2023.04.10-17.35.17:743][481]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.10-17.35.17:743][481]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.10-17.35.22:431][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-17.35.22:431][746]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.10-17.35.22:432][746]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-17.35.22:435][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-17.35.22:439][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-17.35.22:451][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-17.35.22:531][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-17.35.22:532][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=120
+[2023.04.10-17.35.22:534][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=120
+[2023.04.10-17.35.22:538][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-17.35.22:548][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.04.10-17.35.22:604][747]LogPlayLevel: Display: Destroying online subsystem :Context_166
+[2023.04.10-17.35.24:568][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-17.35.24:717][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.10-17.35.24:794][853]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-17.35.24:795][853]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeA72228F54B7400E57405BB9EC3442075.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-17.35.24:809][853]LogFileHelpers: No new changes to save!
+[2023.04.10-17.35.24:809][853]LogFileHelpers: Saving map 'Part_three' took 0.169
+[2023.04.10-17.35.24:815][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 16.5 sec)
+[2023.04.10-17.35.24:828][853]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-17.35.24:828][853]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-17.35.58:075][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-17.35.58:214][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.10-17.35.58:291][105]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-17.35.58:292][105]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeBA6F45514E48FAEC7F17D886F0878B30.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-17.35.58:307][105]LogFileHelpers: No new changes to save!
+[2023.04.10-17.35.58:307][105]LogFileHelpers: Saving map 'Part_three' took 0.168
+[2023.04.10-17.35.58:323][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 16.7 sec)
+[2023.04.10-17.35.58:334][105]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-17.35.58:334][105]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: ================================================
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Total job queries 2915, among them cache hits 516 (17.70%)
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Tracking 2399 distinct input hashes that result in 847 distinct outputs (35.31%)
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: RAM used: 6.01 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.37%
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Shaders Compiled: 291
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Jobs assigned 291, completed 291 (100.00%)
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Average time worker was idle: 336.50 s
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Time job spent in pending queue: average 0.57 s, longest 3.01 s
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 2.40 s
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Job life time (pending + execution): average 1.62 s, max 3.87
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.46 s
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Jobs were issued in 291 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Average processing rate: 4.38 jobs/sec
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Total thread time: 237.55 s
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Total thread preprocess time: 16.03 s
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Percentage time preprocessing: 6.75%
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Effective parallelization: 3.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 1.56 sec, max 1.83 sec, min 1.19 sec)
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.54 sec, max 1.61 sec, min 1.46 sec)
+[2023.04.10-17.36.04:885][515]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   15 times, average 1.49 sec, max 1.75 sec, min 1.23 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    3 times, average 1.46 sec, max 1.73 sec, min 1.01 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    7 times, average 1.37 sec, max 1.55 sec, min 1.22 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.15% of total time (compiled   40 times, average 0.90 sec, max 1.77 sec, min 0.51 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.87% of total time (compiled   41 times, average 0.86 sec, max 1.65 sec, min 0.51 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 13.18% of total time (compiled   37 times, average 0.85 sec, max 1.33 sec, min 0.48 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 11.41% of total time (compiled   35 times, average 0.77 sec, max 1.19 sec, min 0.48 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 9.44% of total time (compiled   15 times, average 1.49 sec, max 1.75 sec, min 1.23 sec)
+[2023.04.10-17.36.04:886][515]LogShaderCompilers: Display: ================================================
+[2023.04.10-17.36.27:237][513]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2023.04.10-17.36.27:237][513]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2023.04.10-17.36.27:238][513]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_617
+[2023.04.10-17.36.28:356][576]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2023.04.10-17.36.28:356][576]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2023.04.10-17.36.28:357][576]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_618
+[2023.04.10-17.36.28:780][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2023.04.10-17.36.28:780][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1
+[2023.04.10-17.36.28:782][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Elevator_Wall_1.SM_Elevator_Wall_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_619
+[2023.04.10-17.36.35:198][ 37]Cmd: DELETE
+[2023.04.10-17.36.35:198][ 37]Cmd: ACTOR DELETE
+[2023.04.10-17.36.35:207][ 37]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.36.35:282][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.04.10-17.36.35:289][ 37]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2023.04.10-17.36.40:385][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_2.SM_Glass_Wall_2
+[2023.04.10-17.36.40:385][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_2.SM_Glass_Wall_2
+[2023.04.10-17.36.40:386][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_2.SM_Glass_Wall_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_620
+[2023.04.10-17.36.41:100][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_2.SM_Glass_Wall_2
+[2023.04.10-17.36.41:100][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_2.SM_Glass_Wall_2
+[2023.04.10-17.36.41:102][435]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_2.SM_Glass_Wall_2 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_621
+[2023.04.10-17.36.44:252][632]Cmd: DELETE
+[2023.04.10-17.36.44:252][632]Cmd: ACTOR DELETE
+[2023.04.10-17.36.44:261][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.36.44:336][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.10-17.36.44:341][632]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2023.04.10-17.36.45:795][726]Cmd: DELETE
+[2023.04.10-17.36.45:795][726]Cmd: ACTOR DELETE
+[2023.04.10-17.36.45:804][726]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.36.45:877][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.10-17.36.45:881][726]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2023.04.10-17.36.57:660][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_9.SM_Wall_9
+[2023.04.10-17.36.57:660][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_9.SM_Wall_9
+[2023.04.10-17.36.57:661][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_9.SM_Wall_9 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_622
+[2023.04.10-17.36.58:422][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_9.SM_Wall_9
+[2023.04.10-17.36.58:422][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_9.SM_Wall_9
+[2023.04.10-17.36.58:424][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchFacility/Meshes/SM_Wall_9.SM_Wall_9 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_623
+[2023.04.10-17.37.03:358][642]Cmd: DELETE
+[2023.04.10-17.37.03:358][642]Cmd: ACTOR DELETE
+[2023.04.10-17.37.03:367][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.37.03:440][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.10-17.37.03:447][642]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.04.10-17.37.06:311][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.37.06:311][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.37.06:312][799]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_624
+[2023.04.10-17.37.07:283][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.37.07:283][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.37.07:285][828]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchCenter/Meshes/SM_Wall_4.SM_Wall_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_625
+[2023.04.10-17.37.12:776][178]Cmd: DELETE
+[2023.04.10-17.37.12:776][178]Cmd: ACTOR DELETE
+[2023.04.10-17.37.12:784][178]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.37.12:861][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.04.10-17.37.12:865][178]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.04.10-17.37.21:633][744]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.21:633][744]LogEditorTransaction: Undo Delete Elements
+[2023.04.10-17.37.23:094][790]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.23:094][790]LogEditorTransaction: Undo Move Elements
+[2023.04.10-17.37.24:045][823]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.24:045][823]LogEditorTransaction: Undo Create Actors
+[2023.04.10-17.37.25:169][860]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.25:169][860]LogEditorTransaction: Undo Delete Elements
+[2023.04.10-17.37.26:258][889]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.26:258][889]LogEditorTransaction: Undo Move Elements
+[2023.04.10-17.37.27:243][920]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.27:243][920]LogEditorTransaction: Undo Create Actors
+[2023.04.10-17.37.28:519][960]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.28:519][960]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.10-17.37.29:543][  5]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.29:543][  5]LogEditorTransaction: Undo Delete Elements
+[2023.04.10-17.37.30:522][ 29]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.30:522][ 29]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.10-17.37.32:188][116]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.32:189][116]LogEditorTransaction: Undo Delete Elements
+[2023.04.10-17.37.33:672][163]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.33:672][163]LogEditorTransaction: Undo Create Actors
+[2023.04.10-17.37.34:599][181]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.34:599][181]LogEditorTransaction: Undo Delete Elements
+[2023.04.10-17.37.35:516][198]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.35:516][198]LogEditorTransaction: Undo Rotate Elements
+[2023.04.10-17.37.36:531][235]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.36:531][235]LogEditorTransaction: Undo Rotate Elements
+[2023.04.10-17.37.37:429][260]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.37:429][260]LogEditorTransaction: Undo Create Actors
+[2023.04.10-17.37.38:437][276]Cmd: TRANSACTION UNDO
+[2023.04.10-17.37.38:437][276]LogEditorTransaction: Undo Create Actors
+[2023.04.10-17.37.42:609][474]Cmd: DELETE
+[2023.04.10-17.37.42:609][474]Cmd: ACTOR DELETE
+[2023.04.10-17.37.42:618][474]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.37.42:696][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.04.10-17.37.42:700][474]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2023.04.10-17.37.43:950][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-17.37.44:098][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.04.10-17.37.44:174][553]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-17.37.44:174][553]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three93B19F39436D80903DE571989BEC4B0E.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-17.37.44:188][553]LogFileHelpers: No new changes to save!
+[2023.04.10-17.37.44:188][553]LogFileHelpers: Saving map 'Part_three' took 0.166
+[2023.04.10-17.37.44:202][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 251 ms (total: 17.0 sec)
+[2023.04.10-17.37.44:213][553]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-17.37.44:213][553]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-17.38.02:912][785]LogStaticMesh: Display: Building static mesh SM_Wall_4...
+[2023.04.10-17.38.02:915][785]LogStaticMesh: Built static mesh [0.00s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.38.03:053][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.38.03:053][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.38.03:054][787]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_626
+[2023.04.10-17.38.04:870][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.38.04:870][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4
+[2023.04.10-17.38.04:872][863]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Wall_4.SM_Wall_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_627
+[2023.04.10-17.38.22:441][979]Cmd: DELETE
+[2023.04.10-17.38.22:441][979]Cmd: ACTOR DELETE
+[2023.04.10-17.38.22:449][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.38.22:524][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.10-17.38.22:529][979]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2023.04.10-17.38.46:836][426]Cmd: TRANSACTION UNDO
+[2023.04.10-17.38.46:836][426]LogEditorTransaction: Undo Move Elements
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: ================================================
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Total job queries 2983, among them cache hits 517 (17.33%)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Tracking 2466 distinct input hashes that result in 863 distinct outputs (35.00%)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: RAM used: 6.20 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.38%
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Shaders Compiled: 334
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Jobs assigned 334, completed 334 (100.00%)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Average time worker was idle: 535.98 s
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Time job spent in pending queue: average 0.62 s, longest 3.45 s
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 2.40 s
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 4.27
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 75.46 s
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Jobs were issued in 334 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Average processing rate: 4.43 jobs/sec
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Total thread time: 273.47 s
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Total thread preprocess time: 18.23 s
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Percentage time preprocessing: 6.67%
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 1.56 sec, max 1.83 sec, min 1.19 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.54 sec, max 1.61 sec, min 1.46 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   15 times, average 1.49 sec, max 1.75 sec, min 1.23 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    3 times, average 1.46 sec, max 1.73 sec, min 1.01 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    7 times, average 1.37 sec, max 1.55 sec, min 1.22 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.51% of total time (compiled   58 times, average 0.92 sec, max 1.77 sec, min 0.51 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.88% of total time (compiled   59 times, average 0.87 sec, max 1.65 sec, min 0.51 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 11.88% of total time (compiled   39 times, average 0.83 sec, max 1.33 sec, min 0.48 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.30% of total time (compiled   37 times, average 0.76 sec, max 1.19 sec, min 0.48 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 8.20% of total time (compiled   15 times, average 1.49 sec, max 1.75 sec, min 1.23 sec)
+[2023.04.10-17.39.09:501][864]LogShaderCompilers: Display: ================================================
+[2023.04.10-17.40.52:687][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-17.40.52:851][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.04.10-17.40.52:934][513]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-17.40.52:935][513]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three7390EEF242D17CB400BF828351AB6F20.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-17.40.52:953][513]LogFileHelpers: No new changes to save!
+[2023.04.10-17.40.52:954][513]LogFileHelpers: Saving map 'Part_three' took 0.199
+[2023.04.10-17.40.52:960][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 17.3 sec)
+[2023.04.10-17.40.52:974][513]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-17.40.52:974][513]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-17.41.03:677][376]Cmd: DELETE
+[2023.04.10-17.41.03:677][376]Cmd: ACTOR DELETE
+[2023.04.10-17.41.03:685][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.41.03:759][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.10-17.41.03:763][376]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2023.04.10-17.41.12:145][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-17.41.12:295][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.10-17.41.12:372][980]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-17.41.12:373][980]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three9D1BB5784E54F5F6A0DF96A9BB892BB5.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-17.41.12:386][980]LogFileHelpers: No new changes to save!
+[2023.04.10-17.41.12:386][980]LogFileHelpers: Saving map 'Part_three' took 0.167
+[2023.04.10-17.41.12:394][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 17.5 sec)
+[2023.04.10-17.41.12:404][980]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-17.41.12:404][980]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-17.42.12:203][950]LogStaticMesh: Display: Building static mesh SM_Glass_Wall_4...
+[2023.04.10-17.42.12:211][950]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4
+[2023.04.10-17.42.12:481][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4
+[2023.04.10-17.42.12:481][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4
+[2023.04.10-17.42.12:482][962]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_629
+[2023.04.10-17.42.15:331][151]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4
+[2023.04.10-17.42.15:331][151]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4
+[2023.04.10-17.42.15:332][151]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_4.SM_Glass_Wall_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_630
+[2023.04.10-17.42.18:208][312]Cmd: DELETE
+[2023.04.10-17.42.18:209][312]Cmd: ACTOR DELETE
+[2023.04.10-17.42.18:217][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.42.18:291][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.04.10-17.42.18:297][312]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2023.04.10-17.42.18:700][337]Cmd: DELETE
+[2023.04.10-17.42.18:700][337]Cmd: ACTOR DELETE
+[2023.04.10-17.42.18:709][337]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.42.18:785][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.10-17.42.18:789][337]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2023.04.10-17.42.32:224][212]LogStaticMesh: Display: Building static mesh SM_Glass_Wall_3...
+[2023.04.10-17.42.32:232][212]LogStaticMesh: Built static mesh [0.01s] /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3
+[2023.04.10-17.42.32:398][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3
+[2023.04.10-17.42.32:398][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3
+[2023.04.10-17.42.32:399][214]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_631
+[2023.04.10-17.42.33:324][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3
+[2023.04.10-17.42.33:324][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3
+[2023.04.10-17.42.33:326][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_3.SM_Glass_Wall_3 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_632
+[2023.04.10-17.42.35:135][373]Cmd: DELETE
+[2023.04.10-17.42.35:135][373]Cmd: ACTOR DELETE
+[2023.04.10-17.42.35:143][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.42.35:218][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.10-17.42.35:223][373]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2023.04.10-17.42.40:054][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1
+[2023.04.10-17.42.40:054][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1
+[2023.04.10-17.42.40:055][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_633
+[2023.04.10-17.42.42:009][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1
+[2023.04.10-17.42.42:009][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1
+[2023.04.10-17.42.42:011][773]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Door_1.SM_Glass_Door_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_634
+[2023.04.10-17.43.12:827][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1
+[2023.04.10-17.43.12:827][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1
+[2023.04.10-17.43.12:828][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_635
+[2023.04.10-17.43.13:743][ 61]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1
+[2023.04.10-17.43.13:743][ 61]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1
+[2023.04.10-17.43.13:745][ 61]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Glass_Wall_1.SM_Glass_Wall_1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_636
+[2023.04.10-17.43.44:928][392]Cmd: DELETE
+[2023.04.10-17.43.44:928][392]Cmd: ACTOR DELETE
+[2023.04.10-17.43.44:937][392]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.43.45:012][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.10-17.43.45:020][392]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2023.04.10-17.44.35:108][103]Cmd: DELETE
+[2023.04.10-17.44.35:108][103]Cmd: ACTOR DELETE
+[2023.04.10-17.44.35:117][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-17.44.35:193][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.10-17.44.35:199][103]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2023.04.10-17.45.40:347][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-17.45.40:505][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.10-17.45.40:585][577]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-17.45.40:585][577]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeC2447486420024A1F312FD8B619580BF.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-17.45.40:600][577]LogFileHelpers: No new changes to save!
+[2023.04.10-17.45.40:601][577]LogFileHelpers: Saving map 'Part_three' took 0.181
+[2023.04.10-17.45.40:608][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 17.8 sec)
+[2023.04.10-17.45.40:621][577]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-17.45.40:621][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
