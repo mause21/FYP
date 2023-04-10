@@ -10145,3 +10145,244 @@ Script call stack:
 [2023.04.10-14.34.09:510][617]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ResearchMegaPack/ResearchUnderground/Materials/MaterialInstance/MI_Research_Wall_Glass_1_Auto9
 [2023.04.10-14.34.09:510][617]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/MI_Research_Wall_Glass_1_Auto968FCAA324304932A7600D39F07F4ABDC.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ResearchMegaPack/ResearchUnderground/Materials/MaterialInstance/MI_Research_Wall_Glass_1_Auto9.uasset'
 [2023.04.10-14.34.09:511][617]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.04.10-14.35.25:407][ 88]Cmd: TRANSACTION UNDO
+[2023.04.10-14.35.25:407][ 88]LogEditorTransaction: Undo Set Location
+[2023.04.10-14.36.20:123][239]Cmd: TRANSACTION UNDO
+[2023.04.10-14.36.20:123][239]LogEditorTransaction: Undo Set Location
+[2023.04.10-14.37.17:622][  3]Cmd: TRANSACTION UNDO
+[2023.04.10-14.37.17:622][  3]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.10-14.37.38:223][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-14.37.38:365][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.10-14.37.38:432][613]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-14.37.38:432][613]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three4C7D2D7B40C8FA2755453C93477D0C1F.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-14.37.38:447][613]LogFileHelpers: No new changes to save!
+[2023.04.10-14.37.38:447][613]LogFileHelpers: Saving map 'Part_three' took 0.163
+[2023.04.10-14.37.38:452][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 7.70 sec)
+[2023.04.10-14.37.38:463][613]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-14.37.38:463][613]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-14.37.46:560][193]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00027.png
+[2023.04.10-14.37.47:868][267]Cmd: r.ResetRenderTargetsExtent
+[2023.04.10-14.37.47:869][267]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.10-14.37.47:869][267]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.10-14.44.02:309][980]Cmd: DELETE
+[2023.04.10-14.44.02:309][980]Cmd: ACTOR DELETE
+[2023.04.10-14.44.02:317][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-14.44.02:402][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.10-14.44.02:408][980]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2023.04.10-14.48.19:088][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-14.48.19:231][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.04.10-14.48.19:302][727]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-14.48.19:302][727]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three99DD048C45F347BDBDC82EAEE95A3C59.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-14.48.19:318][727]LogFileHelpers: No new changes to save!
+[2023.04.10-14.48.19:318][727]LogFileHelpers: Saving map 'Part_three' took 0.167
+[2023.04.10-14.48.19:326][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 7.94 sec)
+[2023.04.10-14.48.19:337][727]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-14.48.19:337][727]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-14.48.56:010][515]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00028.png
+[2023.04.10-14.48.57:198][582]Cmd: r.ResetRenderTargetsExtent
+[2023.04.10-14.48.57:198][582]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.10-14.48.57:199][582]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.10-14.49.24:628][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_19.SM_Pipe_19
+[2023.04.10-14.49.24:628][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_19.SM_Pipe_19
+[2023.04.10-14.49.24:629][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_19.SM_Pipe_19 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_343
+[2023.04.10-14.49.25:680][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_19.SM_Pipe_19
+[2023.04.10-14.49.25:680][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_19.SM_Pipe_19
+[2023.04.10-14.49.25:682][676]LogActorFactory: Actor Factory spawned StaticMesh /Game/ResearchMegaPack/ResearchUnderground/Meshes/SM_Pipe_19.SM_Pipe_19 as actor: StaticMeshActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.StaticMeshActor_345
+[2023.04.10-14.49.55:162][215]Cmd: TRANSACTION UNDO
+[2023.04.10-14.49.55:162][215]LogEditorTransaction: Undo Set Rotation
+[2023.04.10-14.50.19:213][  2]Cmd: TRANSACTION UNDO
+[2023.04.10-14.50.19:213][  2]LogEditorTransaction: Undo Set Location
+[2023.04.10-14.50.47:428][243]Cmd: TRANSACTION UNDO
+[2023.04.10-14.50.47:428][243]LogEditorTransaction: Undo Move Elements
+[2023.04.10-14.51.42:061][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-14.51.42:204][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.10-14.51.42:273][810]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-14.51.42:273][810]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeE3D0B7654A232649C270A79A02F83293.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-14.51.42:289][810]LogFileHelpers: No new changes to save!
+[2023.04.10-14.51.42:289][810]LogFileHelpers: Saving map 'Part_three' took 0.172
+[2023.04.10-14.51.42:296][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 8.17 sec)
+[2023.04.10-14.51.42:306][810]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-14.51.42:306][810]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-14.58.12:759][916]Cmd: TRANSACTION UNDO
+[2023.04.10-14.58.12:759][916]LogEditorTransaction: Undo Move Elements
+[2023.04.10-14.59.17:677][972]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00029.png
+[2023.04.10-14.59.20:376][144]Cmd: r.ResetRenderTargetsExtent
+[2023.04.10-14.59.20:376][144]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.10-14.59.20:376][144]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.10-15.00.12:454][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-15.00.12:587][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.04.10-15.00.12:657][525]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-15.00.12:657][525]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three89897FB542FB5F9753E61B904A22731A.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-15.00.12:671][525]LogFileHelpers: No new changes to save!
+[2023.04.10-15.00.12:671][525]LogFileHelpers: Saving map 'Part_three' took 0.171
+[2023.04.10-15.00.12:679][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 8.40 sec)
+[2023.04.10-15.00.12:694][525]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-15.00.12:694][525]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-15.02.08:660][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-15.02.08:660][992]PIE: New page: PIE session: Part_three (10 Apr 2023, 17:02:08)
+[2023.04.10-15.02.08:661][992]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.10-15.02.08:690][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029719s)
+[2023.04.10-15.02.08:690][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.029756s)
+[2023.04.10-15.02.08:691][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-15.02.08:691][992]LogAIModule: Creating AISystem for world Part_three
+[2023.04.10-15.02.08:691][992]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2023.04.10-15.02.08:768][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.04.10-15.02.08:773][992]LogAudio: Display: Creating Audio Device:                 Id: 110, Scope: Unique, Realtime: True
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.10-15.02.08:773][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-15.02.08:773][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-15.02.08:774][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-15.02.08:774][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-15.02.08:774][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-15.02.08:776][992]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.10-15.02.08:793][992]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.10-15.02.08:793][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-15.02.08:793][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-15.02.08:793][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-15.02.08:794][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=110
+[2023.04.10-15.02.08:794][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=110
+[2023.04.10-15.02.08:795][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=110
+[2023.04.10-15.02.08:795][992]LogInit: FAudioDevice initialized.
+[2023.04.10-15.02.08:795][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=110
+[2023.04.10-15.02.08:795][992]LogAudio: Display: Audio Device (ID: 110) registered with world 'Part_three'.
+[2023.04.10-15.02.08:797][992]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.10-15.02.08:814][992]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.10-16.02.08
+[2023.04.10-15.02.08:816][992]LogWorld: Bringing up level for play took: 0.018308
+[2023.04.10-15.02.08:818][992]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2023.04.10-15.02.08:822][992]PIE: Server logged in
+[2023.04.10-15.02.08:822][992]PIE: Play in editor total start time 0.162 seconds.
+[2023.04.10-15.02.11:724][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-15.02.11:724][212]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.10-15.02.11:725][212]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-15.02.11:728][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-15.02.11:731][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-15.02.11:740][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-15.02.11:814][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-15.02.11:814][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=110
+[2023.04.10-15.02.11:816][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=110
+[2023.04.10-15.02.11:820][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-15.02.11:828][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.10-15.02.11:881][213]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2023.04.10-15.02.19:000][699]Cmd: TRANSACTION UNDO
+[2023.04.10-15.02.19:000][699]LogEditorTransaction: Undo Set Location
+[2023.04.10-15.03.06:385][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-15.03.06:385][368]PIE: New page: PIE session: Part_three (10 Apr 2023, 17:03:06)
+[2023.04.10-15.03.06:385][368]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.10-15.03.06:415][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029718s)
+[2023.04.10-15.03.06:415][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.029752s)
+[2023.04.10-15.03.06:415][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-15.03.06:416][368]LogAIModule: Creating AISystem for world Part_three
+[2023.04.10-15.03.06:416][368]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2023.04.10-15.03.06:491][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.10-15.03.06:494][368]LogAudio: Display: Creating Audio Device:                 Id: 111, Scope: Unique, Realtime: True
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.10-15.03.06:495][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-15.03.06:495][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-15.03.06:495][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-15.03.06:495][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-15.03.06:495][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-15.03.06:498][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.10-15.03.06:513][368]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.10-15.03.06:513][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-15.03.06:513][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-15.03.06:513][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-15.03.06:513][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=111
+[2023.04.10-15.03.06:513][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=111
+[2023.04.10-15.03.06:515][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=111
+[2023.04.10-15.03.06:515][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=111
+[2023.04.10-15.03.06:515][368]LogInit: FAudioDevice initialized.
+[2023.04.10-15.03.06:515][368]LogAudio: Display: Audio Device (ID: 111) registered with world 'Part_three'.
+[2023.04.10-15.03.06:517][368]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.10-15.03.06:533][368]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.10-16.03.06
+[2023.04.10-15.03.06:535][368]LogWorld: Bringing up level for play took: 0.017221
+[2023.04.10-15.03.06:536][368]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2023.04.10-15.03.06:541][368]PIE: Server logged in
+[2023.04.10-15.03.06:542][368]PIE: Play in editor total start time 0.156 seconds.
+[2023.04.10-15.03.09:851][624]LogMediaAssets: Error: Failed to validate media source Tutorial1 (file://C:/Users/s027702k/Downloads/Tutorial1.mp4)
+[2023.04.10-15.03.09:851][624]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2023.04.10-15.03.17:594][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-15.03.17:594][244]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.10-15.03.17:595][244]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-15.03.17:598][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-15.03.17:602][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-15.03.17:612][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-15.03.17:684][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-15.03.17:686][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=111
+[2023.04.10-15.03.17:687][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=111
+[2023.04.10-15.03.17:691][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-15.03.17:698][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.04.10-15.03.17:749][245]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2023.04.10-15.03.36:151][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-15.03.36:296][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.04.10-15.03.36:363][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-15.03.36:364][666]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeC91915684F64766F1B1BB6A1F09DCD1F.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-15.03.36:378][666]LogFileHelpers: No new changes to save!
+[2023.04.10-15.03.36:378][666]LogFileHelpers: Saving map 'Part_three' took 0.160
+[2023.04.10-15.03.36:384][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 8.63 sec)
+[2023.04.10-15.03.36:398][666]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-15.03.36:398][666]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.10-15.04.09:390][178]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.042 and deleted 0 files with total size 0 MiB. Scanned 19203 files in 18567 folders with total size 2638 MiB.
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: ================================================
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Total job queries 2866, among them cache hits 511 (17.83%)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Tracking 2355 distinct input hashes that result in 831 distinct outputs (35.29%)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: RAM used: 5.90 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.36%
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Shaders Compiled: 273
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Jobs assigned 273, completed 273 (100.00%)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Average time worker was idle: 270.38 s
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 3.01 s
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 2.40 s
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Job life time (pending + execution): average 1.67 s, max 3.87
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.17 s
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Jobs were issued in 273 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Average processing rate: 4.69 jobs/sec
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Total thread time: 227.43 s
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Total thread preprocess time: 15.17 s
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Percentage time preprocessing: 6.67%
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Effective parallelization: 3.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 1.56 sec, max 1.83 sec, min 1.19 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 1.54 sec, max 1.61 sec, min 1.46 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   15 times, average 1.49 sec, max 1.75 sec, min 1.23 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    3 times, average 1.46 sec, max 1.73 sec, min 1.01 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    7 times, average 1.37 sec, max 1.55 sec, min 1.22 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.67% of total time (compiled   36 times, average 0.93 sec, max 1.77 sec, min 0.51 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.48% of total time (compiled   37 times, average 0.89 sec, max 1.65 sec, min 0.51 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 12.74% of total time (compiled   33 times, average 0.88 sec, max 1.33 sec, min 0.48 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 11.02% of total time (compiled   31 times, average 0.81 sec, max 1.19 sec, min 0.49 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 9.86% of total time (compiled   15 times, average 1.49 sec, max 1.75 sec, min 1.23 sec)
+[2023.04.10-15.04.55:680][493]LogShaderCompilers: Display: ================================================
+[2023.04.10-15.06.50:340][ 65]LogActorFactory: Actor Factory attempting to spawn Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1
+[2023.04.10-15.06.50:340][ 65]LogActorFactory: Actor Factory attempting to spawn Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1
+[2023.04.10-15.06.50:342][ 65]LogActorFactory: Actor Factory spawned Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_0
+[2023.04.10-15.06.50:343][ 65]LogActorFactory: Actor Factory spawned Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_0
+[2023.04.10-15.06.50:705][ 87]LogActorFactory: Actor Factory attempting to spawn Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1
+[2023.04.10-15.06.50:705][ 87]LogActorFactory: Actor Factory attempting to spawn Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1
+[2023.04.10-15.06.50:708][ 87]LogActorFactory: Actor Factory spawned Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_1
+[2023.04.10-15.06.50:709][ 87]LogActorFactory: Actor Factory spawned Material /Game/ResearchMegaPack/ResearchCenter/Materials/M_Grate_1.M_Grate_1 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_1
+[2023.04.10-15.07.13:790][909]Cmd: DELETE
+[2023.04.10-15.07.13:790][909]Cmd: ACTOR DELETE
+[2023.04.10-15.07.13:798][909]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.10-15.07.13:881][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.10-15.07.13:889][909]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.04.10-15.07.19:638][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.10-15.07.19:778][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.10-15.07.19:845][353]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.10-15.07.19:845][353]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three84B8C4C24E3D996BFC540481875CEC07.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.10-15.07.19:860][353]LogFileHelpers: No new changes to save!
+[2023.04.10-15.07.19:860][353]LogFileHelpers: Saving map 'Part_three' took 0.159
+[2023.04.10-15.07.19:874][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 8.87 sec)
+[2023.04.10-15.07.19:884][353]AssetCheck: New page: Asset Save: Part_three
+[2023.04.10-15.07.19:884][353]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
