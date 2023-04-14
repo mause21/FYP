@@ -2009,3 +2009,77 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.14-14.36.15:467][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 315 ms (total: 10.6 sec)
 [2023.04.14-14.36.15:476][ 75]AssetCheck: New page: Asset Save: Part_three
 [2023.04.14-14.36.15:476][ 75]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.14-14.37.15:148][528]Cmd: DELETE
+[2023.04.14-14.37.15:148][528]Cmd: ACTOR DELETE
+[2023.04.14-14.37.15:169][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.14-14.37.15:179][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.14-14.37.15:180][528]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.04.14-14.37.31:848][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.37.31:889][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.14-14.37.32:133][478]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.14-14.37.32:133][478]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three3B2D0E8E4743132766AC5D9ADB1B7B56.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.14-14.37.32:153][478]LogFileHelpers: No new changes to save!
+[2023.04.14-14.37.32:154][478]LogFileHelpers: Saving map 'Part_three' took 0.275
+[2023.04.14-14.37.32:160][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 10.9 sec)
+[2023.04.14-14.37.32:163][478]AssetCheck: New page: Asset Save: Part_three
+[2023.04.14-14.37.32:164][478]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.14-14.38.11:565][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.38.11:624][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.14-14.38.11:860][823]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.14-14.38.11:861][823]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three88490D0242751FBE2BFE59B95876AD87.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.14-14.38.11:880][823]LogFileHelpers: No new changes to save!
+[2023.04.14-14.38.11:881][823]LogFileHelpers: Saving map 'Part_three' took 0.268
+[2023.04.14-14.38.11:887][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 11.2 sec)
+[2023.04.14-14.38.11:896][823]AssetCheck: New page: Asset Save: Part_three
+[2023.04.14-14.38.11:896][823]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.14-14.41.50:278][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.41.50:343][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.14-14.41.50:587][961]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.14-14.41.50:588][961]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three2C3887FF4BCEC42EAC4385B40CD62C6C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.14-14.41.50:607][961]LogFileHelpers: No new changes to save!
+[2023.04.14-14.41.50:607][961]LogFileHelpers: Saving map 'Part_three' took 0.275
+[2023.04.14-14.41.50:614][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 336 ms (total: 11.5 sec)
+[2023.04.14-14.41.50:624][961]AssetCheck: New page: Asset Save: Part_three
+[2023.04.14-14.41.50:624][961]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.14-14.42.02:918][257]Cmd: DELETE
+[2023.04.14-14.42.02:918][257]Cmd: ACTOR DELETE
+[2023.04.14-14.42.02:939][257]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.14-14.42.02:947][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.14-14.42.02:949][257]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.14-14.42.03:854][359]Cmd: DELETE
+[2023.04.14-14.42.03:854][359]Cmd: ACTOR DELETE
+[2023.04.14-14.42.03:874][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.14-14.42.03:884][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.14-14.42.03:885][359]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.14-14.42.29:804][336]Cmd: DELETE
+[2023.04.14-14.42.29:804][336]Cmd: ACTOR DELETE
+[2023.04.14-14.42.29:825][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.14-14.42.29:834][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.14-14.42.29:835][336]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.14-14.43.29:127][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.43.29:174][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.14-14.43.29:448][950]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.14-14.43.29:448][950]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three4A57B69E41E81C6C55C5BCA35ACBC9DD.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.14-14.43.29:482][950]LogFileHelpers: No new changes to save!
+[2023.04.14-14.43.29:482][950]LogFileHelpers: Saving map 'Part_three' took 0.319
+[2023.04.14-14.43.29:486][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 359 ms (total: 11.9 sec)
+[2023.04.14-14.43.29:495][950]AssetCheck: New page: Asset Save: Part_three
+[2023.04.14-14.43.29:495][950]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.14-14.45.17:450][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.45.17:492][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.14-14.45.17:740][895]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.14-14.45.17:742][895]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three78FB0D57461E0AD3DFA03BA40D934D83.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.14-14.45.17:761][895]LogFileHelpers: No new changes to save!
+[2023.04.14-14.45.17:761][895]LogFileHelpers: Saving map 'Part_three' took 0.280
+[2023.04.14-14.45.17:768][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 12.2 sec)
+[2023.04.14-14.45.17:772][895]AssetCheck: New page: Asset Save: Part_three
+[2023.04.14-14.45.17:772][895]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.14-14.45.30:958][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.14-14.45.31:024][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.14-14.45.31:303][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.14-14.45.31:304][430]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeD21A023947883EA7CFA0A98680979042.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.14-14.45.31:325][430]LogFileHelpers: No new changes to save!
+[2023.04.14-14.45.31:325][430]LogFileHelpers: Saving map 'Part_three' took 0.311
+[2023.04.14-14.45.31:329][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 371 ms (total: 12.6 sec)
+[2023.04.14-14.45.31:339][430]AssetCheck: New page: Asset Save: Part_three
+[2023.04.14-14.45.31:339][430]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
