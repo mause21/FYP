@@ -6366,3 +6366,348 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.04.19-15.33.45:323][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 390 ms (total: 17.2 sec)
 [2023.04.19-15.33.45:336][107]AssetCheck: New page: Asset Save: Part_three
 [2023.04.19-15.33.45:336][107]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.33.54:840][415]MapCheck: New page: Map Check
+[2023.04.19-15.33.54:867][415]LogSlate: Took 0.005311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.19-15.33.54:875][415]LightingResults: New page: Lighting Build - 19 Apr 2023, 17:33:54
+[2023.04.19-15.33.55:009][415]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.19-15.33.56:055][415]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.19-15.33.56:071][415]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.19-15.33.58:638][415]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.19-15.33.58:638][415]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16468
+[2023.04.19-15.34.12:339][415]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.04.19-15.34.12:345][415]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.19-15.34.12:345][415]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.19-15.34.12:346][415]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.19-15.34.12:346][415]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.19-15.34.12:346][415]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.19-15.34.14:425][415]LogEditorBuildUtils: Build time 0:19
+[2023.04.19-15.34.14:474][416]LogAutomationController: Ignoring very large delta of 19.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.19-15.34.15:264][439]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A333E8CC019D4D4E9D409109CF61D98952D855D7), compiling. Is special engine material.
+[2023.04.19-15.34.15:269][439]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 64A724C2349FF49218639599AC376165F9F60D23), compiling. Is special engine material.
+[2023.04.19-15.34.18:250][478]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.19-15.34.51:317][478]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000333s (33.068681s overbudget)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: ================================================
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Total job queries 5758, among them cache hits 200 (3.47%)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Tracking 5542 distinct input hashes that result in 2933 distinct outputs (52.92%)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: RAM used: 14.90 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.91%
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Shaders Compiled: 5542
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Jobs assigned 5542, completed 5542 (100.00%)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Average time worker was idle: 32.47 s
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Time job spent in pending queue: average 119.04 s, longest 449.71 s
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Job execution time: average 7.54 s, max 40.17 s
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Job life time (pending + execution): average 126.58 s, max 455.67
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 854.84 s
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Jobs were issued in 2436 batches (only local compilation was used), average 2.28 jobs/batch
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Average processing rate: 6.48 jobs/sec
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Total thread time: 5958.30 s
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Total thread preprocess time: 341.34 s
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Percentage time preprocessing: 5.73%
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Effective parallelization: 6.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 18.68 sec, max 18.68 sec, min 18.68 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 11.69 sec, max 11.69 sec, min 11.69 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.64 sec, max 9.64 sec, min 9.64 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.02 sec, max 25.76 sec, min 0.50 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 8.65 sec, max 14.76 sec, min 3.14 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 8.41% of total time (compiled  128 times, average 3.91 sec, max 6.80 sec, min 2.34 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.14% of total time (compiled  128 times, average 2.39 sec, max 6.10 sec, min 0.44 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 4.63% of total time (compiled  197 times, average 1.40 sec, max 13.98 sec, min 0.79 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 4.18% of total time (compiled  199 times, average 1.25 sec, max 8.43 sec, min 0.66 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 4.07% of total time (compiled  203 times, average 1.19 sec, max 9.84 sec, min 0.57 sec)
+[2023.04.19-15.34.51:519][478]LogShaderCompilers: Display: ================================================
+[2023.04.19-15.34.51:521][479]LogAutomationController: Ignoring very large delta of 35.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.19-15.34.54:562][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.04.19-15.35.15:196][845]LightingResults: Warning: Sink Object has overlapping UVs.
+[2023.04.19-15.35.15:196][845]LightingResults: Sink Lightmap UV are overlapping by 48.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.19-15.35.16:393][911]LightingResults: Warning: Sink Object has overlapping UVs.
+[2023.04.19-15.35.16:393][911]LightingResults: Sink Lightmap UV are overlapping by 48.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.19-15.35.23:276][284]LightingResults: Warning: Sink Object has overlapping UVs.
+[2023.04.19-15.35.23:276][284]LightingResults: Sink Lightmap UV are overlapping by 48.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.19-15.35.39:941][197]Job is a success!
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.082s
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:      BrickData (all levels) 1.8Mb (trimmed 2.0Mb due to 0.010000 MinBrickError)
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:          1: 16.4% covering 11.3% of volume
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:          2: 81.4% covering 0.9% of volume
+[2023.04.19-15.35.40:263][199]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.19-15.35.40:264][199]LogVolumetricLightmapImport:          Part_three 			 354 bricks 	 100.0% (Persistent Level)
+[2023.04.19-15.35.42:123][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:159][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:189][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:225][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:257][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:300][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:332][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:375][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:411][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:447][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:474][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:514][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:539][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:576][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:602][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:640][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:665][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:704][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:732][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:767][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:796][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:829][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:855][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:890][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:918][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:958][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.42:983][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:018][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:044][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:081][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:106][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:141][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:166][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:199][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:226][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:258][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:285][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:320][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_19 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:345][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:379][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:404][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:438][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_1_21 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:464][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:HQ_Lightmap0_22 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.479156 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:486][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:LQ_Lightmap_0_22 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:970][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.43:995][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_4 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:016][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_5 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:039][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_6 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:064][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_7 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:083][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_14 (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 24.062494 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:099][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_15 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:107][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_16 (BGRA8, 1024x64 x1x1x1) (Required Memory Estimate: 2.062531 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:109][199]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData:ShadowMapTexture2D_17 (G8, 1024x256 x1x1x1) (Required Memory Estimate: 6.062496 MB), EncodeSpeed: Fast
+[2023.04.19-15.35.44:157][199]Lightmass on C117B-12: 47.9 sec total, 749 ms importing, 966 ms setup, 8.93 sec photons, 37.2 sec processing, 0 us extra exporting [2740/2740 mappings]. Threads: 9:18 min total, 7:20 min processing.
+[2023.04.19-15.35.44:237][199]LogStaticLightingSystem: Part_three_BuiltData storing lightmap data for 2740 meshes in 57 LightmapResourceClusters (48.1 Meshes per cluster).
+[2023.04.19-15.35.44:455][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.19-15.35.44:477][199]LogStaticLightingSystem: Illumination: 1:49 min (1.66 sec encoding lightmaps, 614 ms encoding shadowmaps)
+[2023.04.19-15.35.44:477][199]LogStaticLightingSystem: Lightmap texture memory:  44.0 MB (44.0 MB streaming, 0.0 MB non-streaming), 46 textures
+[2023.04.19-15.35.44:477][199]LogStaticLightingSystem: Shadowmap texture memory: 31.3 MB (31.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2023.04.19-15.35.45:414][199]DumpUnbuiltLightIteractions
+[2023.04.19-15.35.45:414][199]Lights with unbuilt interactions: 0
+[2023.04.19-15.35.45:414][199]
+[2023.04.19-15.35.45:414][199]Primitives with unbuilt interactions: 0
+[2023.04.19-15.35.51:042][199]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.19-15.39.16:725][199]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.155 and deleted 0 files with total size 0 MiB. Scanned 14617 files in 14156 folders with total size 1967 MiB.
+[2023.04.19-15.40.24:583][199]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.001371s (273.545346s overbudget)
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: ================================================
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Total job queries 8220, among them cache hits 211 (2.57%)
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Tracking 7976 distinct input hashes that result in 3715 distinct outputs (46.58%)
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: RAM used: 22.07 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.35%
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Shaders Compiled: 7976
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Jobs assigned 7976, completed 7976 (100.00%)
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Average time worker was idle: 16.30 s
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Time job spent in pending queue: average 125.85 s, longest 449.71 s
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Job execution time: average 5.52 s, max 40.17 s
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Job life time (pending + execution): average 131.37 s, max 455.67
+[2023.04.19-15.40.24:878][199]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1139.12 s
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Jobs were issued in 4870 batches (only local compilation was used), average 1.64 jobs/batch
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Average processing rate: 7.00 jobs/sec
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Total thread time: 7995.99 s
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Total thread preprocess time: 468.22 s
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Percentage time preprocessing: 5.86%
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Effective parallelization: 7.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 18.68 sec, max 18.68 sec, min 18.68 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 11.69 sec, max 11.69 sec, min 11.69 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 9.64 sec, max 9.64 sec, min 9.64 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 9.02 sec, max 25.76 sec, min 0.50 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 8.65 sec, max 14.76 sec, min 3.14 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 6.27% of total time (compiled  128 times, average 3.91 sec, max 6.80 sec, min 2.34 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.10% of total time (compiled  388 times, average 0.85 sec, max 3.26 sec, min 0.50 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.10% of total time (compiled  387 times, average 0.85 sec, max 3.80 sec, min 0.54 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.83% of total time (compiled  128 times, average 2.39 sec, max 6.10 sec, min 0.44 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 3.75% of total time (compiled  221 times, average 1.36 sec, max 13.98 sec, min 0.79 sec)
+[2023.04.19-15.40.24:879][199]LogShaderCompilers: Display: ================================================
+[2023.04.19-15.40.24:982][200]LogAutomationController: Ignoring very large delta of 285.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.19-15.40.24:982][200]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.19-15.40.24:982][200]MapCheck: New page: Part_three - 19 Apr 2023, 17:40:24
+[2023.04.19-15.40.24:986][200]MapCheck: Warning: StaticMeshActor_380 Static mesh actor has NULL StaticMesh property 
+[2023.04.19-15.40.24:986][200]MapCheck: Warning: StaticMeshActor_393 Static mesh actor has NULL StaticMesh property 
+[2023.04.19-15.40.24:993][200]MapCheck: Warning: PhysicsConstraintActor_9 PhysicsConstraintActor_9 : Connected to single static component.
+[2023.04.19-15.40.24:999][200]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 17.684ms to complete.
+[2023.04.19-15.40.27:352][394]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-15.40.27:357][394]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-15.40.41:126][678]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00077.png
+[2023.04.19-15.40.42:063][740]Cmd: r.ResetRenderTargetsExtent
+[2023.04.19-15.40.42:063][740]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.19-15.40.42:063][740]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.19-15.40.56:109][300]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00078.png
+[2023.04.19-15.40.57:103][375]Cmd: r.ResetRenderTargetsExtent
+[2023.04.19-15.40.57:103][375]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.19-15.40.57:103][375]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.19-15.41.07:596][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.41.07:665][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.19-15.41.07:979][370]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.41.07:980][370]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeED8610B045D105730590BEA13332CFA7.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.41.08:002][370]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPerson/Maps/Part_three_BuiltData
+[2023.04.19-15.41.08:002][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.41.08:003][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Part_three_BuiltData" FILE="../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three_BuiltData.uasset" SILENT=true
+[2023.04.19-15.41.08:571][370]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three_BuiltData
+[2023.04.19-15.41.08:572][370]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three_BuiltData700E8B0B4A9CDF661EBBA7BF812F34D2.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three_BuiltData.uasset'
+[2023.04.19-15.41.08:575][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 573 ms (total: 17.8 sec)
+[2023.04.19-15.41.08:575][370]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/ThirdPerson/Maps/Part_three_BuiltData
+[2023.04.19-15.41.08:575][370]LogFileHelpers: Saving map 'Part_three' took 0.925
+[2023.04.19-15.41.08:579][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 982 ms (total: 18.8 sec)
+[2023.04.19-15.41.08:591][370]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.19-15.41.08:591][370]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.41.08:591][370]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/ThirdPerson/Maps/Part_three_BuiltData.Part_three_BuiltData
+[2023.04.19-15.41.11:375][587]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00079.png
+[2023.04.19-15.41.12:168][630]Cmd: r.ResetRenderTargetsExtent
+[2023.04.19-15.41.12:168][630]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.19-15.41.12:170][630]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.19-15.41.46:976][841]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00080.png
+[2023.04.19-15.41.47:873][905]Cmd: r.ResetRenderTargetsExtent
+[2023.04.19-15.41.47:873][905]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.19-15.41.47:873][905]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.19-15.49.15:993][672]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00081.png
+[2023.04.19-15.49.16:840][726]Cmd: r.ResetRenderTargetsExtent
+[2023.04.19-15.49.16:840][726]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.19-15.49.16:840][726]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.19-15.49.24:493][262]LogClient: High resolution screenshot saved as C:/Users/s027702k/Documents/GitHub/FYP/Saved/Screenshots/WindowsEditor/HighresScreenshot00082.png
+[2023.04.19-15.49.25:580][318]Cmd: r.ResetRenderTargetsExtent
+[2023.04.19-15.49.25:580][318]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.04.19-15.49.25:581][318]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.04.19-15.51.10:942][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.19-15.51.11:259][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Part_three_Auto4
+[2023.04.19-15.51.11:260][273]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three_Auto4BDDAC80B4A8B269C07FFFC973BCD8200.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Autosaves/Game/ThirdPerson/Maps/Part_three_Auto4.umap'
+[2023.04.19-15.51.11:269][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Part_three' took 0.343
+[2023.04.19-15.51.11:269][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.343
+[2023.04.19-15.51.38:320][ 75]Cmd: TRANSACTION UNDO
+[2023.04.19-15.51.38:320][ 75]LogEditorTransaction: Undo Move Elements
+[2023.04.19-15.51.45:885][492]Cmd: TRANSACTION UNDO
+[2023.04.19-15.51.45:885][492]LogEditorTransaction: Undo Move Elements
+[2023.04.19-15.53.08:345][232]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_395.T_Decal_395 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.53.08:521][240]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395
+[2023.04.19-15.53.08:521][240]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395
+[2023.04.19-15.53.08:522][240]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_139
+[2023.04.19-15.53.08:523][240]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_139
+[2023.04.19-15.53.09:401][328]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395
+[2023.04.19-15.53.09:401][328]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395
+[2023.04.19-15.53.09:404][328]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_140
+[2023.04.19-15.53.09:405][328]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_395.MI_Decal_395 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_140
+[2023.04.19-15.53.24:554][967]Cmd: DELETE
+[2023.04.19-15.53.24:554][967]Cmd: ACTOR DELETE
+[2023.04.19-15.53.24:581][967]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.53.24:593][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.19-15.53.24:598][967]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.04.19-15.53.27:318][284]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_394.T_Decal_394 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.53.27:415][286]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394
+[2023.04.19-15.53.27:415][286]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394
+[2023.04.19-15.53.27:416][286]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_141
+[2023.04.19-15.53.27:417][286]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_141
+[2023.04.19-15.53.28:115][362]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394
+[2023.04.19-15.53.28:115][362]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394
+[2023.04.19-15.53.28:119][362]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_142
+[2023.04.19-15.53.28:119][362]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_394.MI_Decal_394 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_142
+[2023.04.19-15.53.36:790][367]Cmd: DELETE
+[2023.04.19-15.53.36:790][367]Cmd: ACTOR DELETE
+[2023.04.19-15.53.36:818][367]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.53.36:830][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.19-15.53.36:832][367]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.04.19-15.53.39:237][647]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_393.T_Decal_393 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.53.39:302][648]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393
+[2023.04.19-15.53.39:302][648]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393
+[2023.04.19-15.53.39:303][648]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_143
+[2023.04.19-15.53.39:304][648]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_143
+[2023.04.19-15.53.40:292][761]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393
+[2023.04.19-15.53.40:292][761]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393
+[2023.04.19-15.53.40:296][761]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_144
+[2023.04.19-15.53.40:296][761]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_393.MI_Decal_393 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_144
+[2023.04.19-15.53.40:960][836]Cmd: DELETE
+[2023.04.19-15.53.40:960][836]Cmd: ACTOR DELETE
+[2023.04.19-15.53.40:987][836]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.53.40:999][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.19-15.53.41:001][836]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2023.04.19-15.53.42:877][ 58]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_407.T_Decal_407 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.53.42:992][ 60]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407
+[2023.04.19-15.53.42:992][ 60]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407
+[2023.04.19-15.53.42:993][ 60]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_145
+[2023.04.19-15.53.42:994][ 60]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_145
+[2023.04.19-15.53.43:917][163]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407
+[2023.04.19-15.53.43:917][163]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407
+[2023.04.19-15.53.43:920][163]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_146
+[2023.04.19-15.53.43:922][163]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_407.MI_Decal_407 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_146
+[2023.04.19-15.53.46:299][442]Cmd: TRANSACTION UNDO
+[2023.04.19-15.53.46:299][442]LogEditorTransaction: Undo Create Actors
+[2023.04.19-15.53.57:010][658]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_464.T_Decal_464 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.53.57:123][660]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464
+[2023.04.19-15.53.57:123][660]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464
+[2023.04.19-15.53.57:124][660]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_147
+[2023.04.19-15.53.57:125][660]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_147
+[2023.04.19-15.53.57:922][750]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464
+[2023.04.19-15.53.57:922][750]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464
+[2023.04.19-15.53.57:926][750]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_148
+[2023.04.19-15.53.57:927][750]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_464.MI_Decal_464 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_148
+[2023.04.19-15.54.13:256][565]Cmd: DELETE
+[2023.04.19-15.54.13:256][565]Cmd: ACTOR DELETE
+[2023.04.19-15.54.13:284][565]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.54.13:295][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.19-15.54.13:298][565]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.04.19-15.54.17:239][  2]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.54.17:240][  2]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.54.17:241][  2]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_149
+[2023.04.19-15.54.17:242][  2]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_149
+[2023.04.19-15.54.18:613][159]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.54.18:613][159]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.54.18:617][159]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_150
+[2023.04.19-15.54.18:617][159]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_150
+[2023.04.19-15.54.20:768][403]Cmd: DELETE
+[2023.04.19-15.54.20:768][403]Cmd: ACTOR DELETE
+[2023.04.19-15.54.20:796][403]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.54.20:808][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.19-15.54.20:811][403]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.04.19-15.54.23:331][701]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_497.T_Decal_497 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.54.23:466][705]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497
+[2023.04.19-15.54.23:466][705]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497
+[2023.04.19-15.54.23:467][705]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_151
+[2023.04.19-15.54.23:468][705]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_151
+[2023.04.19-15.54.24:271][795]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497
+[2023.04.19-15.54.24:271][795]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497
+[2023.04.19-15.54.24:275][795]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_152
+[2023.04.19-15.54.24:275][795]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_497.MI_Decal_497 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_152
+[2023.04.19-15.54.25:052][882]Cmd: DELETE
+[2023.04.19-15.54.25:052][882]Cmd: ACTOR DELETE
+[2023.04.19-15.54.25:080][882]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.54.25:092][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.19-15.54.25:094][882]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.04.19-15.54.32:947][789]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_77_B.T_Decal_77_B (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.54.33:041][790]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77
+[2023.04.19-15.54.33:041][790]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77
+[2023.04.19-15.54.33:043][790]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_153
+[2023.04.19-15.54.33:044][790]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_153
+[2023.04.19-15.54.34:070][903]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77
+[2023.04.19-15.54.34:070][903]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77
+[2023.04.19-15.54.34:074][903]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_154
+[2023.04.19-15.54.34:074][903]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_77.MI_Decal_77 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_154
+[2023.04.19-15.54.34:793][983]Cmd: DELETE
+[2023.04.19-15.54.34:793][983]Cmd: ACTOR DELETE
+[2023.04.19-15.54.34:821][983]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.54.34:834][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.19-15.54.34:836][983]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.04.19-15.54.43:648][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.54.43:715][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.04.19-15.54.44:033][999]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.54.44:033][999]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three8AEB9B7A4FB077AA4D40B68A03C80ABB.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.54.44:057][999]LogFileHelpers: No new changes to save!
+[2023.04.19-15.54.44:057][999]LogFileHelpers: Saving map 'Part_three' took 0.356
+[2023.04.19-15.54.44:064][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 414 ms (total: 19.2 sec)
+[2023.04.19-15.54.44:077][999]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.54.44:077][999]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
