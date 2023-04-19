@@ -6165,3 +6165,204 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.04.19-15.06.30:784][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 416 ms (total: 14.8 sec)
 [2023.04.19-15.06.30:789][ 76]AssetCheck: New page: Asset Save: Part_three
 [2023.04.19-15.06.30:789][ 76]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.18.06:144][523]Cmd: DELETE
+[2023.04.19-15.18.06:144][523]Cmd: ACTOR DELETE
+[2023.04.19-15.18.06:174][523]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.18.06:186][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.19-15.18.06:188][523]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.04.19-15.22.44:472][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.22.44:545][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.19-15.22.44:862][649]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.22.44:863][649]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three27B4CA6B4798B8BD79BBC49D0BF6A283.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.22.44:886][649]LogFileHelpers: No new changes to save!
+[2023.04.19-15.22.44:886][649]LogFileHelpers: Saving map 'Part_three' took 0.355
+[2023.04.19-15.22.44:899][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 427 ms (total: 15.2 sec)
+[2023.04.19-15.22.44:906][649]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.22.44:906][649]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.23.44:363][189]Cmd: TRANSACTION UNDO
+[2023.04.19-15.23.44:363][189]LogEditorTransaction: Undo Move Elements
+[2023.04.19-15.24.02:735][922]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.04.19-15.24.02:744][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.19-15.24.02:745][922]PIE: New page: SIE session: Part_three (19 Apr 2023, 17:24:02)
+[2023.04.19-15.24.02:745][922]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.19-15.24.02:876][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131424s)
+[2023.04.19-15.24.02:877][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Part_three.Part_three to /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three (0.131453s)
+[2023.04.19-15.24.02:877][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.19-15.24.02:877][922]LogAIModule: Creating AISystem for world Part_three
+[2023.04.19-15.24.02:878][922]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2023.04.19-15.24.02:889][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.19-15.24.02:891][922]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.19-15.24.02:891][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.19-15.24.02:891][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.19-15.24.02:891][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.19-15.24.02:892][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.19-15.24.02:892][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.19-15.24.02:895][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.19-15.24.02:912][922]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.19-15.24.02:913][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.19-15.24.02:913][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.19-15.24.02:913][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.19-15.24.02:913][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.04.19-15.24.02:913][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.04.19-15.24.02:915][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.04.19-15.24.02:915][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.04.19-15.24.02:915][922]LogInit: FAudioDevice initialized.
+[2023.04.19-15.24.02:915][922]LogAudio: Display: Audio Device (ID: 12) registered with world 'Part_three'.
+[2023.04.19-15.24.02:917][922]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.19-15.24.02:991][922]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three up for play (max tick rate 0) at 2023.04.19-16.24.02
+[2023.04.19-15.24.02:992][922]PIE: Warning: Constraint in '/Game/ThirdPerson/Maps/UEDPIE_0_Part_three.Part_three:PersistentLevel.PhysicsConstraintActor_9.MyConstraintComp' attempting to create a joint between objects that are both static.  No joint created.
+[2023.04.19-15.24.02:993][922]LogWorld: Bringing up level for play took: 0.075885
+[2023.04.19-15.24.02:995][922]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.04.19-15.24.02:996][922]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.19-15.24.03:000][922]PIE: Server logged in
+[2023.04.19-15.24.03:000][922]PIE: Play in editor total start time 0.255 seconds.
+[2023.04.19-15.24.21:638][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.24.21:652][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.19-15.24.21:965][825]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.24.21:965][825]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three43AD9BDE4D82C1AEBD69189197FC5D44.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.24.21:987][825]LogFileHelpers: No new changes to save!
+[2023.04.19-15.24.21:987][825]LogFileHelpers: Saving map 'Part_three' took 0.348
+[2023.04.19-15.24.21:987][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 348 ms (total: 15.6 sec)
+[2023.04.19-15.24.21:998][825]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.24.21:998][825]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.24.23:039][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-15.24.23:040][887]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Part_three
+[2023.04.19-15.24.23:041][887]LogWorld: UWorld::CleanupWorld for Part_three, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-15.24.23:050][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-15.24.23:054][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.19-15.24.23:059][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-15.24.23:069][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-15.24.23:073][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.19-15.24.23:075][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.19-15.24.23:100][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.19-15.24.23:249][888]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.19-15.24.24:599][966]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-15.24.24:604][966]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-15.26.21:095][373]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_500.T_Decal_500 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.26.21:250][377]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500
+[2023.04.19-15.26.21:250][377]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500
+[2023.04.19-15.26.21:251][377]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_126
+[2023.04.19-15.26.21:252][377]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_126
+[2023.04.19-15.26.22:740][500]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500
+[2023.04.19-15.26.22:740][500]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500
+[2023.04.19-15.26.22:744][500]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_127
+[2023.04.19-15.26.22:744][500]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_500.MI_Decal_500 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_127
+[2023.04.19-15.26.26:264][744]Cmd: TRANSACTION UNDO
+[2023.04.19-15.26.26:264][744]LogEditorTransaction: Undo Rotate Elements
+[2023.04.19-15.26.29:220][907]Cmd: TRANSACTION UNDO
+[2023.04.19-15.26.29:220][907]LogEditorTransaction: Undo Rotate Elements
+[2023.04.19-15.26.35:002][333]Cmd: DELETE
+[2023.04.19-15.26.35:002][333]Cmd: ACTOR DELETE
+[2023.04.19-15.26.35:033][333]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.26.35:045][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.19-15.26.35:048][333]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.04.19-15.26.36:414][444]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_499.T_Decal_499 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.26.36:494][446]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499
+[2023.04.19-15.26.36:494][446]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499
+[2023.04.19-15.26.36:495][446]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_128
+[2023.04.19-15.26.36:496][446]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_128
+[2023.04.19-15.26.37:539][547]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499
+[2023.04.19-15.26.37:539][547]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499
+[2023.04.19-15.26.37:543][547]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_129
+[2023.04.19-15.26.37:544][547]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_499.MI_Decal_499 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_129
+[2023.04.19-15.26.38:270][600]Cmd: TRANSACTION UNDO
+[2023.04.19-15.26.38:270][600]LogEditorTransaction: Undo Create Actors
+[2023.04.19-15.26.40:089][713]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_503.T_Decal_503 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.26.40:213][716]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.26.40:213][716]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.26.40:214][716]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_130
+[2023.04.19-15.26.40:215][716]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_130
+[2023.04.19-15.26.40:908][755]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.26.40:908][755]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503
+[2023.04.19-15.26.40:911][755]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_131
+[2023.04.19-15.26.40:912][755]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_503.MI_Decal_503 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_131
+[2023.04.19-15.26.58:943][180]Cmd: EDIT CUT
+[2023.04.19-15.26.58:978][180]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.26.58:989][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.19-15.26.58:992][180]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.04.19-15.27.09:880][828]Cmd: EDIT PASTE
+[2023.04.19-15.28.30:356][238]LogTexture: Display: Building textures: /Game/ResearchMegaPack/DecalPack/Textures/T_Decal_374.T_Decal_374 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.04.19-15.28.30:539][249]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374
+[2023.04.19-15.28.30:539][249]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374
+[2023.04.19-15.28.30:540][249]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_132
+[2023.04.19-15.28.30:541][249]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_132
+[2023.04.19-15.28.31:777][348]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374
+[2023.04.19-15.28.31:777][348]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374
+[2023.04.19-15.28.31:781][348]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_133
+[2023.04.19-15.28.31:781][348]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/ResearchMegaPack/DecalPack/Materials/Material_Instance/MI_Decal_374.MI_Decal_374 as actor: DecalActor /Game/ThirdPerson/Maps/Part_three.Part_three:PersistentLevel.DecalActor_133
+[2023.04.19-15.28.38:395][836]Cmd: TRANSACTION UNDO
+[2023.04.19-15.28.38:395][836]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.19-15.28.45:636][327]Cmd: DELETE
+[2023.04.19-15.28.45:636][327]Cmd: ACTOR DELETE
+[2023.04.19-15.28.45:666][327]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.28.45:677][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.19-15.28.45:680][327]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.04.19-15.29.22:390][740]Cmd: DELETE
+[2023.04.19-15.29.22:390][740]Cmd: ACTOR DELETE
+[2023.04.19-15.29.22:421][740]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.29.22:432][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.19-15.29.22:434][740]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.04.19-15.29.24:477][860]Cmd: DELETE
+[2023.04.19-15.29.24:477][860]Cmd: ACTOR DELETE
+[2023.04.19-15.29.24:506][860]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.29.24:518][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.19-15.29.24:520][860]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.04.19-15.29.31:932][319]Cmd: DELETE
+[2023.04.19-15.29.31:932][319]Cmd: ACTOR DELETE
+[2023.04.19-15.29.31:962][319]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.29.31:973][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.19-15.29.31:975][319]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.04.19-15.31.30:759][872]Cmd: DELETE
+[2023.04.19-15.31.30:759][872]Cmd: ACTOR DELETE
+[2023.04.19-15.31.30:789][872]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.31.30:803][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.19-15.31.30:805][872]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.04.19-15.31.35:886][170]Cmd: TRANSACTION UNDO
+[2023.04.19-15.31.35:887][170]LogEditorTransaction: Undo Delete Elements
+[2023.04.19-15.32.52:944][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.32.53:014][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.19-15.32.53:326][581]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.32.53:326][581]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three7C46927B407C90C9748A1D876A0E6280.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.32.53:348][581]LogFileHelpers: No new changes to save!
+[2023.04.19-15.32.53:348][581]LogFileHelpers: Saving map 'Part_three' took 0.349
+[2023.04.19-15.32.53:366][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 421 ms (total: 16.0 sec)
+[2023.04.19-15.32.53:371][581]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.32.53:371][581]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.33.00:694][ 37]Cmd: DELETE
+[2023.04.19-15.33.00:694][ 37]Cmd: ACTOR DELETE
+[2023.04.19-15.33.00:724][ 37]LogEditorActor: Deleted Actor: DecalActor
+[2023.04.19-15.33.00:737][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.19-15.33.00:739][ 37]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.04.19-15.33.02:044][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.33.02:114][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.19-15.33.02:423][148]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.33.02:423][148]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeE76FF17043C1FC33C620A09004D67DC4.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.33.02:445][148]LogFileHelpers: No new changes to save!
+[2023.04.19-15.33.02:445][148]LogFileHelpers: Saving map 'Part_three' took 0.345
+[2023.04.19-15.33.02:450][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 405 ms (total: 16.4 sec)
+[2023.04.19-15.33.02:461][148]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.33.02:462][148]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.33.18:261][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.33.18:312][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.19-15.33.18:628][471]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.33.18:628][471]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeDC0218A4424FA22FB8550290ED4D1108.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.33.18:649][471]LogFileHelpers: No new changes to save!
+[2023.04.19-15.33.18:649][471]LogFileHelpers: Saving map 'Part_three' took 0.351
+[2023.04.19-15.33.18:663][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 402 ms (total: 16.8 sec)
+[2023.04.19-15.33.18:669][471]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.33.18:669][471]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-15.33.44:933][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-15.33.44:979][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.19-15.33.45:295][107]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-15.33.45:295][107]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three93B641A04975A039034C25975C6C5DF9.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-15.33.45:317][107]LogFileHelpers: No new changes to save!
+[2023.04.19-15.33.45:317][107]LogFileHelpers: Saving map 'Part_three' took 0.352
+[2023.04.19-15.33.45:323][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 390 ms (total: 17.2 sec)
+[2023.04.19-15.33.45:336][107]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-15.33.45:336][107]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
