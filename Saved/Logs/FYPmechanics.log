@@ -2250,3 +2250,216 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.04.19-17.36.56:060][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 456 ms (total: 7.52 sec)
 [2023.04.19-17.36.56:071][632]AssetCheck: New page: Asset Save: Part_three
 [2023.04.19-17.36.56:071][632]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.37.50:109][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.37.50:180][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.19-17.37.50:556][218]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.37.50:557][218]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three4F06C03B40C0005D6625EB949082E740.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.37.50:580][218]LogFileHelpers: No new changes to save!
+[2023.04.19-17.37.50:580][218]LogFileHelpers: Saving map 'Part_three' took 0.413
+[2023.04.19-17.37.50:585][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 476 ms (total: 8.00 sec)
+[2023.04.19-17.37.50:597][218]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.37.50:597][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.39.15:465][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.39.15:545][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.19-17.39.15:899][524]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.39.15:899][524]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeC01A493E4D1F6D836D3AA4ACCA809175.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.39.15:920][524]LogFileHelpers: No new changes to save!
+[2023.04.19-17.39.15:920][524]LogFileHelpers: Saving map 'Part_three' took 0.387
+[2023.04.19-17.39.15:945][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 479 ms (total: 8.48 sec)
+[2023.04.19-17.39.15:957][524]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.39.15:957][524]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.39.18:316][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.39.18:393][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.04.19-17.39.18:748][676]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.39.18:748][676]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeE784977B41B6D0F9C8B280B87A81A767.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.39.18:781][676]LogFileHelpers: No new changes to save!
+[2023.04.19-17.39.18:782][676]LogFileHelpers: Saving map 'Part_three' took 0.399
+[2023.04.19-17.39.18:788][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 470 ms (total: 8.95 sec)
+[2023.04.19-17.39.18:799][676]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.39.18:799][676]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.40.38:602][165]LogShaderCompilers: Display: ================================================
+[2023.04.19-17.40.38:602][165]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-17.40.38:602][165]LogShaderCompilers: Display: Total job queries 994, among them cache hits 221 (22.23%)
+[2023.04.19-17.40.38:602][165]LogShaderCompilers: Display: Tracking 772 distinct input hashes that result in 345 distinct outputs (44.69%)
+[2023.04.19-17.40.38:602][165]LogShaderCompilers: Display: RAM used: 1.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.04.19-17.40.38:602][165]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Shaders Compiled: 27
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Jobs assigned 28, completed 27 (96.43%)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Average time worker was idle: 309.86 s
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Time job spent in pending queue: average 0.75 s, longest 2.21 s
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.33 s
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Job life time (pending + execution): average 1.64 s, max 2.92
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.95 s
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Average processing rate: 5.45 jobs/sec
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Total thread time: 18.08 s
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Total thread preprocess time: 1.15 s
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Percentage time preprocessing: 6.34%
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Effective parallelization: 3.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.26% of total time (compiled    2 times, average 0.57 sec, max 0.58 sec, min 0.55 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy - 5.36% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.27% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight - 5.27% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.99% of total time (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2023.04.19-17.40.38:603][165]LogShaderCompilers: Display: ================================================
+[2023.04.19-17.41.04:280][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.41.04:363][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.19-17.41.04:718][742]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.41.04:719][742]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three1ABADC9848F927E7A5A9CEAA3100DE3C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.41.04:740][742]LogFileHelpers: No new changes to save!
+[2023.04.19-17.41.04:740][742]LogFileHelpers: Saving map 'Part_three' took 0.390
+[2023.04.19-17.41.04:745][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 464 ms (total: 9.41 sec)
+[2023.04.19-17.41.04:757][742]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.41.04:757][742]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.42.33:112][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.42.33:180][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.19-17.42.33:550][344]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.42.33:550][344]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three1B835677498E5628B2A77E9936EF70D4.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.42.33:573][344]LogFileHelpers: No new changes to save!
+[2023.04.19-17.42.33:573][344]LogFileHelpers: Saving map 'Part_three' took 0.407
+[2023.04.19-17.42.33:585][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 473 ms (total: 9.89 sec)
+[2023.04.19-17.42.33:589][344]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.42.33:589][344]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.43.42:325][576]Cmd: TRANSACTION UNDO
+[2023.04.19-17.43.42:325][576]LogEditorTransaction: Undo Move Elements
+[2023.04.19-17.44.48:788][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.44.48:865][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.19-17.44.49:251][171]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.44.49:251][171]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeA19542CD4BD862DB2E30D88ADE28490B.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.44.49:276][171]LogFileHelpers: No new changes to save!
+[2023.04.19-17.44.49:276][171]LogFileHelpers: Saving map 'Part_three' took 0.424
+[2023.04.19-17.44.49:289][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 500 ms (total: 10.3 sec)
+[2023.04.19-17.44.49:293][171]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.44.49:293][171]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.45.18:277][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.45.18:331][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.19-17.45.18:711][891]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.45.18:711][891]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three6B6A8DF84027185095C808AE54AA6E60.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.45.18:736][891]LogFileHelpers: No new changes to save!
+[2023.04.19-17.45.18:736][891]LogFileHelpers: Saving map 'Part_three' took 0.418
+[2023.04.19-17.45.18:748][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 471 ms (total: 10.8 sec)
+[2023.04.19-17.45.18:752][891]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.45.18:752][891]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.45.26:819][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.45.26:879][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.19-17.45.27:236][690]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.45.27:237][690]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeA0DEA0E740A1F2D46F8242B6A71EFD90.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.45.27:258][690]LogFileHelpers: No new changes to save!
+[2023.04.19-17.45.27:258][690]LogFileHelpers: Saving map 'Part_three' took 0.391
+[2023.04.19-17.45.27:266][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 447 ms (total: 11.3 sec)
+[2023.04.19-17.45.27:278][690]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.45.27:278][690]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.48.04:725][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.48.04:801][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.19-17.48.05:165][233]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.48.05:166][233]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three9C73A51549BBF14DDC3E78B6B49F3A67.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.48.05:189][233]LogFileHelpers: No new changes to save!
+[2023.04.19-17.48.05:190][233]LogFileHelpers: Saving map 'Part_three' took 0.402
+[2023.04.19-17.48.05:210][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 485 ms (total: 11.7 sec)
+[2023.04.19-17.48.05:215][233]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.48.05:215][233]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.51.00:183][192]LogDerivedDataCache: C:/Users/s027702k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.076 and deleted 0 files with total size 0 MiB. Scanned 16662 files in 16061 folders with total size 1978 MiB.
+[2023.04.19-17.54.17:899][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.54.17:952][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.19-17.54.18:315][795]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.54.18:315][795]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three86E52AA742CB6F87556CB69AC2F5B050.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.54.18:339][795]LogFileHelpers: No new changes to save!
+[2023.04.19-17.54.18:340][795]LogFileHelpers: Saving map 'Part_three' took 0.401
+[2023.04.19-17.54.18:345][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 446 ms (total: 12.2 sec)
+[2023.04.19-17.54.18:350][795]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.54.18:350][795]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.54.50:386][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.54.50:451][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.19-17.54.50:805][923]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.54.50:806][923]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeDBFD4CC84B9CC4EE3E877FB530B80889.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.54.50:828][923]LogFileHelpers: No new changes to save!
+[2023.04.19-17.54.50:828][923]LogFileHelpers: Saving map 'Part_three' took 0.390
+[2023.04.19-17.54.50:854][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 468 ms (total: 12.7 sec)
+[2023.04.19-17.54.50:858][923]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.54.50:858][923]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-17.55.49:946][931]Cmd: TRANSACTION UNDO
+[2023.04.19-17.55.49:946][931]LogEditorTransaction: Undo Clicking on Elements
+[2023.04.19-17.58.55:157][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-17.58.55:241][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.19-17.58.55:613][ 96]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-17.58.55:614][ 96]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeA48F0A0B4E2E28595A2E5AB29A739F8C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-17.58.55:639][ 96]LogFileHelpers: No new changes to save!
+[2023.04.19-17.58.55:639][ 96]LogFileHelpers: Saving map 'Part_three' took 0.412
+[2023.04.19-17.58.55:644][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 486 ms (total: 13.1 sec)
+[2023.04.19-17.58.55:656][ 96]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-17.58.55:656][ 96]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-18.01.32:987][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-18.01.33:053][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.19-18.01.33:408][987]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-18.01.33:408][987]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeCC588E7340DF1BCB7337F59D34C4586C.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-18.01.33:430][987]LogFileHelpers: No new changes to save!
+[2023.04.19-18.01.33:430][987]LogFileHelpers: Saving map 'Part_three' took 0.390
+[2023.04.19-18.01.33:437][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 450 ms (total: 13.6 sec)
+[2023.04.19-18.01.33:442][987]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-18.01.33:442][987]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-18.01.54:375][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-18.01.54:437][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.19-18.01.54:790][426]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-18.01.54:790][426]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_three1B720FF44A524966BCDB538BE5F19BFC.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-18.01.54:812][426]LogFileHelpers: No new changes to save!
+[2023.04.19-18.01.54:812][426]LogFileHelpers: Saving map 'Part_three' took 0.387
+[2023.04.19-18.01.54:833][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 458 ms (total: 14.1 sec)
+[2023.04.19-18.01.54:838][426]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-18.01.54:838][426]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-18.04.18:228][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-18.04.18:308][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.19-18.04.18:663][629]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-18.04.18:663][629]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeDA21DF5947547661252358907A6E761F.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-18.04.18:686][629]LogFileHelpers: No new changes to save!
+[2023.04.19-18.04.18:686][629]LogFileHelpers: Saving map 'Part_three' took 0.392
+[2023.04.19-18.04.18:694][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 467 ms (total: 14.5 sec)
+[2023.04.19-18.04.18:706][629]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-18.04.18:706][629]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: ================================================
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Total job queries 1010, among them cache hits 223 (22.08%)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Tracking 787 distinct input hashes that result in 350 distinct outputs (44.47%)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: RAM used: 1.90 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Shaders Compiled: 38
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100.00%)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Average time worker was idle: 634.91 s
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Time job spent in pending queue: average 0.57 s, longest 2.21 s
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.33 s
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Job life time (pending + execution): average 1.44 s, max 2.92
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.13 s
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Average processing rate: 4.68 jobs/sec
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Total thread time: 26.18 s
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Total thread preprocess time: 1.66 s
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Percentage time preprocessing: 6.36%
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Effective parallelization: 3.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 15.60% of total time (compiled    5 times, average 0.82 sec, max 0.94 sec, min 0.61 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 14.79% of total time (compiled    5 times, average 0.77 sec, max 0.89 sec, min 0.55 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.61% of total time (compiled    3 times, average 0.66 sec, max 0.77 sec, min 0.59 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.53% of total time (compiled    3 times, average 0.57 sec, max 0.58 sec, min 0.55 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy - 3.70% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2023.04.19-18.06.37:359][134]LogShaderCompilers: Display: ================================================
+[2023.04.19-18.06.50:567][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.19-18.06.50:637][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.19-18.06.50:998][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Part_three
+[2023.04.19-18.06.50:999][956]LogSavePackage: Moving '../../../../../../Users/s027702k/Documents/GitHub/FYP/Saved/Part_threeEA25CCE448DF3CF4361C80ADBD11E193.tmp' to '../../../../../../Users/s027702k/Documents/GitHub/FYP/Content/ThirdPerson/Maps/Part_three.umap'
+[2023.04.19-18.06.51:022][956]LogFileHelpers: No new changes to save!
+[2023.04.19-18.06.51:022][956]LogFileHelpers: Saving map 'Part_three' took 0.397
+[2023.04.19-18.06.51:027][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 461 ms (total: 15.0 sec)
+[2023.04.19-18.06.51:040][956]AssetCheck: New page: Asset Save: Part_three
+[2023.04.19-18.06.51:040][956]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Part_three.Part_three
